@@ -10,4 +10,5 @@
 - [The Next Africa: An Emerging Continent Becomes a Global
   Powerhouse](https://www.amazon.com/Next-Africa-Emerging-Continent-Powerhouse-ebook/dp/B00PF818US)
 - [Thinking, Fast and Slow](https://www.amazon.com/dp/B00555X8OA)
-
+- [The Hard Thing About Hard
+  Things](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205)
