@@ -12,3 +12,6 @@
 - [Thinking, Fast and Slow](https://www.amazon.com/dp/B00555X8OA)
 - [The Hard Thing About Hard
   Things](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205)
+- [Design for Hackers: Reverse Engineering
+  Beauty](https://www.amazon.com/Design-Hackers-Reverse-Engineering-Beauty/dp/1119998956)
+
