@@ -14,4 +14,6 @@
   Things](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205)
 - [Design for Hackers: Reverse Engineering
   Beauty](https://www.amazon.com/Design-Hackers-Reverse-Engineering-Beauty/dp/1119998956)
+- [Traction: Get a Grip on Your
+  Business](https://www.amazon.com/dp/B007QWLLV2/)
 
