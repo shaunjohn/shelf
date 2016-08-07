@@ -16,4 +16,5 @@
   Beauty](https://www.amazon.com/Design-Hackers-Reverse-Engineering-Beauty/dp/1119998956)
 - [Traction: Get a Grip on Your
   Business](https://www.amazon.com/dp/B007QWLLV2/)
+- [JavaScript: The Good Parts](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
 
