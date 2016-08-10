@@ -18,5 +18,6 @@
   Business](https://www.amazon.com/dp/B007QWLLV2/)
 - [JavaScript: The Good Parts](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
 - [The Prophet](https://www.amazon.com/dp/0394404289/)
+- [Rebels at Work](https://www.amazon.com/dp/B00P9WL3WS/)
 
 
