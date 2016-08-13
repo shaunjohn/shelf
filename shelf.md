@@ -20,5 +20,5 @@
 - [The Prophet](https://www.amazon.com/dp/0394404289/)
 - [Rebels at Work](https://www.amazon.com/dp/B00P9WL3WS/)
 - [Essentials of Venture Capital](https://www.amazon.com/dp/B0047DWCOS/)
-
+- [Getting to Yes: Negotiating Agreement Without Giving In](https://www.amazon.com/dp/B001ROAK9E/)
 
