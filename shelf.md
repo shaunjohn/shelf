@@ -23,4 +23,6 @@
 - [Getting to Yes: Negotiating Agreement Without Giving In](https://www.amazon.com/dp/B001ROAK9E/)
 - [Moonshot!](https://www.amazon.com/dp/B00MV9C1SM/)
 - [Disrupted: My Misadventure in the Startup Bubble](https://www.amazon.com/Disrupted-My-Misadventure-Start-Up-Bubble-ebook/dp/B013CATZIC)
+- [Give and Take: Why Helping Others Drives Our
+  Success](https://www.amazon.com/dp/B00AFPTSI0)
 
