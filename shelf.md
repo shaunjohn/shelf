@@ -25,4 +25,7 @@
 - [Disrupted: My Misadventure in the Startup Bubble](https://www.amazon.com/Disrupted-My-Misadventure-Start-Up-Bubble-ebook/dp/B013CATZIC)
 - [Give and Take: Why Helping Others Drives Our
   Success](https://www.amazon.com/dp/B00AFPTSI0)
+- [The Start-up of You: Adapt to the Future, Invest in Yourself, and Transform Your Career](https://www.amazon.com/Start-up-You-Future-Yourself-Transform-ebook/dp/B0050DIWHU)
+- [Zen and the Art of Motorcycle Maintenance: An Inquiry Into
+  Values](https://www.amazon.com/dp/B0026772N8/)
 
