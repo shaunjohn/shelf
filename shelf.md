@@ -1,4 +1,4 @@
-#SHELF
+SHELF
 ##*A Running Doc of Good Reads*
 
 - [Antifragile](https://www.amazon.com/dp/B0083DJWGO/)
@@ -28,4 +28,5 @@
 - [The Start-up of You: Adapt to the Future, Invest in Yourself, and Transform Your Career](https://www.amazon.com/Start-up-You-Future-Yourself-Transform-ebook/dp/B0050DIWHU)
 - [Zen and the Art of Motorcycle Maintenance: An Inquiry Into
   Values](https://www.amazon.com/dp/B0026772N8/)
+- [The 10X Rule: The Only Difference Between Success and Failure](https://www.amazon.com/dp/B004X75OES/)
 
