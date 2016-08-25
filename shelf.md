@@ -29,4 +29,6 @@ SHELF
 - [Zen and the Art of Motorcycle Maintenance: An Inquiry Into
   Values](https://www.amazon.com/dp/B0026772N8/)
 - [The 10X Rule: The Only Difference Between Success and Failure](https://www.amazon.com/dp/B004X75OES/)
+- [Hooked: How to Build Habit-Forming
+  Products](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products-ebook/dp/B00HJ4A43S)
 
