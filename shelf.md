@@ -33,4 +33,6 @@ SHELF
   Products](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products-ebook/dp/B00HJ4A43S)
 - [Influence: The Psycology of
   Persuasion](https://www.amazon.com/gp/product/006124189X/)
+- [The Smarter Startup: A Better Approach to Online Businesses for
+  Enterpreneurs](https://www.amazon.com/dp/B00BM5VUTW/)
 
