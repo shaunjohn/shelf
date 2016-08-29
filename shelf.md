@@ -35,4 +35,6 @@ SHELF
   Persuasion](https://www.amazon.com/gp/product/006124189X/)
 - [The Smarter Startup: A Better Approach to Online Businesses for
   Enterpreneurs](https://www.amazon.com/dp/B00BM5VUTW/)
+- [Originals: How Non-Conformists Move the
+  World](https://www.amazon.com/Originals-How-Non-Conformists-Move-World/dp/0525429565/)
 
