@@ -38,4 +38,6 @@ SHELF
 - [Originals: How Non-Conformists Move the
   World](https://www.amazon.com/Originals-How-Non-Conformists-Move-World/dp/0525429565/)
 - [Running Lean: Iterate from Plan A to a Plan That Works](https://www.amazon.com/Running-Lean-Iterate-Works-OReilly/dp/1449305172)
+- [Startup Communities: Building an Entrepreneurial Ecosystem in
+  Your City](https://www.amazon.com/dp/B008UV826U/)
 
