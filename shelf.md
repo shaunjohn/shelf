@@ -41,4 +41,6 @@ SHELF
 - [Startup Communities: Building an Entrepreneurial Ecosystem in
   Your City](https://www.amazon.com/dp/B008UV826U/)
 - [Exponential Organizations: Why new organizations are ten times better faster, and cheaper than yours](https://www.amazon.com/Exponential-Organizations-organizations-better-cheaper-ebook/dp/B00OO8ZGC6/)
+- [Tribal Leadership: Leveraging Natural Groups to Build a Thriving
+  Organization](https://www.amazon.com/gp/product/B006IDG1K6/)
 
