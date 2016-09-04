@@ -45,4 +45,7 @@ SHELF
   Organization](https://www.amazon.com/gp/product/B006IDG1K6/)
 - [Jab, Jab, Jab, Right Hook: How to Tell Your Story in a Noisy Social
   World](https://www.amazon.com/dp/B00BATNNZY/)
+- [So Good They Can't Ignore You: Why Skills Trump Passion in the Quest
+  for Work You
+Love](https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124/)
 
