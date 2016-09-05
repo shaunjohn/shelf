@@ -48,4 +48,5 @@ SHELF
 - [So Good They Can't Ignore You: Why Skills Trump Passion in the Quest
   for Work You
 Love](https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124/)
+- [Sam Walton: Made In America](https://www.amazon.com/gp/product/0553562835/)
 
