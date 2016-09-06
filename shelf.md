@@ -49,4 +49,6 @@ SHELF
   for Work You
 Love](https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124/)
 - [Sam Walton: Made In America](https://www.amazon.com/gp/product/0553562835/)
+- [Clean Code: A Handbook of Agile Software
+  Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 
