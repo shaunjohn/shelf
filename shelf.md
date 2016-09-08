@@ -40,6 +40,6 @@ SHELF
 Love](https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124/)
 - [Sam Walton: Made In America](https://www.amazon.com/gp/product/0553562835/)
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
-- [The Five Dysfunctions of a Team: A Leadership
-  Fable](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756)
+- [The Five Dysfunctions of a Team: A Leadership Fable](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756)
+- [Don't Dumb Down Your Greatness](https://www.amazon.com/Dont-Dumb-Down-Your-Greatness/dp/0692671870/)
 
