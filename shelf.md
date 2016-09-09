@@ -42,4 +42,7 @@ Love](https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124/)
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 - [The Five Dysfunctions of a Team: A Leadership Fable](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756)
 - [Don't Dumb Down Your Greatness: A Young Entrepreneur's Guide to Thinking & Being Great](https://www.amazon.com/Dont-Dumb-Down-Your-Greatness/dp/0692671870/)
+- [Smart and Gets Things Done: Joel Spolsky's Concise Guide to Finding
+  the Best Technical
+Talent](https://www.amazon.com/Smart-Gets-Things-Done-Technical/dp/1590598385)
 
