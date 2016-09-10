@@ -1,19 +1,19 @@
 SHELF
 ##*A Running Doc of Good Reads*
 
-- [Antifragile](https://www.amazon.com/dp/B0083DJWGO/)
+- [Antifragile: Things That Gain from Disorder](https://www.amazon.com/dp/B0083DJWGO/)
 - [Smartcuts: How Hackers, Innovators, and Icons Accelerate Success](https://www.amazon.com/dp/B00IHZUTGA/)
 - [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654/)
 - [The Startup Checklist: 25 Steps to a Scalable, High-Growth Business](https://www.amazon.com/dp/B01CO2N85U/)
 - [Monetizing Innovation: How Smart Companies Design the Product Around the Price](https://www.amazon.com/Monetizing-Innovation-Companies-Design-Product/dp/1119240867/)
 - [The Next Africa: An Emerging Continent Becomes a Global Powerhouse](https://www.amazon.com/Next-Africa-Emerging-Continent-Powerhouse-ebook/dp/B00PF818US)
 - [Thinking, Fast and Slow](https://www.amazon.com/dp/B00555X8OA)
-- [The Hard Thing About Hard Things](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205)
+- [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205)
 - [Design for Hackers: Reverse Engineering Beauty](https://www.amazon.com/Design-Hackers-Reverse-Engineering-Beauty/dp/1119998956)
 - [Traction: Get a Grip on Your Business](https://www.amazon.com/dp/B007QWLLV2/)
 - [JavaScript: The Good Parts](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
 - [The Prophet](https://www.amazon.com/dp/0394404289/)
-- [Rebels at Work](https://www.amazon.com/dp/B00P9WL3WS/)
+- [Rebels at Work: A Handbook for Leading Change from Within](https://www.amazon.com/dp/B00P9WL3WS/)
 - [Essentials of Venture Capital](https://www.amazon.com/dp/B0047DWCOS/)
 - [Getting to Yes: Negotiating Agreement Without Giving In](https://www.amazon.com/dp/B001ROAK9E/)
 - [Moonshot!](https://www.amazon.com/dp/B00MV9C1SM/)
