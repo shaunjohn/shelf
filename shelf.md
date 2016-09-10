@@ -45,4 +45,6 @@ Love](https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124/)
 - [Smart and Gets Things Done: Joel Spolsky's Concise Guide to Finding
   the Best Technical
 Talent](https://www.amazon.com/Smart-Gets-Things-Done-Technical/dp/1590598385)
+- [Smarter Faster Better: The Secrets of Being Productive in Life and
+  Business](https://www.amazon.com/Smarter-Faster-Better-Productive-Business-ebook/dp/B00Z3FRYB0)
 
