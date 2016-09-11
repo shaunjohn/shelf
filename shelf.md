@@ -47,4 +47,5 @@ Love](https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124/)
 Talent](https://www.amazon.com/Smart-Gets-Things-Done-Technical/dp/1590598385)
 - [Smarter Faster Better: The Secrets of Being Productive in Life and
   Business](https://www.amazon.com/Smarter-Faster-Better-Productive-Business-ebook/dp/B00Z3FRYB0)
+- [The One Minute Manager](https://www.amazon.com/Minute-Manager-Kenneth-Blanchard-Ph-D/dp/074350917X)
 
