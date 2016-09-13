@@ -51,4 +51,5 @@ Talent](https://www.amazon.com/Smart-Gets-Things-Done-Technical/dp/1590598385)
 - [Technological Revolutions and Financial Capital: The Dynamics of
   Bubbles and Golden
 Ages](https://www.amazon.com/Technological-Revolutions-Financial-Capital-Dynamics/dp/1843763311)
+- [Management: Tasks, Responsibilities, Practices](https://www.amazon.com/dp/B000FC12PU/)
 
