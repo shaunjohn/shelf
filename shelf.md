@@ -52,4 +52,5 @@ Talent](https://www.amazon.com/Smart-Gets-Things-Done-Technical/dp/1590598385)
   Bubbles and Golden
 Ages](https://www.amazon.com/Technological-Revolutions-Financial-Capital-Dynamics/dp/1843763311)
 - [Management: Tasks, Responsibilities, Practices](https://www.amazon.com/dp/B000FC12PU/)
+- [Start with Why: How Great Leaders Inspire Everyone to Take Action](https://www.amazon.com/gp/product/1591846447/)
 
