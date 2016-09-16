@@ -55,4 +55,5 @@ Ages](https://www.amazon.com/Technological-Revolutions-Financial-Capital-Dynamic
 - [Start with Why: How Great Leaders Inspire Everyone to Take Action](https://www.amazon.com/gp/product/1591846447/)
 - [First, Break All the Rules: What the World's Greatest Managers Do
   Differently](https://www.amazon.com/dp/B01E7M6INO/)
+- [Multipliers: How the Best Leaders Make Everyone Smarter](https://www.amazon.com/dp/B003M69A4Q/)
 
