@@ -56,4 +56,6 @@ Ages](https://www.amazon.com/Technological-Revolutions-Financial-Capital-Dynamic
 - [First, Break All the Rules: What the World's Greatest Managers Do
   Differently](https://www.amazon.com/dp/B01E7M6INO/)
 - [Multipliers: How the Best Leaders Make Everyone Smarter](https://www.amazon.com/dp/B003M69A4Q/)
+- [Compelling People: The Hidden Qualities That Make Us
+  Influential](https://www.amazon.com/dp/B00BWVKM68/)
 
