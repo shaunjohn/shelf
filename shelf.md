@@ -58,4 +58,5 @@ Ages](https://www.amazon.com/Technological-Revolutions-Financial-Capital-Dynamic
 - [Multipliers: How the Best Leaders Make Everyone Smarter](https://www.amazon.com/dp/B003M69A4Q/)
 - [Compelling People: The Hidden Qualities That Make Us
   Influential](https://www.amazon.com/dp/B00BWVKM68/)
+- [Contagious: Why Things Catch On](https://www.amazon.com/dp/B008J4GQKW/)
 
