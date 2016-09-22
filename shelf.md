@@ -59,9 +59,6 @@ Ages](https://www.amazon.com/Technological-Revolutions-Financial-Capital-Dynamic
 - [Compelling People: The Hidden Qualities That Make Us
   Influential](https://www.amazon.com/dp/B00BWVKM68/)
 - [Contagious: Why Things Catch On](https://www.amazon.com/dp/B008J4GQKW/)
-- [Smart and Gets Things Done: Joel Spolsky's Concise Guide to Finding
-  the Best Technical
-Talent](https://www.amazon.com/Smart-Gets-Things-Done-Technical/dp/1590598385)
 - [The Challenger Sale: Taking Control of the Customer
   Conversation](https://www.amazon.com/dp/B0052REP7K/)
 - [Kill the Company: End the Status Quo, Start an Innovation
