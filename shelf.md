@@ -63,4 +63,6 @@ Ages](https://www.amazon.com/Technological-Revolutions-Financial-Capital-Dynamic
   Conversation](https://www.amazon.com/dp/B0052REP7K/)
 - [Kill the Company: End the Status Quo, Start an Innovation
   Revolution](https://www.amazon.com/dp/B007QIKC84/)
+- [Peak: Secrets from the New Science of
+  Expertise](https://www.amazon.com/dp/B011H56MKS/)
 
