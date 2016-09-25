@@ -67,4 +67,6 @@ Ages](https://www.amazon.com/Technological-Revolutions-Financial-Capital-Dynamic
   Expertise](https://www.amazon.com/dp/B011H56MKS/)
 - [Innovation and
   Entrepreneurship](https://www.amazon.com/Innovation-Entrepreneurship-Peter-F-Drucker/dp/0887306187/)
+- [Bold: How to Go Big, Create Wealth and Impact the
+  World](https://www.amazon.com/Bold-Create-Wealth-Impact-World/dp/1476709580/)
 
