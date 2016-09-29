@@ -71,4 +71,10 @@ Ages](https://www.amazon.com/Technological-Revolutions-Financial-Capital-Dynamic
   World](https://www.amazon.com/Bold-Create-Wealth-Impact-World/dp/1476709580/)
 - [Funky Business: Talent Makes Capital
   Dance](https://www.amazon.com/Funky-Business-Talent-Makes-Capital/dp/0273645919/)
+- [The Innovation Book: How to Manage Ideas and Execution for
+  Outstanding Result](https://www.amazon.com/dp/B00MFGFH6Y/)
+- [The Innovation Book: How to Manage Ideas and Execution for
+  Outstanding Result](https://www.amazon.com/dp/B00MFGFH6Y/)
+- [The Innovation Book: How to Manage Ideas and Execution for
+  Outstanding Result](https://www.amazon.com/dp/B00MFGFH6Y/)
 
