@@ -79,4 +79,6 @@ Ages](https://www.amazon.com/Technological-Revolutions-Financial-Capital-Dynamic
   Outstanding Result](https://www.amazon.com/dp/B00MFGFH6Y/)
 - [How Not to Be Wrong: The Power of Mathematical
   Thinking](https://www.amazon.com/dp/B00G3L6JQ4/)
+- [Disrupt: Think the Unthinkable to Spark Transformation in Your
+  Business](https://www.amazon.com/gp/product/0137025149)
 
