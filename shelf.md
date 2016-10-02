@@ -85,4 +85,6 @@ Ages](https://www.amazon.com/Technological-Revolutions-Financial-Capital-Dynamic
   Creativity, Innovation, and Sustainability: How to Transform and Lead
 in the Age of Creativity, Innovation and
 Sustainability](https://www.amazon.com/dp/B00HSO0YIE/)
+- [Hacking: The Art of
+  Exploitation](https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441]
 
