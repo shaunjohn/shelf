@@ -90,4 +90,6 @@ Sustainability](https://www.amazon.com/dp/B00HSO0YIE/)
 - [The Magic of Thinking Big](https://www.amazon.com/dp/B00NGZIR92/)
 - [Lucky Or Smart? Fifty Pages for the First-Time
   Entrepreneur](https://www.amazon.com/gp/product/1439210101/)
+- [Algorithms to Live By: The Computer Science of Human
+  Decisions](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365)
 
