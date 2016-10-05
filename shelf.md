@@ -88,3 +88,6 @@ Sustainability](https://www.amazon.com/dp/B00HSO0YIE/)
 - [Hacking: The Art of
   Exploitation](https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441)
 - [The Magic of Thinking Big](https://www.amazon.com/dp/B00NGZIR92/)
+- [Lucky Or Smart? Fifty Pages for the First-Time
+  Entrepreneur](https://www.amazon.com/gp/product/1439210101/)
+
