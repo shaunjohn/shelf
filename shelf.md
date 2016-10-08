@@ -92,4 +92,7 @@ Sustainability](https://www.amazon.com/dp/B00HSO0YIE/)
   Entrepreneur](https://www.amazon.com/gp/product/1439210101/)
 - [Algorithms to Live By: The Computer Science of Human
   Decisions](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365)
+- [Pitch Anything: An Innovative Method for Presenting, Persuading, and
+  Winning the
+Deal](https://www.amazon.com/Pitch-Anything-Innovative-Presenting-Persuading/dp/0071752854)
 
