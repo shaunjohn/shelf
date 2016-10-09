@@ -95,4 +95,7 @@ Sustainability](https://www.amazon.com/dp/B00HSO0YIE/)
 - [Pitch Anything: An Innovative Method for Presenting, Persuading, and
   Winning the
 Deal](https://www.amazon.com/Pitch-Anything-Innovative-Presenting-Persuading/dp/0071752854)
+- [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to
+  Living a Good
+Life](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713)
 
