@@ -72,17 +72,12 @@ Ages](https://www.amazon.com/Technological-Revolutions-Financial-Capital-Dynamic
 - [Funky Business: Talent Makes Capital
   Dance](https://www.amazon.com/Funky-Business-Talent-Makes-Capital/dp/0273645919/)
 - [The Innovation Book: How to Manage Ideas and Execution for
-  Outstanding Result](https://www.amazon.com/dp/B00MFGFH6Y/)
-- [The Innovation Book: How to Manage Ideas and Execution for
-  Outstanding Result](https://www.amazon.com/dp/B00MFGFH6Y/)
-- [The Innovation Book: How to Manage Ideas and Execution for
-  Outstanding Result](https://www.amazon.com/dp/B00MFGFH6Y/)
+  Outstanding Results](https://www.amazon.com/dp/B00MFGFH6Y/)
 - [How Not to Be Wrong: The Power of Mathematical
   Thinking](https://www.amazon.com/dp/B00G3L6JQ4/)
 - [Disrupt: Think the Unthinkable to Spark Transformation in Your
   Business](https://www.amazon.com/gp/product/0137025149)
-- [Everything Connects: How to Transform and Lead in the Age of
-  Creativity, Innovation, and Sustainability: How to Transform and Lead
+- [Everything Connects: How to Transform and Lead
 in the Age of Creativity, Innovation and
 Sustainability](https://www.amazon.com/dp/B00HSO0YIE/)
 - [Hacking: The Art of
