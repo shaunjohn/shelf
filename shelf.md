@@ -97,7 +97,9 @@ Sustainability](https://www.amazon.com/dp/B00HSO0YIE/)
 Deal](https://www.amazon.com/Pitch-Anything-Innovative-Presenting-Persuading/dp/0071752854)
 - [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to
   Living a Good
-Life](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713)
+Life](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713)*
 - [The Marshmallow Test: Why Self-Control Is the Engine of
   Success](https://www.amazon.com/Marshmallow-Test-Self-Control-Engine-Success/dp/0316230863/ref=sr_1_1?ie=UTF8&qid=1476054465&sr=8-1&keywords=marshmallow+test+book)
+- [Designing Your Life: How to Build a Well-Lived, Joyful
+  Life](https://www.amazon.com/Designing-Your-Life-Well-Lived-Joyful/dp/1101875321/)
 
