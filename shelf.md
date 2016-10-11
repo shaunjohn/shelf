@@ -97,4 +97,6 @@ Life](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/006245771
   Success](https://www.amazon.com/Marshmallow-Test-Self-Control-Engine-Success/dp/0316230863/ref=sr_1_1?ie=UTF8&qid=1476054465&sr=8-1&keywords=marshmallow+test+book)
 - [Designing Your Life: How to Build a Well-Lived, Joyful
   Life](https://www.amazon.com/Designing-Your-Life-Well-Lived-Joyful/dp/1101875321/)
+- [The Open Innovation Revolution: Essentials, Roadblocks, and Leadership
+Skills](https://www.amazon.com/Open-Innovation-Revolution-Essentials-Roadblocks/dp/0470604395)
 
