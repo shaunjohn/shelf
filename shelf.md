@@ -101,4 +101,6 @@ Life](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/006245771
 Skills](https://www.amazon.com/Open-Innovation-Revolution-Essentials-Roadblocks/dp/0470604395)
 - [Diffusion of
   Innovations](https://www.amazon.com/Diffusion-Innovations-5th-Everett-Rogers/dp/0743222091)
+- [Data Smart: Using Data Science to Transform Information into
+  Insight](https://www.amazon.com/gp/product/111866146X/)
 
