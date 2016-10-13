@@ -99,4 +99,6 @@ Life](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/006245771
   Life](https://www.amazon.com/Designing-Your-Life-Well-Lived-Joyful/dp/1101875321/)
 - [The Open Innovation Revolution: Essentials, Roadblocks, and Leadership
 Skills](https://www.amazon.com/Open-Innovation-Revolution-Essentials-Roadblocks/dp/0470604395)
+- [Diffusion of
+  Innovations](https://www.amazon.com/Diffusion-Innovations-5th-Everett-Rogers/dp/0743222091)
 
