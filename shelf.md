@@ -103,4 +103,7 @@ Skills](https://www.amazon.com/Open-Innovation-Revolution-Essentials-Roadblocks/
   Innovations](https://www.amazon.com/Diffusion-Innovations-5th-Everett-Rogers/dp/0743222091)
 - [Data Smart: Using Data Science to Transform Information into
   Insight](https://www.amazon.com/gp/product/111866146X/)
+- [The First 90 Days, Updated and Expanded: Proven Strategies for
+  Getting Up to Speed Faster and
+Smarter](https://www.amazon.com/First-Days-Updated-Expanded-Strategies-ebook/dp/B00B6U63ZE)
 
