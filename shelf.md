@@ -106,4 +106,4 @@ Skills](https://www.amazon.com/Open-Innovation-Revolution-Essentials-Roadblocks/
 - [The First 90 Days, Updated and Expanded: Proven Strategies for
   Getting Up to Speed Faster and
 Smarter](https://www.amazon.com/First-Days-Updated-Expanded-Strategies-ebook/dp/B00B6U63ZE)
-
+- [Mindfulness: An Eight-Week Plan for Finding Peace in a Frantic World](https://www.amazon.com/Mindfulness-Eight-Week-Finding-Peace-Frantic/dp/1609618955)
