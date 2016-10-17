@@ -107,3 +107,6 @@ Skills](https://www.amazon.com/Open-Innovation-Revolution-Essentials-Roadblocks/
   Getting Up to Speed Faster and
 Smarter](https://www.amazon.com/First-Days-Updated-Expanded-Strategies-ebook/dp/B00B6U63ZE)
 - [Mindfulness: An Eight-Week Plan for Finding Peace in a Frantic World](https://www.amazon.com/Mindfulness-Eight-Week-Finding-Peace-Frantic/dp/1609618955)
+- [Snipers, Shills, and Sharks: eBay and Human
+  Behavior](https://www.amazon.com/Snipers-Shills-Sharks-Human-Behavior/dp/0691127131)
+
