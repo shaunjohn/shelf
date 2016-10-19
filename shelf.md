@@ -109,4 +109,5 @@ Smarter](https://www.amazon.com/First-Days-Updated-Expanded-Strategies-ebook/dp/
 - [Mindfulness: An Eight-Week Plan for Finding Peace in a Frantic World](https://www.amazon.com/Mindfulness-Eight-Week-Finding-Peace-Frantic/dp/1609618955)
 - [Snipers, Shills, and Sharks: eBay and Human
   Behavior](https://www.amazon.com/Snipers-Shills-Sharks-Human-Behavior/dp/0691127131)
+- [Learning From Data](https://www.amazon.com/gp/product/1600490069/)
 
