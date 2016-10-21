@@ -110,4 +110,6 @@ Smarter](https://www.amazon.com/First-Days-Updated-Expanded-Strategies-ebook/dp/
 - [Snipers, Shills, and Sharks: eBay and Human
   Behavior](https://www.amazon.com/Snipers-Shills-Sharks-Human-Behavior/dp/0691127131)
 - [Learning From Data](https://www.amazon.com/gp/product/1600490069/)
+- [Leapfrogging: Harness the Power of Surprise for Business
+  Breakthrough](https://www.amazon.com/gp/product/1609944941/)
 
