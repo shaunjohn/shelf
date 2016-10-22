@@ -113,4 +113,7 @@ Smarter](https://www.amazon.com/First-Days-Updated-Expanded-Strategies-ebook/dp/
 - [Leapfrogging: Harness the Power of Surprise for Business
   Breakthrough](https://www.amazon.com/gp/product/1609944941/)
 - [The Power of Broke: How Empty Pockets, a Tight Budget, and a Hunger for Success Can Become Your Greatest Competitive Advantage](https://www.amazon.com/Power-Broke-Greatest-Competitive-Advantage-ebook/dp/B00WPQHK14)
+- [The Art of Innovation: Lessons in Creativity from IDEO, America's
+  Leading Design
+Firm](https://www.amazon.com/Art-Innovation-Lessons-Creativity-Americas/dp/0385499841)
 
