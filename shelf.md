@@ -118,4 +118,7 @@ Smarter](https://www.amazon.com/First-Days-Updated-Expanded-Strategies-ebook/dp/
 Firm](https://www.amazon.com/Art-Innovation-Lessons-Creativity-Americas/dp/0385499841)
 - [The Introvert Advantage: How Quiet People Can Thrive in an Extrovert
   World](https://www.amazon.com/Introvert-Advantage-People-Thrive-Extrovert/dp/0761123695)
+- [Change by Design: How Design Thinking Transforms Organizations and
+Inspires
+Innovation](https://www.amazon.com/Change-Design-Transforms-Organizations-Innovation/dp/0061766089)
 
