@@ -116,4 +116,6 @@ Smarter](https://www.amazon.com/First-Days-Updated-Expanded-Strategies-ebook/dp/
 - [The Art of Innovation: Lessons in Creativity from IDEO, America's
   Leading Design
 Firm](https://www.amazon.com/Art-Innovation-Lessons-Creativity-Americas/dp/0385499841)
+- [The Introvert Advantage: How Quiet People Can Thrive in an Extrovert
+  World](https://www.amazon.com/Introvert-Advantage-People-Thrive-Extrovert/dp/0761123695)
 
