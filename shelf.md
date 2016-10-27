@@ -101,24 +101,20 @@ Life](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/006245771
 Skills](https://www.amazon.com/Open-Innovation-Revolution-Essentials-Roadblocks/dp/0470604395)
 - [Diffusion of
   Innovations](https://www.amazon.com/Diffusion-Innovations-5th-Everett-Rogers/dp/0743222091)
-- [Data Smart: Using Data Science to Transform Information into
-  Insight](https://www.amazon.com/gp/product/111866146X/)
-- [The First 90 Days, Updated and Expanded: Proven Strategies for
-  Getting Up to Speed Faster and
-Smarter](https://www.amazon.com/First-Days-Updated-Expanded-Strategies-ebook/dp/B00B6U63ZE)
+- [Data Smart: Using Data Science to Transform Information into Insight](https://www.amazon.com/gp/product/111866146X/)
+- [The First 90 Days, Updated and Expanded: Proven Strategies for Getting Up to Speed Faster and Smarter](https://www.amazon.com/First-Days-Updated-Expanded-Strategies-ebook/dp/B00B6U63ZE)
 - [Mindfulness: An Eight-Week Plan for Finding Peace in a Frantic World](https://www.amazon.com/Mindfulness-Eight-Week-Finding-Peace-Frantic/dp/1609618955)
-- [Snipers, Shills, and Sharks: eBay and Human
-  Behavior](https://www.amazon.com/Snipers-Shills-Sharks-Human-Behavior/dp/0691127131)
+- [Snipers, Shills, and Sharks: eBay and Human Behavior](https://www.amazon.com/Snipers-Shills-Sharks-Human-Behavior/dp/0691127131)
 - [Learning From Data](https://www.amazon.com/gp/product/1600490069/)
-- [Leapfrogging: Harness the Power of Surprise for Business
-  Breakthrough](https://www.amazon.com/gp/product/1609944941/)
+- [Leapfrogging: Harness the Power of Surprise for Business Breakthrough](https://www.amazon.com/gp/product/1609944941/)
 - [The Power of Broke: How Empty Pockets, a Tight Budget, and a Hunger for Success Can Become Your Greatest Competitive Advantage](https://www.amazon.com/Power-Broke-Greatest-Competitive-Advantage-ebook/dp/B00WPQHK14)
 - [The Art of Innovation: Lessons in Creativity from IDEO, America's
-  Leading Design
-Firm](https://www.amazon.com/Art-Innovation-Lessons-Creativity-Americas/dp/0385499841)
+  Leading Design Firm](https://www.amazon.com/Art-Innovation-Lessons-Creativity-Americas/dp/0385499841)
 - [The Introvert Advantage: How Quiet People Can Thrive in an Extrovert
   World](https://www.amazon.com/Introvert-Advantage-People-Thrive-Extrovert/dp/0761123695)
 - [Change by Design: How Design Thinking Transforms Organizations and
-Inspires
-Innovation](https://www.amazon.com/Change-Design-Transforms-Organizations-Innovation/dp/0061766089)
+Inspires Innovation](https://www.amazon.com/Change-Design-Transforms-Organizations-Innovation/dp/0061766089)
+- [Creative Confidence: Unleashing the Creative Potential Within Us
+  All](https://www.amazon.com/Creative-Confidence-Unleashing-Potential-Within/dp/038534936X)
+
 
