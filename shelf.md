@@ -116,5 +116,8 @@ Skills](https://www.amazon.com/Open-Innovation-Revolution-Essentials-Roadblocks/
 Inspires Innovation](https://www.amazon.com/Change-Design-Transforms-Organizations-Innovation/dp/0061766089)
 - [Creative Confidence: Unleashing the Creative Potential Within Us
   All](https://www.amazon.com/Creative-Confidence-Unleashing-Potential-Within/dp/038534936X)
+- [Think Big, Start Small, Move Fast: A Blueprint for Transformation
+  from the Mayo Clinic Center for
+Innovation](https://www.amazon.com/Think-Start-Small-Move-Fast/dp/007183866X)
 
 
