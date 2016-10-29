@@ -119,5 +119,7 @@ Inspires Innovation](https://www.amazon.com/Change-Design-Transforms-Organizatio
 - [Think Big, Start Small, Move Fast: A Blueprint for Transformation
   from the Mayo Clinic Center for
 Innovation](https://www.amazon.com/Think-Start-Small-Move-Fast/dp/007183866X)
+- [Cultural Strategy: Using Innovative Ideologies to Build Breakthrough
+  Brands](https://www.amazon.com/Cultural-Strategy-Innovative-Ideologies-Breakthrough/dp/0199655855)
 
 
