@@ -122,5 +122,5 @@ Innovation](https://www.amazon.com/Think-Start-Small-Move-Fast/dp/007183866X)
 - [Cultural Strategy: Using Innovative Ideologies to Build Breakthrough
   Brands](https://www.amazon.com/Cultural-Strategy-Innovative-Ideologies-Breakthrough/dp/0199655855)
 - [How to Kill a Unicorn: How the World's Hottest Innovation Factory Builds Bold Ideas That Make It to Market](https://www.amazon.com/How-Kill-Unicorn-Hottest-Innovation/dp/0804138737)
-
+- [Competing Against Luck: The Story of Innovation and Customer Choice](https://www.amazon.com/Competing-Against-Luck-Innovation-Customer/dp/0062565230)
 
