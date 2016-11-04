@@ -129,4 +129,7 @@ Innovation](https://www.amazon.com/Think-Start-Small-Move-Fast/dp/007183866X)
   Growth](https://www.amazon.com/Jugaad-Innovation-Flexible-Generate-Breakthrough/dp/1118249747)
 - [Sustainable Innovation: Build Your Company’s Capacity to Change the
   World](https://www.amazon.com/Sustainable-Innovation-Company%C2%92s-Capacity-Technology/dp/080479250X)
+- [Innovation Equity: Assessing and Managing the Monetary Value of New
+  Products and
+Services](https://www.amazon.com/Innovation-Equity-Assessing-Managing-Monetary/dp/0226618293)
 
