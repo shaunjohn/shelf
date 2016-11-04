@@ -127,4 +127,6 @@ Innovation](https://www.amazon.com/Think-Start-Small-Move-Fast/dp/007183866X)
   Cases](https://www.amazon.com/gp/product/1118156307/)
 - [Jugaad Innovation: Think Frugal, Be Flexible, Generate Breakthrough
   Growth](https://www.amazon.com/Jugaad-Innovation-Flexible-Generate-Breakthrough/dp/1118249747)
+- [Sustainable Innovation: Build Your Company’s Capacity to Change the
+  World](https://www.amazon.com/Sustainable-Innovation-Company%C2%92s-Capacity-Technology/dp/080479250X)
 
