@@ -132,4 +132,6 @@ Innovation](https://www.amazon.com/Think-Start-Small-Move-Fast/dp/007183866X)
 - [Innovation Equity: Assessing and Managing the Monetary Value of New
   Products and
 Services](https://www.amazon.com/Innovation-Equity-Assessing-Managing-Monetary/dp/0226618293)
+- [Disrupt Yourself: Putting the Power of Disruptive Innovation to
+  Work](https://www.amazon.com/Disrupt-Yourself-Putting-Disruptive-Innovation/dp/1629560529)
 
