@@ -134,4 +134,6 @@ Innovation](https://www.amazon.com/Think-Start-Small-Move-Fast/dp/007183866X)
 Services](https://www.amazon.com/Innovation-Equity-Assessing-Managing-Monetary/dp/0226618293)
 - [Disrupt Yourself: Putting the Power of Disruptive Innovation to
   Work](https://www.amazon.com/Disrupt-Yourself-Putting-Disruptive-Innovation/dp/1629560529)
+- [Collective Genius: The Art and Practice of Leading
+  Innovation](https://www.amazon.com/Collective-Genius-Practice-Leading-Innovation/dp/1531836194)
 
