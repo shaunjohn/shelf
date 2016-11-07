@@ -136,4 +136,7 @@ Services](https://www.amazon.com/Innovation-Equity-Assessing-Managing-Monetary/d
   Work](https://www.amazon.com/Disrupt-Yourself-Putting-Disruptive-Innovation/dp/1629560529)
 - [Collective Genius: The Art and Practice of Leading
   Innovation](https://www.amazon.com/Collective-Genius-Practice-Leading-Innovation/dp/1531836194)
+- [The Smartest Places on Earth: Why the Rustbelts Are the Emerging
+  Hotspots of Global
+Innovation](https://www.amazon.com/Smartest-Places-Earth-Rustbelts-Innovation/dp/1511394536)
 
