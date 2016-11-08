@@ -139,4 +139,6 @@ Services](https://www.amazon.com/Innovation-Equity-Assessing-Managing-Monetary/d
 - [The Smartest Places on Earth: Why the Rustbelts Are the Emerging
   Hotspots of Global
 Innovation](https://www.amazon.com/Smartest-Places-Earth-Rustbelts-Innovation/dp/1511394536)
+- [The Other Side of Innovation: Solving the Execution
+  Challenge](https://www.amazon.com/dp/B003VIWO8O/)
 
