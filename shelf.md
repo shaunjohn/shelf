@@ -141,4 +141,6 @@ Services](https://www.amazon.com/Innovation-Equity-Assessing-Managing-Monetary/d
 Innovation](https://www.amazon.com/Smartest-Places-Earth-Rustbelts-Innovation/dp/1511394536)
 - [The Other Side of Innovation: Solving the Execution
   Challenge](https://www.amazon.com/dp/B003VIWO8O/)
+- [Funky Business: Talent Makes Capital
+  Dance](https://www.amazon.com/Funky-Business-Talent-Makes-Capital/dp/0273645919/)
 
