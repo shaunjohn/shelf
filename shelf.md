@@ -143,4 +143,6 @@ Innovation](https://www.amazon.com/Smartest-Places-Earth-Rustbelts-Innovation/dp
   Challenge](https://www.amazon.com/dp/B003VIWO8O/)
 - [Funky Business: Talent Makes Capital
   Dance](https://www.amazon.com/Funky-Business-Talent-Makes-Capital/dp/0273645919/)
+- [The Social Entrepreneur's Handbook: How to Start, Build, and Run a
+  Business That Improves the World](https://www.amazon.com/Social-Entrepreneurs-Handbook-Business-Improves/dp/0071750290)
 
