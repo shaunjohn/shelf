@@ -147,4 +147,6 @@ Innovation](https://www.amazon.com/Smartest-Places-Earth-Rustbelts-Innovation/dp
   Business That Improves the World](https://www.amazon.com/Social-Entrepreneurs-Handbook-Business-Improves/dp/0071750290)
 - [The Entrepreneur's Growth Startup
   Handbook](https://www.amazon.com/Entrepreneurs-Growth-Startup-Handbook-Successful/dp/1118445651)
+- [Inside the Black Box: A Simple Guide to Quantitative and High
+  Frequency Trading](https://www.amazon.com/gp/product/1118362411/)
 
