@@ -145,4 +145,6 @@ Innovation](https://www.amazon.com/Smartest-Places-Earth-Rustbelts-Innovation/dp
   Dance](https://www.amazon.com/Funky-Business-Talent-Makes-Capital/dp/0273645919/)
 - [The Social Entrepreneur's Handbook: How to Start, Build, and Run a
   Business That Improves the World](https://www.amazon.com/Social-Entrepreneurs-Handbook-Business-Improves/dp/0071750290)
+- [The Entrepreneur's Growth Startup
+  Handbook](https://www.amazon.com/Entrepreneurs-Growth-Startup-Handbook-Successful/dp/1118445651)
 
