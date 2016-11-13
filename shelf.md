@@ -149,4 +149,6 @@ Innovation](https://www.amazon.com/Smartest-Places-Earth-Rustbelts-Innovation/dp
   Handbook](https://www.amazon.com/Entrepreneurs-Growth-Startup-Handbook-Successful/dp/1118445651)
 - [Inside the Black Box: A Simple Guide to Quantitative and High
   Frequency Trading](https://www.amazon.com/gp/product/1118362411/)
+- [Real Estate Unleashed: The Game has changed! Do you know how to win
+  it?](https://www.amazon.com/Real-Estate-Unleashed-Game-changed/dp/1456549170)
 
