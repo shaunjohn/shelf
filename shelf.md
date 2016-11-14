@@ -151,4 +151,6 @@ Innovation](https://www.amazon.com/Smartest-Places-Earth-Rustbelts-Innovation/dp
   Frequency Trading](https://www.amazon.com/gp/product/1118362411/)
 - [Real Estate Unleashed: The Game has changed! Do you know how to win
   it?](https://www.amazon.com/Real-Estate-Unleashed-Game-changed/dp/1456549170)
+- [The Persistence of Innovation in
+  Government](https://www.amazon.com/Persistence-Innovation-Government-Innovative-Governance/dp/0815725604)
 
