@@ -153,4 +153,6 @@ Innovation](https://www.amazon.com/Smartest-Places-Earth-Rustbelts-Innovation/dp
   it?](https://www.amazon.com/Real-Estate-Unleashed-Game-changed/dp/1456549170)
 - [The Persistence of Innovation in
   Government](https://www.amazon.com/Persistence-Innovation-Government-Innovative-Governance/dp/0815725604)
+- [The Idea Factory: Bell Labs and the Great Age of American
+  Innovation](https://www.amazon.com/Idea-Factory-Great-American-Innovation/dp/0143122797)
 
