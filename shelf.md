@@ -155,4 +155,7 @@ Innovation](https://www.amazon.com/Smartest-Places-Earth-Rustbelts-Innovation/dp
   Government](https://www.amazon.com/Persistence-Innovation-Government-Innovative-Governance/dp/0815725604)
 - [The Idea Factory: Bell Labs and the Great Age of American
   Innovation](https://www.amazon.com/Idea-Factory-Great-American-Innovation/dp/0143122797)
+- [The End of Power: From Boardrooms to Battlefields and Churches to
+  States, Why Being In Charge Isn’t What It Used to
+Be](https://www.amazon.com/End-Power-Boardrooms-Battlefields-Churches/dp/0465065694)
 
