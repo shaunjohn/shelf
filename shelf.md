@@ -160,4 +160,5 @@ Innovation](https://www.amazon.com/Smartest-Places-Earth-Rustbelts-Innovation/dp
 Be](https://www.amazon.com/End-Power-Boardrooms-Battlefields-Churches/dp/0465065694)
 - [The ONE Thing: The Surprisingly Simple Truth Behind Extraordinary
   Results](https://www.amazon.com/ONE-Thing-Surprisingly-Extraordinary-Results/dp/1885167776)
+- [Managing Oneself](https://www.amazon.com/gp/product/142212312X/)
 
