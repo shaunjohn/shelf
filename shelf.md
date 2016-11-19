@@ -158,4 +158,6 @@ Innovation](https://www.amazon.com/Smartest-Places-Earth-Rustbelts-Innovation/dp
 - [The End of Power: From Boardrooms to Battlefields and Churches to
   States, Why Being In Charge Isn’t What It Used to
 Be](https://www.amazon.com/End-Power-Boardrooms-Battlefields-Churches/dp/0465065694)
+- [The ONE Thing: The Surprisingly Simple Truth Behind Extraordinary
+  Results](https://www.amazon.com/ONE-Thing-Surprisingly-Extraordinary-Results/dp/1885167776)
 
