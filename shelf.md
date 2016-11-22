@@ -165,4 +165,7 @@ Be](https://www.amazon.com/End-Power-Boardrooms-Battlefields-Churches/dp/0465065
   Shape the Future](https://www.amazon.com/dp/B01G9FLALC/)
 - [The Third Wave: An Entrepreneur’s Vision of the
   Future](https://www.amazon.com/Third-Wave-Entrepreneurs-Vision-Future/dp/150113258X)
+- [How Not to Die: Discover the Foods Scientifically Proven to Prevent
+  and Reverse
+Disease](https://www.amazon.com/How-Not-Die-Discover-Scientifically/dp/1250066115)
 
