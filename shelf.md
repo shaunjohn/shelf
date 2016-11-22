@@ -163,4 +163,6 @@ Be](https://www.amazon.com/End-Power-Boardrooms-Battlefields-Churches/dp/0465065
 - [Managing Oneself](https://www.amazon.com/gp/product/142212312X/)
 - [Winning with Data: Transform Your Culture, Empower Your People, and
   Shape the Future](https://www.amazon.com/dp/B01G9FLALC/)
+- [The Third Wave: An Entrepreneur’s Vision of the
+  Future](https://www.amazon.com/Third-Wave-Entrepreneurs-Vision-Future/dp/150113258X)
 
