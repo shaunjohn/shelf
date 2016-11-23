@@ -168,4 +168,7 @@ Be](https://www.amazon.com/End-Power-Boardrooms-Battlefields-Churches/dp/0465065
 - [How Not to Die: Discover the Foods Scientifically Proven to Prevent
   and Reverse
 Disease](https://www.amazon.com/How-Not-Die-Discover-Scientifically/dp/1250066115)
+- [Design Thinking for Strategic Innovation: What They Can't Teach You
+  at Business Or Design
+School](https://www.amazon.com/Design-Thinking-Strategic-Innovation-Business/dp/1118620127)
 
