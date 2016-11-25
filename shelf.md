@@ -171,4 +171,6 @@ Disease](https://www.amazon.com/How-Not-Die-Discover-Scientifically/dp/125006611
 - [Design Thinking for Strategic Innovation: What They Can't Teach You
   at Business Or Design
 School](https://www.amazon.com/Design-Thinking-Strategic-Innovation-Business/dp/1118620127)
+- [Do What You Love: And Other Lies About Success and
+  Happiness](https://www.amazon.com/Do-What-You-Love-Happiness/dp/1941393470)
 
