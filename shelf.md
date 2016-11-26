@@ -176,4 +176,7 @@ School](https://www.amazon.com/Design-Thinking-Strategic-Innovation-Business/dp/
 - [Grain Brain: The Surprising Truth about Wheat, Carbs, and Sugar--Your
   Brain's Silent
 Killers](https://www.amazon.com/Grain-Brain-Surprising-Sugar-Your-Killers/dp/031623480X)
+- [What Every Angel Investor Wants You to Know: An Insider Reveals How
+  to Get Smart Funding for Your Billion Dollar
+Idea](https://www.amazon.com/What-Every-Angel-Investor-Wants/dp/0071800719)
 
