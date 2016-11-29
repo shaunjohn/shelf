@@ -181,4 +181,6 @@ Killers](https://www.amazon.com/Grain-Brain-Surprising-Sugar-Your-Killers/dp/031
 Idea](https://www.amazon.com/What-Every-Angel-Investor-Wants/dp/0071800719)
 - [The Fuzzy Firm: The New Networked Organization In The Gig
   Economy](https://www.amazon.com/Fuzzy-Firm-Networked-Organization-Economy/dp/9082012316)
+- [Web Development
+  Recipes](https://www.amazon.com/Web-Development-Recipes-Brian-Hogan/dp/1934356832)
 
