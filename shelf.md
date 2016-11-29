@@ -183,4 +183,8 @@ Idea](https://www.amazon.com/What-Every-Angel-Investor-Wants/dp/0071800719)
   Economy](https://www.amazon.com/Fuzzy-Firm-Networked-Organization-Economy/dp/9082012316)
 - [Web Development
   Recipes](https://www.amazon.com/Web-Development-Recipes-Brian-Hogan/dp/1934356832)
+- [Mastering the Power of Grit: Strategies, Tactics, and Tools from the
+  Heroes of Tenacity, Resilience, and Guts: Timeless Lessons from the
+Legends of Making Things Happen and Getting Things
+Done](https://www.amazon.com/dp/B01HYFI276)
 
