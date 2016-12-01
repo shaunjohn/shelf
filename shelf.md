@@ -190,4 +190,6 @@ Done](https://www.amazon.com/dp/B01HYFI276)
 - [Shipping Greatness: Practical lessons on building and launching
   outstanding software, learned on the job at Google and
 Amazon](https://www.amazon.com/Shipping-Greatness-Practical-launching-outstanding/dp/1449336574)
+- [Diversity and Complexity: Primers in Complex
+  Systems](https://www.amazon.com/Diversity-Complexity-Primers-Complex-Systems/dp/0691137676/)
 
