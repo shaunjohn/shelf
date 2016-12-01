@@ -187,4 +187,7 @@ Idea](https://www.amazon.com/What-Every-Angel-Investor-Wants/dp/0071800719)
   Heroes of Tenacity, Resilience, and Guts: Timeless Lessons from the
 Legends of Making Things Happen and Getting Things
 Done](https://www.amazon.com/dp/B01HYFI276)
+- [Shipping Greatness: Practical lessons on building and launching
+  outstanding software, learned on the job at Google and
+Amazon](https://www.amazon.com/Shipping-Greatness-Practical-launching-outstanding/dp/1449336574)
 
