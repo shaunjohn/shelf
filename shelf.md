@@ -192,4 +192,6 @@ Done](https://www.amazon.com/dp/B01HYFI276)
 Amazon](https://www.amazon.com/Shipping-Greatness-Practical-launching-outstanding/dp/1449336574)
 - [Diversity and Complexity: Primers in Complex
   Systems](https://www.amazon.com/Diversity-Complexity-Primers-Complex-Systems/dp/0691137676/)
+- [Ego is the
+  Enemy](https://www.amazon.com/Ego-Enemy-Ryan-Holiday/dp/1591847818)
 
