@@ -194,4 +194,7 @@ Amazon](https://www.amazon.com/Shipping-Greatness-Practical-launching-outstandin
   Systems](https://www.amazon.com/Diversity-Complexity-Primers-Complex-Systems/dp/0691137676/)
 - [Ego is the
   Enemy](https://www.amazon.com/Ego-Enemy-Ryan-Holiday/dp/1591847818)
+- [Angel Investing: The Gust Guide to Making Money and Having Fun
+  Investing in
+Startups](https://www.amazon.com/Angel-Investing-Making-Having-Startups/dp/1118858255)
 
