@@ -197,4 +197,7 @@ Amazon](https://www.amazon.com/Shipping-Greatness-Practical-launching-outstandin
 - [Angel Investing: The Gust Guide to Making Money and Having Fun
   Investing in
 Startups](https://www.amazon.com/Angel-Investing-Making-Having-Startups/dp/1118858255)
+- [Angel Investing: Matching Startup Funds with Startup Companies--The
+  Guide for Entrepreneurs and Individual
+Investors](https://www.amazon.com/Angel-Investing-Companies-Entrepreneurs-Individual/dp/0787952028)
 
