@@ -200,4 +200,6 @@ Startups](https://www.amazon.com/Angel-Investing-Making-Having-Startups/dp/11188
 - [Angel Investing: Matching Startup Funds with Startup Companies--The
   Guide for Entrepreneurs and Individual
 Investors](https://www.amazon.com/Angel-Investing-Companies-Entrepreneurs-Individual/dp/0787952028)
+- [Whiplash: How to Survive Our Faster
+  Future](https://www.amazon.com/Whiplash-How-Survive-Faster-Future/dp/1455544590/)
 
