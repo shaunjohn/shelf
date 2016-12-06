@@ -202,4 +202,6 @@ Startups](https://www.amazon.com/Angel-Investing-Making-Having-Startups/dp/11188
 Investors](https://www.amazon.com/Angel-Investing-Companies-Entrepreneurs-Individual/dp/0787952028)
 - [Whiplash: How to Survive Our Faster
   Future](https://www.amazon.com/Whiplash-How-Survive-Faster-Future/dp/1455544590/)
+- [Why Nations Fail: The Origins of Power, Prosperity, and
+  Poverty](https://www.amazon.com/gp/product/0307719227/)
 
