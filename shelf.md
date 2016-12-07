@@ -204,4 +204,6 @@ Investors](https://www.amazon.com/Angel-Investing-Companies-Entrepreneurs-Indivi
   Future](https://www.amazon.com/Whiplash-How-Survive-Faster-Future/dp/1455544590/)
 - [Why Nations Fail: The Origins of Power, Prosperity, and
   Poverty](https://www.amazon.com/gp/product/0307719227/)
+- [Buyology: Truth and Lies About Why We
+  Buy](https://www.amazon.com/Buyology-Truth-Lies-About-Why/dp/0385523890)
 
