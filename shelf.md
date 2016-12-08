@@ -206,4 +206,7 @@ Investors](https://www.amazon.com/Angel-Investing-Companies-Entrepreneurs-Indivi
   Poverty](https://www.amazon.com/gp/product/0307719227/)
 - [Buyology: Truth and Lies About Why We
   Buy](https://www.amazon.com/Buyology-Truth-Lies-About-Why/dp/0385523890)
+- [Conscious Capitalism, With a New Preface by the Authors: Liberating
+  the Heroic Spirit of
+Business](https://www.amazon.com/gp/product/1625271751/)
 
