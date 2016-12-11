@@ -211,4 +211,7 @@ Investors](https://www.amazon.com/Angel-Investing-Companies-Entrepreneurs-Indivi
 Business](https://www.amazon.com/gp/product/1625271751/)
 - [The Greatest Story Ever Told--So Far: Why Are We
   Here?](https://www.amazon.com/Greatest-Story-Ever-Told-So-Far/dp/1476777616/)
+- [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way
+  of True
+Inspiration](https://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0812993012)
 
