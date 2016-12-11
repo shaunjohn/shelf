@@ -209,4 +209,6 @@ Investors](https://www.amazon.com/Angel-Investing-Companies-Entrepreneurs-Indivi
 - [Conscious Capitalism, With a New Preface by the Authors: Liberating
   the Heroic Spirit of
 Business](https://www.amazon.com/gp/product/1625271751/)
+- [The Greatest Story Ever Told--So Far: Why Are We
+  Here?](https://www.amazon.com/Greatest-Story-Ever-Told-So-Far/dp/1476777616/)
 
