@@ -214,4 +214,7 @@ Business](https://www.amazon.com/gp/product/1625271751/)
 - [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way
   of True
 Inspiration](https://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0812993012)
+- [The Wisest One in the Room: How You Can Benefit from Social
+  Psychology's Most Powerful
+Insights](https://www.amazon.com/Wisest-One-Room-Psychologys-Powerful/dp/1451677545)
 
