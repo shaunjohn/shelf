@@ -219,4 +219,6 @@ Inspiration](https://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration
 Insights](https://www.amazon.com/Wisest-One-Room-Psychologys-Powerful/dp/1451677545)
 - [Beyond Fundraising: New Strategies for Nonprofit Innovation and
   Investment](https://www.amazon.com/Beyond-Fundraising-Strategies-Innovation-Investment/dp/1118573552)
+- [The Family Office Book: Investing Capital for the Ultra-Affluent
+  ](https://www.amazon.com/Family-Office-Book-Investing-Ultra-Affluent/dp/1118185366)
 
