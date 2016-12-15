@@ -217,4 +217,6 @@ Inspiration](https://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration
 - [The Wisest One in the Room: How You Can Benefit from Social
   Psychology's Most Powerful
 Insights](https://www.amazon.com/Wisest-One-Room-Psychologys-Powerful/dp/1451677545)
+- [Beyond Fundraising: New Strategies for Nonprofit Innovation and
+  Investment](https://www.amazon.com/Beyond-Fundraising-Strategies-Innovation-Investment/dp/1118573552)
 
