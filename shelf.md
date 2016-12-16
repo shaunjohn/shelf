@@ -221,4 +221,7 @@ Insights](https://www.amazon.com/Wisest-One-Room-Psychologys-Powerful/dp/1451677
   Investment](https://www.amazon.com/Beyond-Fundraising-Strategies-Innovation-Investment/dp/1118573552)
 - [The Family Office Book: Investing Capital for the Ultra-Affluent
   ](https://www.amazon.com/Family-Office-Book-Investing-Ultra-Affluent/dp/1118185366)
+- [Ecosystems, Society, and Health: Pathways Through Diversity,
+  Convergence, and
+Integration](https://www.amazon.com/Ecosystems-Society-Health-Convergence-Integration/dp/0773544798)
 
