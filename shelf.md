@@ -226,4 +226,5 @@ Insights](https://www.amazon.com/Wisest-One-Room-Psychologys-Powerful/dp/1451677
 Integration](https://www.amazon.com/Ecosystems-Society-Health-Convergence-Integration/dp/0773544798)
 - [Wooden on Leadership: How to Create a Winning
   Organization](https://www.amazon.com/Wooden-Leadership-Create-Winning-Organization/dp/0071453393/)
+- [The B Corp Handbook: How to Use Business as a Force for Good](https://www.amazon.com/Corp-Handbook-Business-Force-Good/dp/1626560439)
 
