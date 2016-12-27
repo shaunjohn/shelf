@@ -230,4 +230,6 @@ Integration](https://www.amazon.com/Ecosystems-Society-Health-Convergence-Integr
 - [The Underground
   Railroad](https://www.amazon.com/Underground-Railroad-Oprahs-Book-Club/dp/1524736309)
 - [Survival of the Sickest: The Surprising Connections Between Disease and Longevity](https://www.amazon.com/gp/product/B000OI0E6I/)
+- [Cold Calling Techniques: That Really
+  Work](https://www.amazon.com/Cold-Calling-Techniques-That-Really/dp/1598691481)
 
