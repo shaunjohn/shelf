@@ -232,4 +232,6 @@ Integration](https://www.amazon.com/Ecosystems-Society-Health-Convergence-Integr
 - [Survival of the Sickest: The Surprising Connections Between Disease and Longevity](https://www.amazon.com/gp/product/B000OI0E6I/)
 - [Cold Calling Techniques: That Really
   Work](https://www.amazon.com/Cold-Calling-Techniques-That-Really/dp/1598691481)
+- [Designing Brand Identity: An Essential Guide for the Whole Branding
+  Team](https://www.amazon.com/Designing-Brand-Identity-Essential-Branding/dp/1118099206)
 
