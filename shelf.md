@@ -234,4 +234,6 @@ Integration](https://www.amazon.com/Ecosystems-Society-Health-Convergence-Integr
   Work](https://www.amazon.com/Cold-Calling-Techniques-That-Really/dp/1598691481)
 - [Designing Brand Identity: An Essential Guide for the Whole Branding
   Team](https://www.amazon.com/Designing-Brand-Identity-Essential-Branding/dp/1118099206)
+- [Shoestring Venture: The Startup
+  Bible](https://www.amazon.com/Shoestring-Venture-Startup-Steve-Monas/dp/0595506518)
 
