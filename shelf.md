@@ -236,4 +236,7 @@ Integration](https://www.amazon.com/Ecosystems-Society-Health-Convergence-Integr
   Team](https://www.amazon.com/Designing-Brand-Identity-Essential-Branding/dp/1118099206)
 - [Shoestring Venture: The Startup
   Bible](https://www.amazon.com/Shoestring-Venture-Startup-Steve-Monas/dp/0595506518)
+- [From Passion to Execution: How to Start and Grow an Effective
+  Nonprofit
+Organization](https://www.amazon.com/Passion-Execution-Effective-Nonprofit-Organization/dp/143546012X)
 
