@@ -241,4 +241,7 @@ Integration](https://www.amazon.com/Ecosystems-Society-Health-Convergence-Integr
 Organization](https://www.amazon.com/Passion-Execution-Effective-Nonprofit-Organization/dp/143546012X)
 - [Getting to No: How to Break a Stubborn
   Habit](https://www.amazon.com/Getting-No-Break-Stubborn-Habit/dp/0781445140)
+- [Future Crimes: Inside the Digital Underground and the Battle for Our
+  Connected
+World](https://www.amazon.com/Future-Crimes-Digital-Underground-Connected/dp/0804171459)
 
