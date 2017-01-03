@@ -239,4 +239,6 @@ Integration](https://www.amazon.com/Ecosystems-Society-Health-Convergence-Integr
 - [From Passion to Execution: How to Start and Grow an Effective
   Nonprofit
 Organization](https://www.amazon.com/Passion-Execution-Effective-Nonprofit-Organization/dp/143546012X)
+- [Getting to No: How to Break a Stubborn
+  Habit](https://www.amazon.com/Getting-No-Break-Stubborn-Habit/dp/0781445140)
 
