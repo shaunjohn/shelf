@@ -244,4 +244,6 @@ Organization](https://www.amazon.com/Passion-Execution-Effective-Nonprofit-Organ
 - [Future Crimes: Inside the Digital Underground and the Battle for Our
   Connected
 World](https://www.amazon.com/Future-Crimes-Digital-Underground-Connected/dp/0804171459)
+- [Think Like a Futurist: Know What Changes, What Doesn't, and What's
+  Next](https://www.amazon.com/Think-Like-Futurist-Changes-Doesnt/dp/1118147820)
 
