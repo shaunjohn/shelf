@@ -246,4 +246,6 @@ Organization](https://www.amazon.com/Passion-Execution-Effective-Nonprofit-Organ
 World](https://www.amazon.com/Future-Crimes-Digital-Underground-Connected/dp/0804171459)
 - [Think Like a Futurist: Know What Changes, What Doesn't, and What's
   Next](https://www.amazon.com/Think-Like-Futurist-Changes-Doesnt/dp/1118147820)
+- [Analyzing Intelligence: Origins, Obstacles, and
+  Innovations](https://www.amazon.com/Analyzing-Intelligence-Origins-Obstacles-Innovations/dp/1589012011)
 
