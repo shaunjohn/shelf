@@ -248,4 +248,6 @@ World](https://www.amazon.com/Future-Crimes-Digital-Underground-Connected/dp/080
   Next](https://www.amazon.com/Think-Like-Futurist-Changes-Doesnt/dp/1118147820)
 - [Analyzing Intelligence: Origins, Obstacles, and
   Innovations](https://www.amazon.com/Analyzing-Intelligence-Origins-Obstacles-Innovations/dp/1589012011)
+- [Blockchain: Blueprint for a New
+  Economy](https://www.amazon.com/Blockchain-Blueprint-Economy-Melanie-Swan/dp/1491920491)
 
