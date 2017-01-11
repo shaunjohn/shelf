@@ -254,4 +254,6 @@ World](https://www.amazon.com/Future-Crimes-Digital-Underground-Connected/dp/080
   Brain](https://www.amazon.com/Incognito-Secret-Lives-David-Eagleman/dp/0307389928)
 - [No Excuses!: The Power of
   Self-Discipline](https://www.amazon.com/No-Excuses-Self-Discipline-Brian-Tracy/dp/1593156324)
+- [Tales from Both Sides of the Brain: A Life in
+  Neuroscience](https://www.amazon.com/Tales-Both-Sides-Brain-Neuroscience/dp/0062228854/)
 
