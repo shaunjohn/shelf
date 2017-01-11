@@ -252,4 +252,6 @@ World](https://www.amazon.com/Future-Crimes-Digital-Underground-Connected/dp/080
   Economy](https://www.amazon.com/Blockchain-Blueprint-Economy-Melanie-Swan/dp/1491920491)
 - [Incognito: The Secret Lives of the
   Brain](https://www.amazon.com/Incognito-Secret-Lives-David-Eagleman/dp/0307389928)
+- [No Excuses!: The Power of
+  Self-Discipline](https://www.amazon.com/No-Excuses-Self-Discipline-Brian-Tracy/dp/1593156324)
 
