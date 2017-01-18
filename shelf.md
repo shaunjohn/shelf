@@ -259,4 +259,7 @@ World](https://www.amazon.com/Future-Crimes-Digital-Underground-Connected/dp/080
 - [The Brewmaster's Table: Discovering the Pleasures of Real Beer with
   Real
 Food](https://www.amazon.com/Brewmasters-Table-Discovering-Pleasures-Real/dp/0060005718/ref=la_B0052VU13S_1_2?s=books&ie=UTF8&qid=1484367171&sr=1-2)
+- [The Culture Code: An Ingenious Way to Understand Why People Around
+  the World Live and Buy as They
+Do](https://www.amazon.com/gp/product/0767920570/)
 
