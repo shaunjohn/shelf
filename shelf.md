@@ -262,4 +262,6 @@ Food](https://www.amazon.com/Brewmasters-Table-Discovering-Pleasures-Real/dp/006
 - [The Culture Code: An Ingenious Way to Understand Why People Around
   the World Live and Buy as They
 Do](https://www.amazon.com/gp/product/0767920570/)
+- [The Art of Possibility: Transforming Professional and Personal
+  Life](https://www.amazon.com/gp/product/0142001104/)
 
