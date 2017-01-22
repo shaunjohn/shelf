@@ -264,4 +264,6 @@ Food](https://www.amazon.com/Brewmasters-Table-Discovering-Pleasures-Real/dp/006
 Do](https://www.amazon.com/gp/product/0767920570/)
 - [The Art of Possibility: Transforming Professional and Personal
   Life](https://www.amazon.com/gp/product/0142001104/)
+- [Inspired: How To Create Products Customers
+  Love](https://www.amazon.com/gp/product/0981690408/)
 
