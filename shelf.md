@@ -266,4 +266,7 @@ Do](https://www.amazon.com/gp/product/0767920570/)
   Life](https://www.amazon.com/gp/product/0142001104/)
 - [Inspired: How To Create Products Customers
   Love](https://www.amazon.com/gp/product/0981690408/)
+- [The Zero Marginal Cost Society: The Internet of Things, the
+  Collaborative Commons, and the Eclipse of
+Capitalism](https://www.amazon.com/gp/product/1137278463/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)
 
