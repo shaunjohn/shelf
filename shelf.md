@@ -271,4 +271,6 @@ Do](https://www.amazon.com/gp/product/0767920570/)
 Capitalism](https://www.amazon.com/gp/product/1137278463/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)
 - [Deep Simplicity: Bringing Order to Chaos and
   Complexity](https://www.amazon.com/gp/product/140006256X/)
+- [The Evolution of Everything: How New Ideas
+  Emerge](https://www.amazon.com/gp/product/0062296000/)
 
