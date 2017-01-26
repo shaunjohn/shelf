@@ -273,4 +273,6 @@ Capitalism](https://www.amazon.com/gp/product/1137278463/ref=oh_aui_detailpage_o
   Complexity](https://www.amazon.com/gp/product/140006256X/)
 - [The Evolution of Everything: How New Ideas
   Emerge](https://www.amazon.com/gp/product/0062296000/)
+- [The Master Switch: The Rise and Fall of Information
+  Empires](https://www.amazon.com/Master-Switch-Rise-Information-Empires/dp/0307390993/)
 
