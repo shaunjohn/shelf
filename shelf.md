@@ -277,4 +277,7 @@ Capitalism](https://www.amazon.com/gp/product/1137278463/ref=oh_aui_detailpage_o
   Empires](https://www.amazon.com/Master-Switch-Rise-Information-Empires/dp/0307390993/)
 - [Small Giants: Companies That Choose to Be Great Instead of
   Big](https://www.amazon.com/gp/product/1591841496/)
+- [Predictable Success: Getting Your Organization On the Growth Track --
+  and Keeping It
+There](https://www.amazon.com/gp/product/1608320316/)
 
