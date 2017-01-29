@@ -275,4 +275,6 @@ Capitalism](https://www.amazon.com/gp/product/1137278463/ref=oh_aui_detailpage_o
   Emerge](https://www.amazon.com/gp/product/0062296000/)
 - [The Master Switch: The Rise and Fall of Information
   Empires](https://www.amazon.com/Master-Switch-Rise-Information-Empires/dp/0307390993/)
+- [Small Giants: Companies That Choose to Be Great Instead of
+  Big](https://www.amazon.com/gp/product/1591841496/)
 
