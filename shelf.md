@@ -282,4 +282,6 @@ Capitalism](https://www.amazon.com/gp/product/1137278463/ref=oh_aui_detailpage_o
 There](https://www.amazon.com/gp/product/1608320316/)
 - [Team of Teams: New Rules of Engagement for a Complex
   World](https://www.amazon.com/gp/product/1591847486/)
+- [Simple Rules: How to Thrive in a Complex
+  World](https://www.amazon.com/gp/product/0544409906/)
 
