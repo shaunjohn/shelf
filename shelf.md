@@ -280,4 +280,6 @@ Capitalism](https://www.amazon.com/gp/product/1137278463/ref=oh_aui_detailpage_o
 - [Predictable Success: Getting Your Organization On the Growth Track --
   and Keeping It
 There](https://www.amazon.com/gp/product/1608320316/)
+- [Team of Teams: New Rules of Engagement for a Complex
+  World](https://www.amazon.com/gp/product/1591847486/)
 
