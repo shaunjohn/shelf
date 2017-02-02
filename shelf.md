@@ -286,4 +286,7 @@ There](https://www.amazon.com/gp/product/1608320316/)
   World](https://www.amazon.com/gp/product/0544409906/)
 - [The Art of Possibility: Transforming Professional and Personal
   Life](https://www.amazon.com/gp/product/0142001104/)
+- [Tools of Titans: The Tactics, Routines, and Habits of Billionaires,
+  Icons, and World-Class
+Performers](https://www.amazon.com/gp/product/1328683788/)
 
