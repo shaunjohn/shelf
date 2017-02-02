@@ -284,4 +284,6 @@ There](https://www.amazon.com/gp/product/1608320316/)
   World](https://www.amazon.com/gp/product/1591847486/)
 - [Simple Rules: How to Thrive in a Complex
   World](https://www.amazon.com/gp/product/0544409906/)
+- [The Art of Possibility: Transforming Professional and Personal
+  Life](https://www.amazon.com/gp/product/0142001104/)
 
