@@ -289,4 +289,7 @@ There](https://www.amazon.com/gp/product/1608320316/)
 - [Tools of Titans: The Tactics, Routines, and Habits of Billionaires,
   Icons, and World-Class
 Performers](https://www.amazon.com/gp/product/1328683788/)
+- [Crossing the Chasm: Marketing and Selling Disruptive
+  Products to Mainstream
+Customers](https://www.amazon.com/Crossing-Chasm-3rd-Disruptive-Mainstream-ebook/dp/B00DB3D81G/)
 
