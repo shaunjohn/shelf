@@ -294,4 +294,6 @@ Performers](https://www.amazon.com/gp/product/1328683788/)
 Customers](https://www.amazon.com/Crossing-Chasm-3rd-Disruptive-Mainstream-ebook/dp/B00DB3D81G/)
 - [The Art of
   Possibility](https://www.amazon.com/gp/product/0142001104/)
+- [The Next Decade: Empire and Republic in a Changing
+  World](https://www.amazon.com/gp/product/0307476391/)
 
