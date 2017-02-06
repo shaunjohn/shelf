@@ -296,4 +296,6 @@ Customers](https://www.amazon.com/Crossing-Chasm-3rd-Disruptive-Mainstream-ebook
   Possibility](https://www.amazon.com/gp/product/0142001104/)
 - [The Next Decade: Empire and Republic in a Changing
   World](https://www.amazon.com/gp/product/0307476391/)
+- [The Dip: A Little Book That Teaches You When to Quit (and When to
+  Stick)](https://www.amazon.com/Dip-Little-Book-Teaches-Stick-ebook/dp/B000QCSA54/)
 
