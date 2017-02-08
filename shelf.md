@@ -298,4 +298,6 @@ Customers](https://www.amazon.com/Crossing-Chasm-3rd-Disruptive-Mainstream-ebook
   World](https://www.amazon.com/gp/product/0307476391/)
 - [The Dip: A Little Book That Teaches You When to Quit (and When to
   Stick)](https://www.amazon.com/Dip-Little-Book-Teaches-Stick-ebook/dp/B000QCSA54/)
+- [Embracing Your Inner Critic: Turning Self-Criticism into a Creative
+  Asset](https://www.amazon.com/gp/product/0062507575/)
 
