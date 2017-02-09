@@ -302,4 +302,6 @@ Customers](https://www.amazon.com/Crossing-Chasm-3rd-Disruptive-Mainstream-ebook
   Asset](https://www.amazon.com/gp/product/0062507575/)
 - [Inclusion Dividend: Why Investing in Diversity & Inclusion Pays
   off](https://www.amazon.com/Inclusion-Dividend-Investing-Diversity-Pays/dp/1937134407)
+- [Startup Patterns: How great startup teams
+  work](https://www.amazon.com/Startup-Patterns-great-startup-teams/dp/1536947784)
 
