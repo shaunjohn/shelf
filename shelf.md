@@ -300,4 +300,6 @@ Customers](https://www.amazon.com/Crossing-Chasm-3rd-Disruptive-Mainstream-ebook
   Stick)](https://www.amazon.com/Dip-Little-Book-Teaches-Stick-ebook/dp/B000QCSA54/)
 - [Embracing Your Inner Critic: Turning Self-Criticism into a Creative
   Asset](https://www.amazon.com/gp/product/0062507575/)
+- [Inclusion Dividend: Why Investing in Diversity & Inclusion Pays
+  off](https://www.amazon.com/Inclusion-Dividend-Investing-Diversity-Pays/dp/1937134407)
 
