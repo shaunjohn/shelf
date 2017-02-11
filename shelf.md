@@ -304,4 +304,6 @@ Customers](https://www.amazon.com/Crossing-Chasm-3rd-Disruptive-Mainstream-ebook
   off](https://www.amazon.com/Inclusion-Dividend-Investing-Diversity-Pays/dp/1937134407)
 - [Startup Patterns: How great startup teams
   work](https://www.amazon.com/Startup-Patterns-great-startup-teams/dp/1536947784)
+- [Venture Capital and the Finance of
+  Innovation](https://www.amazon.com/Venture-Capital-Finance-Innovation-2nd/dp/0470454709)
 
