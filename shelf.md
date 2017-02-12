@@ -306,4 +306,7 @@ Customers](https://www.amazon.com/Crossing-Chasm-3rd-Disruptive-Mainstream-ebook
   work](https://www.amazon.com/Startup-Patterns-great-startup-teams/dp/1536947784)
 - [Venture Capital and the Finance of
   Innovation](https://www.amazon.com/Venture-Capital-Finance-Innovation-2nd/dp/0470454709)
+- [The Like Switch: An Ex-FBI Agent's Guide to Influencing, Attracting,
+  and Winning People
+Over](https://www.amazon.com/Like-Switch-Influencing-Attracting-Winning/dp/1476754489)
 
