@@ -309,4 +309,7 @@ Customers](https://www.amazon.com/Crossing-Chasm-3rd-Disruptive-Mainstream-ebook
 - [The Like Switch: An Ex-FBI Agent's Guide to Influencing, Attracting,
   and Winning People
 Over](https://www.amazon.com/Like-Switch-Influencing-Attracting-Winning/dp/1476754489)
+- [The Right Kind of Crazy: A True Story of Teamwork, Leadership, and
+  High-Stakes
+Innovation](https://www.google.com/shopping/product/2568047554523560416)
 
