@@ -314,4 +314,7 @@ Over](https://www.amazon.com/Like-Switch-Influencing-Attracting-Winning/dp/14767
 Innovation](https://www.google.com/shopping/product/2568047554523560416)
 - [The Innovator's Solution: Creating and Sustaining Successful
   Growth](https://www.amazon.com/Innovators-Solution-Creating-Sustaining-Successful/dp/1578518520)
+- [The Wisdom of Failure: How to Learn the Tough Leadership Lessons
+  Without Paying the
+Price](https://www.amazon.com/Wisdom-Failure-Leadership-Lessons-Without/dp/1118135016)
 
