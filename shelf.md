@@ -312,4 +312,6 @@ Over](https://www.amazon.com/Like-Switch-Influencing-Attracting-Winning/dp/14767
 - [The Right Kind of Crazy: A True Story of Teamwork, Leadership, and
   High-Stakes
 Innovation](https://www.google.com/shopping/product/2568047554523560416)
+- [The Innovator's Solution: Creating and Sustaining Successful
+  Growth](https://www.amazon.com/Innovators-Solution-Creating-Sustaining-Successful/dp/1578518520)
 
