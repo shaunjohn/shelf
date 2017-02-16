@@ -317,4 +317,6 @@ Innovation](https://www.google.com/shopping/product/2568047554523560416)
 - [The Wisdom of Failure: How to Learn the Tough Leadership Lessons
   Without Paying the
 Price](https://www.amazon.com/Wisdom-Failure-Leadership-Lessons-Without/dp/1118135016)
+- [Accelerate: Founder Insights Into Accelerator
+  Programs](https://www.amazon.com/Accelerate-Founder-Insights-Accelerator-Programs/dp/1941018041)
 
