@@ -319,4 +319,5 @@ Innovation](https://www.google.com/shopping/product/2568047554523560416)
 Price](https://www.amazon.com/Wisdom-Failure-Leadership-Lessons-Without/dp/1118135016)
 - [Accelerate: Founder Insights Into Accelerator
   Programs](https://www.amazon.com/Accelerate-Founder-Insights-Accelerator-Programs/dp/1941018041)
+- [Quantitative Trading: How to Build Your Own Algorithmic Trading Business](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/0470284889)
 
