@@ -322,4 +322,6 @@ Price](https://www.amazon.com/Wisdom-Failure-Leadership-Lessons-Without/dp/11181
 - [Quantitative Trading: How to Build Your Own Algorithmic Trading Business](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/0470284889)
 - [Poor Charlie's Almanack: The Wit and Wisdom of Charles T.
   Munger](https://www.amazon.com/Poor-Charlies-Almanack-Charles-Expanded/dp/1578645018)
+- [Biomimicry: Innovation Inspired by
+  Nature](https://www.amazon.ca/Biomimicry-Innovation-Inspired-Janine-Benyus/dp/0060533226)
 
