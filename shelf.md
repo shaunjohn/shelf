@@ -327,4 +327,6 @@ Price](https://www.amazon.com/Wisdom-Failure-Leadership-Lessons-Without/dp/11181
 - [The Upstarts: How Uber, Airbnb, and the Killer Companies of the New
   Silicon Valley Are Changing the
 World](https://www.amazon.com/Upstarts-Airbnb-Companies-Silicon-Changing/dp/0316396818)
+- [The Innovator's DNA: Mastering the Five Skills of Disruptive
+  Innovators](https://www.amazon.com/Innovators-DNA-Mastering-Skills-Disruptive/dp/1422134814/)
 
