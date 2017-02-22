@@ -324,4 +324,7 @@ Price](https://www.amazon.com/Wisdom-Failure-Leadership-Lessons-Without/dp/11181
   Munger](https://www.amazon.com/Poor-Charlies-Almanack-Charles-Expanded/dp/1578645018)
 - [Biomimicry: Innovation Inspired by
   Nature](https://www.amazon.ca/Biomimicry-Innovation-Inspired-Janine-Benyus/dp/0060533226)
+- [The Upstarts: How Uber, Airbnb, and the Killer Companies of the New
+  Silicon Valley Are Changing the
+World](https://www.amazon.com/Upstarts-Airbnb-Companies-Silicon-Changing/dp/0316396818)
 
