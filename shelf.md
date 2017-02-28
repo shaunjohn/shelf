@@ -334,4 +334,6 @@ World](https://www.amazon.com/Upstarts-Airbnb-Companies-Silicon-Changing/dp/0316
 - [Creating Breakthrough Products: Revealing the Secrets that Drive Global Innovation](https://www.amazon.com/Creating-Breakthrough-Products-Revealing-Innovation/dp/0133011429)
 - [Sur/petition: Creating Value Monopolies When Everyone Else is Merely
   Competing](https://www.amazon.com/Sur-petition-Creating-Monopolies-Competing/dp/0006379281/)
+- [The Truthful Art: Data, Charts, and Maps for
+  Communication](https://www.amazon.com/Truthful-Art-Data-Charts-Communication/dp/0321934075/)
 
