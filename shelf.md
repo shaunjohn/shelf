@@ -338,4 +338,6 @@ World](https://www.amazon.com/Upstarts-Airbnb-Companies-Silicon-Changing/dp/0316
   Communication](https://www.amazon.com/Truthful-Art-Data-Charts-Communication/dp/0321934075/)
 - [Steal Like an Artist: 10 Things Nobody Told You About Being
   Creative](https://www.amazon.com/Steal-Like-Artist-Things-Creative/dp/0761169253)
+- [Touch: The Science of the Hand, Heart, and
+  Mind](https://www.amazon.com/Touch-Science-Hand-Heart-Mind/dp/0143128442)
 
