@@ -336,4 +336,6 @@ World](https://www.amazon.com/Upstarts-Airbnb-Companies-Silicon-Changing/dp/0316
   Competing](https://www.amazon.com/Sur-petition-Creating-Monopolies-Competing/dp/0006379281/)
 - [The Truthful Art: Data, Charts, and Maps for
   Communication](https://www.amazon.com/Truthful-Art-Data-Charts-Communication/dp/0321934075/)
+- [Steal Like an Artist: 10 Things Nobody Told You About Being
+  Creative](https://www.amazon.com/Steal-Like-Artist-Things-Creative/dp/0761169253)
 
