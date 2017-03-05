@@ -342,4 +342,6 @@ World](https://www.amazon.com/Upstarts-Airbnb-Companies-Silicon-Changing/dp/0316
   Mind](https://www.amazon.com/Touch-Science-Hand-Heart-Mind/dp/0143128442)
 - [Sway: The Irresistible Pull of Irrational
   Behavior](https://www.amazon.com/Sway-Irresistible-Pull-Irrational-Behavior-ebook/dp/B0013TTK1W/)
+- [Giants of Enterprise: Seven Business Innovators and the Empires They
+  Built](https://www.amazon.com/Giants-Enterprise-Business-Innovators-Empires/dp/0066620368/)
 
