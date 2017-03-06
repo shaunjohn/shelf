@@ -344,4 +344,6 @@ World](https://www.amazon.com/Upstarts-Airbnb-Companies-Silicon-Changing/dp/0316
   Behavior](https://www.amazon.com/Sway-Irresistible-Pull-Irrational-Behavior-ebook/dp/B0013TTK1W/)
 - [Giants of Enterprise: Seven Business Innovators and the Empires They
   Built](https://www.amazon.com/Giants-Enterprise-Business-Innovators-Empires/dp/0066620368/)
+- [Ignore Everybody: and 39 Other Keys to
+  Creativity](https://www.amazon.com/Ignore-Everybody-Other-Keys-Creativity/dp/159184259X/)
 
