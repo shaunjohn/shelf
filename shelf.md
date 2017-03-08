@@ -346,4 +346,6 @@ World](https://www.amazon.com/Upstarts-Airbnb-Companies-Silicon-Changing/dp/0316
   Built](https://www.amazon.com/Giants-Enterprise-Business-Innovators-Empires/dp/0066620368/)
 - [Ignore Everybody: and 39 Other Keys to
   Creativity](https://www.amazon.com/Ignore-Everybody-Other-Keys-Creativity/dp/159184259X/)
+- [Scaling Up: How a Few Companies Make It...and Why the Rest Don't
+  ](https://www.amazon.com/Scaling-Up-Companies-Rockefeller-Habits/dp/0986019526/)
 
