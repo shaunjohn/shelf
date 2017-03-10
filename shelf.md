@@ -334,4 +334,26 @@ World](https://www.amazon.com/Upstarts-Airbnb-Companies-Silicon-Changing/dp/0316
 - [Creating Breakthrough Products: Revealing the Secrets that Drive
   Global
 Innovation](https://www.amazon.com/Creating-Breakthrough-Products-Revealing-Innovation/dp/0133011429)
+- [Creating Breakthrough Products: Revealing the Secrets that Drive Global Innovation](https://www.amazon.com/Creating-Breakthrough-Products-Revealing-Innovation/dp/0133011429)
+- [Sur/petition: Creating Value Monopolies When Everyone Else is Merely
+  Competing](https://www.amazon.com/Sur-petition-Creating-Monopolies-Competing/dp/0006379281/)
+- [The Truthful Art: Data, Charts, and Maps for
+  Communication](https://www.amazon.com/Truthful-Art-Data-Charts-Communication/dp/0321934075/)
+- [Steal Like an Artist: 10 Things Nobody Told You About Being
+  Creative](https://www.amazon.com/Steal-Like-Artist-Things-Creative/dp/0761169253)
+- [Touch: The Science of the Hand, Heart, and
+  Mind](https://www.amazon.com/Touch-Science-Hand-Heart-Mind/dp/0143128442)
+- [Sway: The Irresistible Pull of Irrational
+  Behavior](https://www.amazon.com/Sway-Irresistible-Pull-Irrational-Behavior-ebook/dp/B0013TTK1W/)
+- [Giants of Enterprise: Seven Business Innovators and the Empires They
+  Built](https://www.amazon.com/Giants-Enterprise-Business-Innovators-Empires/dp/0066620368/)
+- [Ignore Everybody: and 39 Other Keys to
+  Creativity](https://www.amazon.com/Ignore-Everybody-Other-Keys-Creativity/dp/159184259X/)
+- [Scaling Up: How a Few Companies Make It...and Why the Rest Don't
+  ](https://www.amazon.com/Scaling-Up-Companies-Rockefeller-Habits/dp/0986019526/)
+- [Time, Talent, Energy: Overcome Organizational Drag and Unleash Your
+  Team’s Productive
+Power](https://www.amazon.com/Time-Talent-Energy-Organizational-Productive/dp/1633691764/)
+- [The Founder’s Mentality: How to Overcome the Predictable Crises of
+  Growth](https://www.amazon.com/Founder-s-Mentality-Overcome-Predictable-Crises/dp/1633691160/)
 
