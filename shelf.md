@@ -353,4 +353,6 @@ World](https://www.amazon.com/Upstarts-Airbnb-Companies-Silicon-Changing/dp/0316
 Power](https://www.amazon.com/Time-Talent-Energy-Organizational-Productive/dp/1633691764/)
 - [The Founder’s Mentality: How to Overcome the Predictable Crises of
   Growth](https://www.amazon.com/Founder-s-Mentality-Overcome-Predictable-Crises/dp/1633691160/)
+- [The Heart of Change: Real-life Stories of how People Change Their
+  Organizations](https://www.amazon.com/Heart-Change-Real-Life-Stories-Organizations/dp/1422187330)
 
