@@ -331,9 +331,6 @@ World](https://www.amazon.com/Upstarts-Airbnb-Companies-Silicon-Changing/dp/0316
   Innovators](https://www.amazon.com/Innovators-DNA-Mastering-Skills-Disruptive/dp/1422134814/)
 - [The Entrepreneurial State: Debunking Public vs. Private Sector
   Myths](https://www.amazon.com/Entrepreneurial-State-Debunking-Public-Private/dp/1610396138/)
-- [Creating Breakthrough Products: Revealing the Secrets that Drive
-  Global
-Innovation](https://www.amazon.com/Creating-Breakthrough-Products-Revealing-Innovation/dp/0133011429)
 - [Creating Breakthrough Products: Revealing the Secrets that Drive Global Innovation](https://www.amazon.com/Creating-Breakthrough-Products-Revealing-Innovation/dp/0133011429)
 - [Sur/petition: Creating Value Monopolies When Everyone Else is Merely
   Competing](https://www.amazon.com/Sur-petition-Creating-Monopolies-Competing/dp/0006379281/)
