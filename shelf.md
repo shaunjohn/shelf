@@ -358,4 +358,6 @@ Power](https://www.amazon.com/Time-Talent-Energy-Organizational-Productive/dp/16
 - [The Conversion Code: Capture Internet Leads, Create Quality
   Appointments, Close More
 Sales](https://www.amazon.com/Conversion-Code-Capture-Internet-Appointments-ebook/dp/B01BLSD8LC/)
+- [Let's Get Real or Let's Not Play: Transforming the Buyer/Seller
+  Relationship](https://www.amazon.com/Lets-Get-Real-Not-Play/dp/1591842263)
 
