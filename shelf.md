@@ -362,4 +362,6 @@ Sales](https://www.amazon.com/Conversion-Code-Capture-Internet-Appointments-eboo
   Relationship](https://www.amazon.com/Lets-Get-Real-Not-Play/dp/1591842263)
 - [Startup Wealth: How the Best Angel Investors Make Money in
   Startups](https://www.amazon.com/Startup-Wealth-Angel-Investors-Startups-ebook/dp/B01GN37BDG/)
+- [The Art of Agile Development: Pragmatic Guide to Agile Software
+  Development](https://www.amazon.com/Art-Agile-Development-Pragmatic-Software/dp/0596527675)
 
