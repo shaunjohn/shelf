@@ -366,4 +366,6 @@ Sales](https://www.amazon.com/Conversion-Code-Capture-Internet-Appointments-eboo
   Development](https://www.amazon.com/Art-Agile-Development-Pragmatic-Software/dp/0596527675)
 - [The Art of Thinking
   Clearly](https://www.amazon.com/Art-Thinking-Clearly-Rolf-Dobelli/dp/0062219693)
+- [The Myth of the Strong Leader: Political Leadership in the Modern
+  Age](https://www.amazon.com/Myth-Strong-Leader-Political-Leadership/dp/0465027660)
 
