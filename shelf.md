@@ -368,4 +368,7 @@ Sales](https://www.amazon.com/Conversion-Code-Capture-Internet-Appointments-eboo
   Clearly](https://www.amazon.com/Art-Thinking-Clearly-Rolf-Dobelli/dp/0062219693)
 - [The Myth of the Strong Leader: Political Leadership in the Modern
   Age](https://www.amazon.com/Myth-Strong-Leader-Political-Leadership/dp/0465027660)
+- [A Beautiful Constraint: How To Transform Your Limitations Into
+  Advantages, and Why It's Everyone's
+Business](https://www.amazon.com/Beautiful-Constraint-Transform-Limitations-Advantages-ebook/dp/B00QL30Q90/)
 
