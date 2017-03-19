@@ -371,4 +371,6 @@ Sales](https://www.amazon.com/Conversion-Code-Capture-Internet-Appointments-eboo
 - [A Beautiful Constraint: How To Transform Your Limitations Into
   Advantages, and Why It's Everyone's
 Business](https://www.amazon.com/Beautiful-Constraint-Transform-Limitations-Advantages-ebook/dp/B00QL30Q90/)
+- [The Field Guide to Human-Centered
+  Design](https://www.amazon.com/Field-Guide-Human-Centered-Design/dp/0991406311/)
 
