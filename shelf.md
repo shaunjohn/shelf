@@ -373,4 +373,7 @@ Sales](https://www.amazon.com/Conversion-Code-Capture-Internet-Appointments-eboo
 Business](https://www.amazon.com/Beautiful-Constraint-Transform-Limitations-Advantages-ebook/dp/B00QL30Q90/)
 - [The Field Guide to Human-Centered
   Design](https://www.amazon.com/Field-Guide-Human-Centered-Design/dp/0991406311/)
+- [Practical Augmented Reality: A Guide to the Technologies,
+  Applications, and Human Factors for AR and
+VR](https://www.amazon.com/Practical-Augmented-Reality-Technologies-Applications-ebook/dp/B01LQLIVFC/)
 
