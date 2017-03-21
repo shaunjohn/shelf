@@ -376,4 +376,7 @@ Business](https://www.amazon.com/Beautiful-Constraint-Transform-Limitations-Adva
 - [Practical Augmented Reality: A Guide to the Technologies,
   Applications, and Human Factors for AR and
 VR](https://www.amazon.com/Practical-Augmented-Reality-Technologies-Applications-ebook/dp/B01LQLIVFC/)
+- [How to Castrate a Bull: Unexpected Lessons on Risk, Growth, and
+  Success in
+Business](https://www.amazon.com/How-Castrate-Bull-Unexpected-Business/dp/0470345233/)
 
