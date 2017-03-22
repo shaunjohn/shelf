@@ -379,4 +379,7 @@ VR](https://www.amazon.com/Practical-Augmented-Reality-Technologies-Applications
 - [How to Castrate a Bull: Unexpected Lessons on Risk, Growth, and
   Success in
 Business](https://www.amazon.com/How-Castrate-Bull-Unexpected-Business/dp/0470345233/)
+- [Weapons of Math Destruction: How Big Data Increases Inequality and
+  Threatens
+Democracy](https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418815)
 
