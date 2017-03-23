@@ -382,4 +382,6 @@ Business](https://www.amazon.com/How-Castrate-Bull-Unexpected-Business/dp/047034
 - [Weapons of Math Destruction: How Big Data Increases Inequality and
   Threatens
 Democracy](https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418815)
+- [The Structure of Scientific Revolutions: 50th Anniversary
+  Edition](https://www.amazon.com/gp/product/0226458121/)
 
