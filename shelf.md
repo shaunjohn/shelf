@@ -384,4 +384,6 @@ Business](https://www.amazon.com/How-Castrate-Bull-Unexpected-Business/dp/047034
 Democracy](https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418815)
 - [The Structure of Scientific Revolutions: 50th Anniversary
   Edition](https://www.amazon.com/gp/product/0226458121/)
+- [More Human: Designing a World Where People Come
+  First](https://www.amazon.com/More-Human-Designing-World-People/dp/1610396529)
 
