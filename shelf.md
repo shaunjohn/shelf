@@ -386,4 +386,6 @@ Democracy](https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/
   Edition](https://www.amazon.com/gp/product/0226458121/)
 - [More Human: Designing a World Where People Come
   First](https://www.amazon.com/More-Human-Designing-World-People/dp/1610396529)
+- [How We Got to Now: Six Innovations That Made the Modern
+  World](https://www.amazon.com/How-We-Got-Now-Innovations/dp/1594633932)
 
