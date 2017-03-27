@@ -390,4 +390,6 @@ Democracy](https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/
   World](https://www.amazon.com/How-We-Got-Now-Innovations/dp/1594633932)
 - [Inside the Box: A Proven System of Creativity for Breakthrough
   Results](https://www.amazon.com/Inside-Box-Creativity-Breakthrough-Results/dp/1451659296)
+- [Superintelligence: Paths, Dangers,
+  Strategies](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom-ebook/dp/B00LOOCGB2/)
 
