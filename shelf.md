@@ -393,4 +393,7 @@ Democracy](https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/
 - [Superintelligence: Paths, Dangers,
   Strategies](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom-ebook/dp/B00LOOCGB2/)
 - [Structures: Or Why Things Don't Fall Down](https://www.amazon.com/Structures-Things-Dont-Fall-Down-ebook/dp/B009G1PHP2/)
+- [The Geography of Genius: A Search for the World's Most Creative Places
+  from Ancient Athens to Silicon
+Valley](https://www.amazon.com/Geography-Genius-Creative-Ancient-Silicon/dp/1451691653/)
 
