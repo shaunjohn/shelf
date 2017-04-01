@@ -396,5 +396,7 @@ Democracy](https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/
 - [The Geography of Genius: A Search for the World's Most Creative Places
   from Ancient Athens to Silicon Valley](https://www.amazon.com/Geography-Genius-Creative-Ancient-Silicon/dp/1451691653/)
 - [Deep Learning: Adaptive Computation and Machine Learning series](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618)
+- [The Alchemy of Finance](https://www.amazon.com/Alchemy-Finance-George-Soros/dp/0471445495)
+
 
 
