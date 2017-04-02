@@ -397,6 +397,8 @@ Democracy](https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/
   from Ancient Athens to Silicon Valley](https://www.amazon.com/Geography-Genius-Creative-Ancient-Silicon/dp/1451691653/)
 - [Deep Learning: Adaptive Computation and Machine Learning series](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618)
 - [The Alchemy of Finance](https://www.amazon.com/Alchemy-Finance-George-Soros/dp/0471445495)
+- [The Intelligent Investor: The Definitive Book on Value Investing. A Book of Practical Counsel](https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661/)
+
 
 
 
