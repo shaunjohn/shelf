@@ -399,7 +399,8 @@ Democracy](https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/
 - [The Alchemy of Finance](https://www.amazon.com/Alchemy-Finance-George-Soros/dp/0471445495)
 - [The Intelligent Investor: The Definitive Book on Value Investing. A Book of Practical Counsel](https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661/)
 - [The Checklist Manifesto: How to Get Things Right](https://www.amazon.com/dp/0312430000/)
-
+- [The Elements of Statistical Learning: Data Mining, Inference, and
+  Prediction](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576)
 
 
 
