@@ -401,6 +401,8 @@ Democracy](https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/
 - [The Checklist Manifesto: How to Get Things Right](https://www.amazon.com/dp/0312430000/)
 - [The Elements of Statistical Learning: Data Mining, Inference, and
   Prediction](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576)
+- [Radical Candor: Be a Kick-Ass Boss Without Losing Your
+  Humanity](https://www.amazon.com/Radical-Candor-Kick-Ass-Without-Humanity/dp/1250103509)
 
 
 
