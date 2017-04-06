@@ -403,6 +403,8 @@ Democracy](https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/
   Prediction](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576)
 - [Radical Candor: Be a Kick-Ass Boss Without Losing Your
   Humanity](https://www.amazon.com/Radical-Candor-Kick-Ass-Without-Humanity/dp/1250103509)
+- [Managing Humans: Biting and Humorous Tales of a Software Engineering
+  Manager](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1484221575/)
 
 
 
