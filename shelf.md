@@ -408,6 +408,9 @@ Democracy](https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/
 - [Sense and Respond: How Successful Organizations Listen to Customers
   and Create New Products
 Continuously](https://www.amazon.com/Sense-Respond-Successful-Organizations-Continuously/dp/1633691888/)
+- [The Leading Brain: Powerful Science-Based Strategies for Achieving
+  Peak
+Performance](https://www.amazon.com/Leading-Brain-Science-Based-Strategies-Performance/dp/014312935X/)
 
 
 
