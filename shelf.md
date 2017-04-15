@@ -415,6 +415,8 @@ Performance](https://www.amazon.com/Leading-Brain-Science-Based-Strategies-Perfo
 - [Homo Deus: A Brief History of Tomorrow](https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464310/)
 - [The War of Art: Break Through the Blocks and Win Your Inner Creative
   Battles](https://www.amazon.com/gp/product/1936891026/)
+- [Being Genuine: Stop Being Nice, Start Being
+  Real](https://www.amazon.com/Being-Genuine-Stop-Nice-Start/dp/1892005212/)
 
 
 
