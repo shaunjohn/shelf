@@ -417,6 +417,8 @@ Performance](https://www.amazon.com/Leading-Brain-Science-Based-Strategies-Perfo
   Battles](https://www.amazon.com/gp/product/1936891026/)
 - [Being Genuine: Stop Being Nice, Start Being
   Real](https://www.amazon.com/Being-Genuine-Stop-Nice-Start/dp/1892005212/)
+- [The Seven Pillars of Statistical
+  Wisdom](https://www.amazon.com/Seven-Pillars-Statistical-Wisdom-ebook/dp/B01ELCE9Y0/)
 
 
 
