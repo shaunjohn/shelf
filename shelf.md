@@ -419,6 +419,9 @@ Performance](https://www.amazon.com/Leading-Brain-Science-Based-Strategies-Perfo
   Real](https://www.amazon.com/Being-Genuine-Stop-Nice-Start/dp/1892005212/)
 - [The Seven Pillars of Statistical
   Wisdom](https://www.amazon.com/Seven-Pillars-Statistical-Wisdom-ebook/dp/B01ELCE9Y0/)
+- [Idea Makers: Personal Perspectives on the Lives & Ideas of Some
+  Notable
+People](https://www.amazon.com/Idea-Makers-Personal-Perspectives-Notable-ebook/dp/B01I62L4H6/)
 
 
 
