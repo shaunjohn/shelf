@@ -425,6 +425,8 @@ People](https://www.amazon.com/Idea-Makers-Personal-Perspectives-Notable-ebook/d
 - [Make Your Bed: Little Things That Can Change Your Life...And Maybe
   the
 World](https://www.amazon.com/Make-Your-Bed-Little-Things-ebook/dp/B01KFJGT50/)
+- [Makers and Takers: The Rise of Finance and the Fall of American
+  Business](https://www.amazon.com/Makers-Takers-Finance-American-Business-ebook/dp/B014BR46P2/)
 
 
 
