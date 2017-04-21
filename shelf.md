@@ -427,6 +427,8 @@ People](https://www.amazon.com/Idea-Makers-Personal-Perspectives-Notable-ebook/d
 World](https://www.amazon.com/Make-Your-Bed-Little-Things-ebook/dp/B01KFJGT50/)
 - [Makers and Takers: The Rise of Finance and the Fall of American
   Business](https://www.amazon.com/Makers-Takers-Finance-American-Business-ebook/dp/B014BR46P2/)
+- [Fortune Makers: The Leaders Creating China's Great Global
+  Companies](https://www.amazon.com/Fortune-Makers-Leaders-Creating-Companies-ebook/dp/B01MSY8CDE/)
 
 
 
