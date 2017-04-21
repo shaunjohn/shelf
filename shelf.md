@@ -429,6 +429,8 @@ World](https://www.amazon.com/Make-Your-Bed-Little-Things-ebook/dp/B01KFJGT50/)
   Business](https://www.amazon.com/Makers-Takers-Finance-American-Business-ebook/dp/B014BR46P2/)
 - [Fortune Makers: The Leaders Creating China's Great Global
   Companies](https://www.amazon.com/Fortune-Makers-Leaders-Creating-Companies-ebook/dp/B01MSY8CDE/)
+- [A New Kind of
+  Science](https://www.amazon.com/New-Kind-Science-Stephen-Wolfram/dp/1579550088)
 
 
 
