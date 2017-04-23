@@ -431,6 +431,9 @@ World](https://www.amazon.com/Make-Your-Bed-Little-Things-ebook/dp/B01KFJGT50/)
   Companies](https://www.amazon.com/Fortune-Makers-Leaders-Creating-Companies-ebook/dp/B01MSY8CDE/)
 - [A New Kind of
   Science](https://www.amazon.com/New-Kind-Science-Stephen-Wolfram/dp/1579550088)
+- [Political Order and Political Decay: From the Industrial Revolution
+  to the Globalization of
+Democracy](https://www.amazon.com/Political-Order-Decay-Industrial-Globalization-ebook/dp/B00IQOFS7M/)
 
 
 
