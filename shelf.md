@@ -438,6 +438,8 @@ Democracy](https://www.amazon.com/Political-Order-Decay-Industrial-Globalization
   your customers want to buy...create a mass of raving fans...and take
 any business to the next
 level](https://www.amazon.com/Ask-counterintuitive-discover-customers-business-ebook/dp/B00UD7AX66/)
+- [Complexity: A Guided
+  Tour](https://www.amazon.com/Complexity-Guided-Tour-Melanie-Mitchell/dp/0199798109/)
 
 
 
