@@ -440,6 +440,8 @@ any business to the next
 level](https://www.amazon.com/Ask-counterintuitive-discover-customers-business-ebook/dp/B00UD7AX66/)
 - [Complexity: A Guided
   Tour](https://www.amazon.com/Complexity-Guided-Tour-Melanie-Mitchell/dp/0199798109/)
+- [What Technology
+  Wants](https://www.amazon.com/What-Technology-Wants-Kevin-Kelly/dp/0143120174/)
 
 
 
