@@ -443,6 +443,8 @@ level](https://www.amazon.com/Ask-counterintuitive-discover-customers-business-e
 - [What Technology
   Wants](https://www.amazon.com/What-Technology-Wants-Kevin-Kelly/dp/0143120174/)
 -[Probability - A Beginner's Guide To Permutations And Combinations: The Classic Equations, Better Explained](https://www.amazon.com/Probability-Beginners-Permutations-Combinations-Equations-ebook/dp/B01LX4YQSY/)
+- [A Short History of Nearly
+  Everthing](https://www.amazon.com/Short-History-Nearly-Everything/dp/076790818X)
 
 
 
