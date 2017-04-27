@@ -442,6 +442,7 @@ level](https://www.amazon.com/Ask-counterintuitive-discover-customers-business-e
   Tour](https://www.amazon.com/Complexity-Guided-Tour-Melanie-Mitchell/dp/0199798109/)
 - [What Technology
   Wants](https://www.amazon.com/What-Technology-Wants-Kevin-Kelly/dp/0143120174/)
+-[Probability - A Beginner's Guide To Permutations And Combinations: The Classic Equations, Better Explained](https://www.amazon.com/Probability-Beginners-Permutations-Combinations-Equations-ebook/dp/B01LX4YQSY/)
 
 
 
