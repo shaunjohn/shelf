@@ -446,5 +446,8 @@ level](https://www.amazon.com/Ask-counterintuitive-discover-customers-business-e
 - [A Short History of Nearly
   Everthing](https://www.amazon.com/Short-History-Nearly-Everything/dp/076790818X)
 - [Work the System: The Simple Mechanics of Making More and Working Less](https://www.amazon.com/Work-System-Mechanics-printing-September/dp/160832253X)
+- [The Productivity Project: Accomplishing More by Managing Your Time,
+  Attention, and
+Energy](https://www.amazon.com/Productivity-Project-Accomplishing-Managing-Attention-ebook/dp/B00Z3G239W/)
 
 
