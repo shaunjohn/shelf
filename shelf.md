@@ -445,6 +445,6 @@ level](https://www.amazon.com/Ask-counterintuitive-discover-customers-business-e
 -[Probability - A Beginner's Guide To Permutations And Combinations: The Classic Equations, Better Explained](https://www.amazon.com/Probability-Beginners-Permutations-Combinations-Equations-ebook/dp/B01LX4YQSY/)
 - [A Short History of Nearly
   Everthing](https://www.amazon.com/Short-History-Nearly-Everything/dp/076790818X)
-
+- [Work the System: The Simple Mechanics of Making More and Working Less](https://www.amazon.com/Work-System-Mechanics-printing-September/dp/160832253X)
 
 
