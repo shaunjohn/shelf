@@ -452,5 +452,8 @@ Energy](https://www.amazon.com/Productivity-Project-Accomplishing-Managing-Atten
 - [The Telomere Effect: A Revolutionary Approach to Living Younger,
   Healthier,
 Longer](https://www.amazon.com/Telomere-Effect-Revolutionary-Approach-Healthier-ebook/dp/B01F1UD66S/)
+- [The Second Machine Age: Work, Progress, and Prosperity in a Time of
+  Brilliant
+Technologies](https://www.amazon.com/Second-Machine-Age-Prosperity-Technologies/dp/0393350649/)
 
 
