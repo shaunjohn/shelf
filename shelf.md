@@ -459,5 +459,8 @@ Technologies](https://www.amazon.com/Second-Machine-Age-Prosperity-Technologies/
   Machine Learning with Cluster Analysis, Gaussian Mixture Models, and
 Principal Components
 Analysis](https://www.amazon.com/Unsupervised-Machine-Learning-Python-Components-ebook/dp/B01G1HH5T4/)
+- [Not a Scientist: How Politicians Mistake, Misrepresent, and Utterly
+  Mangle
+Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/dp/039335332X/)
 
 
