@@ -462,5 +462,6 @@ Analysis](https://www.amazon.com/Unsupervised-Machine-Learning-Python-Components
 - [Not a Scientist: How Politicians Mistake, Misrepresent, and Utterly
   Mangle
 Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/dp/039335332X/)
+- [Hit Makers: The Science of Popularity in an Age of Distraction](https://www.amazon.com/Hit-Makers-Science-Popularity-Distraction/dp/110198032X/)
 
 
