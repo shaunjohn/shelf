@@ -463,5 +463,7 @@ Analysis](https://www.amazon.com/Unsupervised-Machine-Learning-Python-Components
   Mangle
 Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/dp/039335332X/)
 - [Hit Makers: The Science of Popularity in an Age of Distraction](https://www.amazon.com/Hit-Makers-Science-Popularity-Distraction/dp/110198032X/)
+- [Sell or Be Sold: How to Get Your Way in Business and in Life](https://www.amazon.com/Sell-Be-Sold-Your-Business/dp/1608322564)
+
 
 
