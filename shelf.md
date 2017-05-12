@@ -465,7 +465,7 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Hit Makers: The Science of Popularity in an Age of Distraction](https://www.amazon.com/Hit-Makers-Science-Popularity-Distraction/dp/110198032X/)
 - [Sell or Be Sold: How to Get Your Way in Business and in Life](https://www.amazon.com/Sell-Be-Sold-Your-Business/dp/1608322564)
 - [Matchmakers: The New Economics of Multisided Platforms](https://www.amazon.com/Matchmakers-New-Economics-Multisided-Platforms/dp/1633691721/)
-
+- [Platform Scale: How an emerging business model helps startups build large empires with minimum investment](https://www.amazon.com/Platform-Scale-emerging-business-investment/dp/9810967586/)
 
 
 
