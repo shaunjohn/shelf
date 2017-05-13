@@ -466,6 +466,6 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Sell or Be Sold: How to Get Your Way in Business and in Life](https://www.amazon.com/Sell-Be-Sold-Your-Business/dp/1608322564)
 - [Matchmakers: The New Economics of Multisided Platforms](https://www.amazon.com/Matchmakers-New-Economics-Multisided-Platforms/dp/1633691721/)
 - [Platform Scale: How an emerging business model helps startups build large empires with minimum investment](https://www.amazon.com/Platform-Scale-emerging-business-investment/dp/9810967586/)
-
+- [The Captain Class: The Hidden Force That Creates the World's Greatest Teams](https://www.amazon.com/Captain-Class-Hidden-Creates-Greatest-ebook/dp/B01LKCRKFY/)
 
 
