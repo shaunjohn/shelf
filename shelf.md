@@ -467,5 +467,6 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Matchmakers: The New Economics of Multisided Platforms](https://www.amazon.com/Matchmakers-New-Economics-Multisided-Platforms/dp/1633691721/)
 - [Platform Scale: How an emerging business model helps startups build large empires with minimum investment](https://www.amazon.com/Platform-Scale-emerging-business-investment/dp/9810967586/)
 - [The Captain Class: The Hidden Force That Creates the World's Greatest Teams](https://www.amazon.com/Captain-Class-Hidden-Creates-Greatest-ebook/dp/B01LKCRKFY/)
+- [Irresistible: The Rise of Addictive Technology and the Business of Keeping Us Hooked](https://www.amazon.com/Irresistible-Addictive-Technology-Business-Keeping-ebook/dp/B01HNJIK70/)
 
 
