@@ -471,4 +471,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [An Introduction to African
   Politics](https://www.amazon.com/Introduction-African-Politics-Alex-Thomson/dp/113878284X/)
 - [What Every Angel Investor Wants You to Know: An Insider Reveals How to Get Smart Funding for Your Billion Dollar Idea](https://www.amazon.com/What-Every-Angel-Investor-Wants-ebook/dp/B00BPO76XY/)
-
+- [University of Berkshire Hathaway: 30 Years of Lessons Learned from Warren Buffett & Charlie Munger at the Annual Shareholders Meeting](https://www.amazon.com/dp/B06XT89563)
