@@ -473,3 +473,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [What Every Angel Investor Wants You to Know: An Insider Reveals How to Get Smart Funding for Your Billion Dollar Idea](https://www.amazon.com/What-Every-Angel-Investor-Wants-ebook/dp/B00BPO76XY/)
 - [University of Berkshire Hathaway: 30 Years of Lessons Learned from Warren Buffett & Charlie Munger at the Annual Shareholders Meeting](https://www.amazon.com/dp/B06XT89563)
 - [A Culture of Growth: The Origins of the Modern Economy](https://www.amazon.com/Culture-Growth-Origins-Schumpeter-Lectures-ebook/dp/B01EGQA1Z2/)
+- [Modern Monopolies: What It Takes to Dominate the 21st Century Economy](https://www.amazon.com/gp/product/1250091896/)
