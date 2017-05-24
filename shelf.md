@@ -476,6 +476,6 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Modern Monopolies: What It Takes to Dominate the 21st Century Economy](https://www.amazon.com/gp/product/1250091896/)
 - [Scale: The Universal Laws of Growth, Innovation, Sustainability, and the Pace of Life in Organisms, Cities, Economies, and Companies](https://www.amazon.com/gp/product/B01KGZVYDK/)
 - [The Network Imperative: How to Survive and Grow in the Age of Digital Business Models](https://www.amazon.com/Network-Imperative-Survive-Digital-Business/dp/1633692051/)
-
+- [Chaos Monkeys: Obscene Fortune and Random Failure in Silicon Valley](https://www.amazon.com/Chaos-Monkeys-Obscene-Fortune-Failure-ebook/dp/B019MMUAAQ/)
 
 
