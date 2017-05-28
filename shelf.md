@@ -480,6 +480,6 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Content Trap: A Strategist's Guide to Digital Change](https://www.amazon.com/Content-Trap-Strategists-Digital-Change/dp/0812995384/)
 - [Adaptive Markets: Financial Evolution at the Speed of Thought](https://www.amazon.com/Adaptive-Markets-Financial-Evolution-Thought/dp/0691135142/)
 - [Winning with Data: Transform Your Culture, Empower Your People, and Shape the Future](https://www.amazon.com/Winning-Data-Transform-Culture-Empower/dp/1119257239/)
-
+- [Play Bigger: How Pirates, Dreamers, and Innovators Create and Dominate Markets](https://www.amazon.com/gp/product/0062407619/)
 
 
