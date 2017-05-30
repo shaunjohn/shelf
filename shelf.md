@@ -482,5 +482,6 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Winning with Data: Transform Your Culture, Empower Your People, and Shape the Future](https://www.amazon.com/Winning-Data-Transform-Culture-Empower/dp/1119257239/)
 - [Play Bigger: How Pirates, Dreamers, and Innovators Create and Dominate Markets](https://www.amazon.com/gp/product/0062407619/)
 - [A Man for All Markets: From Las Vegas to Wall Street, How I Beat the Dealer and the Market](https://www.amazon.com/Man-All-Markets-Street-Dealer/dp/1400067960/)
+- [Dual Transformation: How to Reposition Today's Business While Creating the Future](https://www.amazon.com/Dual-Transformation-Reposition-Business-Creating/dp/1633692485/)
 
 
