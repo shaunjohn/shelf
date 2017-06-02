@@ -483,7 +483,6 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [A Man for All Markets: From Las Vegas to Wall Street, How I Beat the Dealer and the Market](https://www.amazon.com/Man-All-Markets-Street-Dealer/dp/1400067960/)
 - [Dual Transformation: How to Reposition Today's Business While Creating the Future](https://www.amazon.com/Dual-Transformation-Reposition-Business-Creating/dp/1633692485/)
 - [The End of Theory: Financial Crises, the Failure of Economics, and
-  the Sweep of Human
-Interaction](https://www.amazon.com/End-Theory-Financial-Economics-Interaction/dp/0691169012/)
-
+  the Sweep of Human Interaction](https://www.amazon.com/End-Theory-Financial-Economics-Interaction/dp/0691169012/)
+- [Lovability: How to Build a Business That People Love and Be Happy Doing It](https://www.amazon.com/Lovability-Build-Business-People-Happy-ebook/dp/B06XJ9RGNY/)
 
