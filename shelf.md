@@ -488,7 +488,7 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Product Leadership: How Top Product Managers Launch Awesome Products and Build Successful Teams](https://www.amazon.com/gp/product/B07285Z141/)
 - [The Money Formula: Dodgy Finance, Pseudo Science, and How Mathematicians Took Over the Markets](https://www.amazon.com/Money-Formula-Finance-Science-Mathematicians/dp/1119358612/)
 - [The New Alpha: Join the Rising Movement of Influencers and Changemakers Who are Redefining Leadership](https://www.amazon.com/gp/product/1259641910/)
-
+- [The Inner Lives of Markets: How People Shape Them—And They Shape Us](https://www.amazon.com/gp/product/1610394925/)
 
 
 
