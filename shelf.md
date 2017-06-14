@@ -493,5 +493,5 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Give: The Ultimate Guide To Using Facebook Advertising to Generate More Leads, More Clients, and Massive ROI](https://www.amazon.com/gp/product/B06Y6KZK5L/)
 - [The Face of Digital: How Digital Technologies Are Changing The $565 Billion Dollar Events Industry](https://www.amazon.com/gp/product/B071PF6ZLY/)
 - [Innovation and Its Enemies: Why People Resist New Technologies](https://www.amazon.com/gp/product/0190467037/)
-
+- [Global Inequality: A New Approach for the Age of Globalization](https://www.amazon.com/gp/product/B01DM1ZA3A/)
 
