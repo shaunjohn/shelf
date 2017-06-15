@@ -494,4 +494,6 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Face of Digital: How Digital Technologies Are Changing The $565 Billion Dollar Events Industry](https://www.amazon.com/gp/product/B071PF6ZLY/)
 - [Innovation and Its Enemies: Why People Resist New Technologies](https://www.amazon.com/gp/product/0190467037/)
 - [Global Inequality: A New Approach for the Age of Globalization](https://www.amazon.com/gp/product/B01DM1ZA3A/)
+- [Hacking Growth: How Today's Fastest-Growing Companies Drive Breakout Success](https://www.amazon.com/Hacking-Growth-Fastest-Growing-Companies-Breakout-ebook/dp/B01IZTCF6Y/)
+
 
