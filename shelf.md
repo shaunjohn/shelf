@@ -496,5 +496,6 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Global Inequality: A New Approach for the Age of Globalization](https://www.amazon.com/gp/product/B01DM1ZA3A/)
 - [Hacking Growth: How Today's Fastest-Growing Companies Drive Breakout Success](https://www.amazon.com/Hacking-Growth-Fastest-Growing-Companies-Breakout-ebook/dp/B01IZTCF6Y/)
 - [Angel: How to Invest in Technology Startups—Timeless Advice from an Angel Investor Who Turned $100,000 into $100,000,000](https://www.amazon.com/gp/product/B01M9C1Y3S/)
+- [The Face of Digital: How Digital Technologies Are Changing The $565 Billion Dollar Events Industry](https://www.amazon.com/gp/product/B071PF6ZLY/)
 
 
