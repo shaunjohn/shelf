@@ -499,4 +499,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Face of Digital: How Digital Technologies Are Changing The $565 Billion Dollar Events Industry](https://www.amazon.com/gp/product/B071PF6ZLY/)
 - [One Mission: How Leaders Build a Team of Teams](https://www.amazon.com/gp/product/B01MTXIBL8/)
 - [Principles: Life and Work](https://www.amazon.com/gp/product/B071CTK28D/)
-
+- [Machine, Platform, Crowd: Harnessing Our Digital Future](https://www.amazon.com/gp/product/B01MAWT25I/)
