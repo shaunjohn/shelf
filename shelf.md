@@ -500,3 +500,5 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [One Mission: How Leaders Build a Team of Teams](https://www.amazon.com/gp/product/B01MTXIBL8/)
 - [Principles: Life and Work](https://www.amazon.com/gp/product/B071CTK28D/)
 - [Machine, Platform, Crowd: Harnessing Our Digital Future](https://www.amazon.com/gp/product/B01MAWT25I/)
+- [Problem Solved: A Powerful System for Making Complex Decisions with Confidence and Conviction](https://www.amazon.com/Problem-Solved-Decisions-Confidence-Conviction-ebook/dp/B01N28K80U/)
+
