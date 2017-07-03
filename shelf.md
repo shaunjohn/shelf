@@ -505,4 +505,7 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Scienceblind: Why Our Intuitive Theories About the World Are So Often Wrong](https://www.amazon.com/Scienceblind-Intuitive-Theories-About-World/dp/0465053947/)
 - [Confessions of the Pricing Man: How Price Affects Everything](https://www.amazon.com/Confessions-Pricing-Man-Affects-Everything-ebook/dp/B016XMVQA6/)
 - [The Knowledge Illusion: Why We Never Think Alone](https://www.amazon.com/gp/product/039918435X/)
+- [Mapping Innovation: A Playbook for Navigating a Disruptive Age](https://www.amazon.com/Mapping-Innovation-Playbook-Navigating-Disruptive-ebook/dp/B06Y5W4314/)
+
+
 
