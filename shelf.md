@@ -506,6 +506,7 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Confessions of the Pricing Man: How Price Affects Everything](https://www.amazon.com/Confessions-Pricing-Man-Affects-Everything-ebook/dp/B016XMVQA6/)
 - [The Knowledge Illusion: Why We Never Think Alone](https://www.amazon.com/gp/product/039918435X/)
 - [Mapping Innovation: A Playbook for Navigating a Disruptive Age](https://www.amazon.com/Mapping-Innovation-Playbook-Navigating-Disruptive-ebook/dp/B06Y5W4314/)
+- [Scatter, Adapt, and Remember: How Humans Will Survive a Mass Extinction](https://www.amazon.com/gp/product/B00A9ET57Q/)
 
 
 
