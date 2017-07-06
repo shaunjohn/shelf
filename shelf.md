@@ -509,5 +509,6 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Scatter, Adapt, and Remember: How Humans Will Survive a Mass Extinction](https://www.amazon.com/gp/product/B00A9ET57Q/)
 - [The Decision Book: 50 Models for Strategic Thinking](https://www.amazon.com/Decision-Book-Models-Strategic-Thinking-ebook/dp/B00C57C392/)
 - [Managing The Mental Game: How To Think More Effectively, Navigate Uncertainty, And Build Mental Fortitude](https://www.amazon.com/gp/product/B01NAD0E3L/)
+- [The Go-Giver Leader: A Little Story About What Matters Most in Business](https://www.amazon.com/gp/product/B013Q700EY/)
 
 
