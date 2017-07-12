@@ -511,4 +511,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Managing The Mental Game: How To Think More Effectively, Navigate Uncertainty, And Build Mental Fortitude](https://www.amazon.com/gp/product/B01NAD0E3L/)
 - [The Go-Giver Leader: A Little Story About What Matters Most in Business](https://www.amazon.com/gp/product/B013Q700EY/)
 - [WTF?: What's the Future and Why It's Up to Us](https://www.amazon.com/WTF-Whats-Future-Why-Its-ebook/dp/B01N34IDU6/)
-
+- [The Energy Bus: 10 Rules to Fuel Your Life, Work, and Team with Positive Energy](https://www.amazon.com/gp/product/B0086I25S8/)
