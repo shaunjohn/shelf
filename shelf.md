@@ -512,6 +512,6 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Go-Giver Leader: A Little Story About What Matters Most in Business](https://www.amazon.com/gp/product/B013Q700EY/)
 - [WTF?: What's the Future and Why It's Up to Us](https://www.amazon.com/WTF-Whats-Future-Why-Its-ebook/dp/B01N34IDU6/)
 - [The Energy Bus: 10 Rules to Fuel Your Life, Work, and Team with Positive Energy](https://www.amazon.com/gp/product/B0086I25S8/)
-- [Leadership and Self-Deception: Getting Out of the
-  Box](https://www.amazon.com/gp/product/B00GUPYRUS/)
+- [Leadership and Self-Deception: Getting Out of the Box](https://www.amazon.com/gp/product/B00GUPYRUS/)
+- [Expert Secrets: The Underground Playbook for Finding Your Message, Building a Tribe, and Changing the World](https://www.amazon.com/Expert-Secrets-Underground-Playbook-Building-ebook/dp/B071J4HKT3/)
 
