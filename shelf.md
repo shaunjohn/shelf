@@ -514,4 +514,5 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Energy Bus: 10 Rules to Fuel Your Life, Work, and Team with Positive Energy](https://www.amazon.com/gp/product/B0086I25S8/)
 - [Leadership and Self-Deception: Getting Out of the Box](https://www.amazon.com/gp/product/B00GUPYRUS/)
 - [Expert Secrets: The Underground Playbook for Finding Your Message, Building a Tribe, and Changing the World](https://www.amazon.com/Expert-Secrets-Underground-Playbook-Building-ebook/dp/B071J4HKT3/)
+- [The Enigma of Reason](https://www.amazon.com/Enigma-Reason-Hugo-Mercier/dp/0674368304/)
 
