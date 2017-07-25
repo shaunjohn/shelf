@@ -516,4 +516,5 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Expert Secrets: The Underground Playbook for Finding Your Message, Building a Tribe, and Changing the World](https://www.amazon.com/Expert-Secrets-Underground-Playbook-Building-ebook/dp/B071J4HKT3/)
 - [The Enigma of Reason](https://www.amazon.com/Enigma-Reason-Hugo-Mercier/dp/0674368304/)
 - [Driven: Understanding and Harnessing the Genetic Gifts Shared by Entrepreneurs, Navy SEALs, Pro Athletes, and Maybe YOU](https://www.amazon.com/gp/product/B073HSQYMZ/)
+- [Where the Jobs Are: Entrepreneurship and the Soul of the American Economy](https://www.amazon.com/dp/B00E7Z5AEU/)
 
