@@ -521,7 +521,7 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Unlimited Memory: How to Use Advanced Learning Strategies to Learn Faster, Remember More and be More Productive](https://www.amazon.com/gp/product/B00I3QS1XQ/)
 - [How Emotions Are Made: The Secret Life of the Brain](https://www.amazon.com/gp/product/0544133315/)
 - [The Death of Expertise: The Campaign Against Established Knowledge and Why it Matters](https://www.amazon.com/gp/product/0190469412/)
-
+- [The Product Book: How to Become a Great Product Manager](https://www.amazon.com/gp/product/B071HFBGXR/)
 
 
 
