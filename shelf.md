@@ -522,7 +522,7 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [How Emotions Are Made: The Secret Life of the Brain](https://www.amazon.com/gp/product/0544133315/)
 - [The Death of Expertise: The Campaign Against Established Knowledge and Why it Matters](https://www.amazon.com/gp/product/0190469412/)
 - [The Product Book: How to Become a Great Product Manager](https://www.amazon.com/gp/product/B071HFBGXR/)
-
+- [Deviate: The Science of Seeing Differently](https://www.amazon.com/Deviate-Science-Differently-Beau-Lotto/dp/0316300195/)
 
 
 
