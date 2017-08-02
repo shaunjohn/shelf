@@ -523,6 +523,7 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Death of Expertise: The Campaign Against Established Knowledge and Why it Matters](https://www.amazon.com/gp/product/0190469412/)
 - [The Product Book: How to Become a Great Product Manager](https://www.amazon.com/gp/product/B071HFBGXR/)
 - [Deviate: The Science of Seeing Differently](https://www.amazon.com/Deviate-Science-Differently-Beau-Lotto/dp/0316300195/)
+- [Your Brain Is a Time Machine: The Neuroscience and Physics of Time](https://www.amazon.com/gp/product/0393247945/)
 
 
 
