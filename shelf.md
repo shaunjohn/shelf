@@ -524,6 +524,6 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Product Book: How to Become a Great Product Manager](https://www.amazon.com/gp/product/B071HFBGXR/)
 - [Deviate: The Science of Seeing Differently](https://www.amazon.com/Deviate-Science-Differently-Beau-Lotto/dp/0316300195/)
 - [Your Brain Is a Time Machine: The Neuroscience and Physics of Time](https://www.amazon.com/gp/product/0393247945/)
-
+- [Darwin's Unfinished Symphony: How Culture Made the Human Mind](https://www.amazon.com/Darwins-Unfinished-Symphony-Culture-Human/dp/0691151180/)
 
 
