@@ -527,4 +527,5 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Darwin's Unfinished Symphony: How Culture Made the Human Mind](https://www.amazon.com/Darwins-Unfinished-Symphony-Culture-Human/dp/0691151180/)
 - [The Industries of the Future](https://www.amazon.com/gp/product/B00UDCNJYO/)
 - [Deep Thinking: Where Machine Intelligence Ends and Human Creativity Begins](https://www.amazon.com/Deep-Thinking-Machine-Intelligence-Creativity/dp/161039786X/)
+- [Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness](https://www.amazon.com/Other-Minds-Octopus-Origins-Consciousness/dp/0374227764/)
 
