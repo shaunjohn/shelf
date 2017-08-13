@@ -532,5 +532,5 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Ethics of Invention: Technology and the Human Future ](https://www.amazon.com/Ethics-Invention-Technology-Human-Future/dp/039307899X)
 - [Reality Is Not What It Seems: The Journey to Quantum Gravity](https://www.amazon.com/Reality-Not-What-Seems-Journey/dp/0735213925/)
 - [Why?: What Makes Us Curious](https://www.amazon.com/Why-What-Makes-Us-Curious/dp/1476792097/)
-
+- [Stealing Fire: How Silicon Valley, the Navy SEALs, and Maverick Scientists Are Revolutionizing the Way We Live and Work](https://www.amazon.com/Stealing-Fire-Maverick-Scientists-Revolutionizing-ebook/dp/B01GCCT3G6/)
 
