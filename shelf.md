@@ -534,3 +534,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Why?: What Makes Us Curious](https://www.amazon.com/Why-What-Makes-Us-Curious/dp/1476792097/)
 - [Stealing Fire: How Silicon Valley, the Navy SEALs, and Maverick Scientists Are Revolutionizing the Way We Live and Work](https://www.amazon.com/Stealing-Fire-Maverick-Scientists-Revolutionizing-ebook/dp/B01GCCT3G6/)
 - [Why Should Anyone Work Here?: What It Takes to Create an Authentic Organization](https://www.amazon.com/gp/product/B00WDDOSKA)
+- [Simple Habits for Complex Times: Powerful Practices for Leaders](https://www.amazon.com/gp/product/B00T0392IY/)
