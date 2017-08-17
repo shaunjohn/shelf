@@ -535,3 +535,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Stealing Fire: How Silicon Valley, the Navy SEALs, and Maverick Scientists Are Revolutionizing the Way We Live and Work](https://www.amazon.com/Stealing-Fire-Maverick-Scientists-Revolutionizing-ebook/dp/B01GCCT3G6/)
 - [Why Should Anyone Work Here?: What It Takes to Create an Authentic Organization](https://www.amazon.com/gp/product/B00WDDOSKA)
 - [Simple Habits for Complex Times: Powerful Practices for Leaders](https://www.amazon.com/gp/product/B00T0392IY/)
+- [Face Value: The Irresistible Influence of First Impressions](https://www.amazon.com/gp/product/0691167494/)
