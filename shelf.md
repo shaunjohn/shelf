@@ -537,5 +537,6 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Simple Habits for Complex Times: Powerful Practices for Leaders](https://www.amazon.com/gp/product/B00T0392IY/)
 - [Face Value: The Irresistible Influence of First Impressions](https://www.amazon.com/gp/product/0691167494/)
 - [Move: How Decisive Leaders Execute Strategy Despite Obstacles, Setbacks, and Stalls](https://www.amazon.com/Move-Decisive-Strategy-Obstacles-Setbacks-ebook/dp/B01N9ZVTGG/)
+- [The Evolution of Imagination](https://www.amazon.com/Evolution-Imagination-Stephen-T-Asma/dp/022622516X/)
 
 
