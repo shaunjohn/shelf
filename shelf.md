@@ -541,4 +541,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [After On: A Novel of Silicon Valley](https://www.amazon.com/gp/product/B06XZSNB3W/)
 - [Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty](https://www.amazon.com/gp/product/B007CI81IQ/)
 - [Dead Aid: Why Aid Is Not Working and How There Is a Better Way for Africa](https://www.amazon.com/gp/product/B0036FOGTW/)
-
+- [The Signals Are Talking: Why Today's Fringe Is Tomorrow's Mainstream](https://www.amazon.com/gp/product/B01IMZ5CGG/)
