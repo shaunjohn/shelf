@@ -545,4 +545,6 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Tomorrowland: Our Journey from Science Fiction to Science Fact](https://www.amazon.com/gp/product/B00O4IA82E/)
 - [Natural Capitalism](https://www.amazon.com/gp/product/B001IMYGR2/)
 - [One Buck at a Time: An Insider's Account of How Dollar Tree Remade American Retail](https://www.amazon.com/One-Buck-Time-Insiders-American-ebook/dp/B01MSE955L/)
+- [How to Lead When You're Not in Charge: Leveraging Influence When You Lack Authority](https://www.amazon.com/gp/product/B01N3NGFNU/)
+
 
