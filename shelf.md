@@ -546,5 +546,6 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Natural Capitalism](https://www.amazon.com/gp/product/B001IMYGR2/)
 - [One Buck at a Time: An Insider's Account of How Dollar Tree Remade American Retail](https://www.amazon.com/One-Buck-Time-Insiders-American-ebook/dp/B01MSE955L/)
 - [How to Lead When You're Not in Charge: Leveraging Influence When You Lack Authority](https://www.amazon.com/gp/product/B01N3NGFNU/)
+- [Life 3.0: Being Human in the Age of Artificial Intelligence](https://www.amazon.com/gp/product/B06WGNPM7V/)
 
 
