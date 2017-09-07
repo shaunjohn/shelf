@@ -548,5 +548,6 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [How to Lead When You're Not in Charge: Leveraging Influence When You Lack Authority](https://www.amazon.com/gp/product/B01N3NGFNU/)
 - [Life 3.0: Being Human in the Age of Artificial Intelligence](https://www.amazon.com/gp/product/B06WGNPM7V/)
 - [The Cheat Code: Going Off Script to Get More, Go Faster, and Shortcut Your Way to Success](https://www.amazon.com/dp/B019B6WU42/)
+- [How to Tame a Fox (and Build a Dog): Visionary Scientists and a Siberian Tale of Jump-Started Evolution](https://www.amazon.com/How-Tame-Fox-Build-Dog/dp/022644418X/)
 
 
