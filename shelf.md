@@ -553,4 +553,5 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Ticket Masters: The Rise of the Concert Industry and How the Public Got Scalped](https://www.amazon.com/Ticket-Masters-Concert-Industry-Scalped-ebook/dp/B0074VPKAI/)
 - [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://www.amazon.com/gp/product/B01M9ASFQ3/)
 - [Tribe of Mentors: Short Life Advice from the Best in the World](https://www.amazon.com/gp/product/B071KJ7PTB/)
+- [Launch: An Internet Millionaire's Secret Formula To Sell Almost Anything Online, Build A Business You Love, And Live The Life Of Your Dreams](https://www.amazon.com/Launch-Internet-Millionaires-Anything-Business-ebook/dp/B00KXIME8U/)
 
