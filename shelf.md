@@ -555,4 +555,6 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Tribe of Mentors: Short Life Advice from the Best in the World](https://www.amazon.com/gp/product/B071KJ7PTB/)
 - [Launch: An Internet Millionaire's Secret Formula To Sell Almost Anything Online, Build A Business You Love, And Live The Life Of Your Dreams](https://www.amazon.com/Launch-Internet-Millionaires-Anything-Business-ebook/dp/B00KXIME8U/)
 - [The Four: The Hidden DNA of Amazon, Apple, Facebook, and Google](https://www.amazon.com/gp/product/B06WP982HX/)
+- [World Without Mind: The Existential Threat of Big Tech](https://www.amazon.com/gp/product/B01N4VV7B6/)
+
 
