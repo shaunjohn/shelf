@@ -557,4 +557,5 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Four: The Hidden DNA of Amazon, Apple, Facebook, and Google](https://www.amazon.com/gp/product/B06WP982HX/)
 - [World Without Mind: The Existential Threat of Big Tech](https://www.amazon.com/gp/product/B01N4VV7B6/)
 - [Performance Partnerships: The Checkered Past, Changing Present and Exciting Future of Affiliate Marketing](https://www.amazon.com/gp/product/B0713Y5L7W/)
+- [Hit Refresh: The Quest to Rediscover Microsoft's Soul and Imagine a Better Future for Everyone](https://www.amazon.com/gp/product/B01HOT5SQA/)
 
