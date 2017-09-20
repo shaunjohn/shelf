@@ -558,4 +558,5 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [World Without Mind: The Existential Threat of Big Tech](https://www.amazon.com/gp/product/B01N4VV7B6/)
 - [Performance Partnerships: The Checkered Past, Changing Present and Exciting Future of Affiliate Marketing](https://www.amazon.com/gp/product/B0713Y5L7W/)
 - [Hit Refresh: The Quest to Rediscover Microsoft's Soul and Imagine a Better Future for Everyone](https://www.amazon.com/gp/product/B01HOT5SQA/)
+- [The Square and the Tower: Networks and Power, from the Freemasons to Facebook](https://www.amazon.com/Square-Tower-Networks-Freemasons-Facebook-ebook/dp/B073NPCBL5/)
 
