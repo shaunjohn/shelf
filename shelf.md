@@ -561,6 +561,7 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Square and the Tower: Networks and Power, from the Freemasons to Facebook](https://www.amazon.com/Square-Tower-Networks-Freemasons-Facebook-ebook/dp/B073NPCBL5/)
 - [Reset: My Fight for Inclusion and Lasting Change](https://www.amazon.com/Reset-Fight-Inclusion-Lasting-Change-ebook/dp/B06XJZ2BM3/)
 - [Abundance: The Future Is Better Than You Think](https://www.amazon.com/gp/product/B005FLOGMM/)
+- [The Charisma Myth: How Anyone Can Master the Art and Science of Personal Magnetism](https://www.amazon.com/gp/product/B005GSZZ24/)
 
 
 
