@@ -562,6 +562,7 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Reset: My Fight for Inclusion and Lasting Change](https://www.amazon.com/Reset-Fight-Inclusion-Lasting-Change-ebook/dp/B06XJZ2BM3/)
 - [Abundance: The Future Is Better Than You Think](https://www.amazon.com/gp/product/B005FLOGMM/)
 - [The Charisma Myth: How Anyone Can Master the Art and Science of Personal Magnetism](https://www.amazon.com/gp/product/B005GSZZ24/)
+- [The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data](https://www.amazon.com/gp/product/B01NC39SM6/)
 
 
 
