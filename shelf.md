@@ -564,6 +564,7 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Charisma Myth: How Anyone Can Master the Art and Science of Personal Magnetism](https://www.amazon.com/gp/product/B005GSZZ24/)
 - [The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data](https://www.amazon.com/gp/product/B01NC39SM6/)
 - [Narconomics: How to Run a Drug Cartel](https://www.amazon.com/Narconomics-How-Run-Drug-Cartel/dp/B01CUKUOZS/)
+- [The Net and the Butterfly: The Art and Practice of Breakthrough Thinking](https://www.amazon.com/gp/product/B01EH1EKO4/)
 
 
 
