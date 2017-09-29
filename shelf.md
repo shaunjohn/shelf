@@ -567,6 +567,7 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Net and the Butterfly: The Art and Practice of Breakthrough Thinking](https://www.amazon.com/gp/product/B01EH1EKO4/)
 - [The Like Switch: An Ex-FBI Agent’s Guide to Influencing, Attracting, and Winning People Over](https://www.amazon.com/gp/product/B00IWTWO8C/)
 - [The Power of Moments: Why Certain Experiences Have Extraordinary Impact](https://www.amazon.com/gp/product/B06ZY5STD6/)
+- [The Rise of Superman: Decoding the Science of Ultimate Human Performance](https://www.amazon.com/gp/product/B00BW54XVO/)
 
 
 
