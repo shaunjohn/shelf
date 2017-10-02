@@ -569,6 +569,8 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Power of Moments: Why Certain Experiences Have Extraordinary Impact](https://www.amazon.com/gp/product/B06ZY5STD6/)
 - [The Rise of Superman: Decoding the Science of Ultimate Human Performance](https://www.amazon.com/gp/product/B00BW54XVO/)
 - [You Have the Right to Remain Innocent](https://www.amazon.com/gp/product/B01DAD218W/)
+- [Connect The Dots](https://www.amazon.com/gp/product/B008R86N4Y/)
+
 
 
 
