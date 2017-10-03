@@ -570,6 +570,7 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Rise of Superman: Decoding the Science of Ultimate Human Performance](https://www.amazon.com/gp/product/B00BW54XVO/)
 - [You Have the Right to Remain Innocent](https://www.amazon.com/gp/product/B01DAD218W/)
 - [Connect The Dots](https://www.amazon.com/gp/product/B008R86N4Y/)
+- [The Story Engine: An entrepreneur's guide to content strategy and brand storytelling without spending all day writing](https://www.amazon.com/Story-Engine-entrepreneurs-strategy-storytelling-ebook/dp/B0722TR5LX/)
 
 
 
