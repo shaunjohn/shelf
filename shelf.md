@@ -572,6 +572,8 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Connect The Dots](https://www.amazon.com/gp/product/B008R86N4Y/)
 - [The Story Engine: An entrepreneur's guide to content strategy and brand storytelling without spending all day writing](https://www.amazon.com/Story-Engine-entrepreneurs-strategy-storytelling-ebook/dp/B0722TR5LX/)
 - [The One Hour Content Plan: The Solopreneur’s Guide to a Year’s Worth of Blog Post Ideas in 60 Minutes and Creating Content That Hooks and Sells](https://www.amazon.com/gp/product/B074T5ZHP7/)
+- [Algorithms to Live By: The Computer Science of Human Decisions](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions-ebook/dp/B015CKNWJI/)
+
 
 
 
