@@ -575,7 +575,7 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Algorithms to Live By: The Computer Science of Human Decisions](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions-ebook/dp/B015CKNWJI/)
 - [Economics for the Common Good](https://www.amazon.com/gp/product/B074B87SMK/)
 - [It Takes a Tribe: Building the Tough Mudder Movement](https://www.amazon.com/gp/product/B06W599QZ2/)
-
+- [When: The Scientific Secrets of Perfect Timing](https://www.amazon.com/When-Scientific-Secrets-Perfect-Timing-ebook/dp/B072Q985YX/)
 
 
 
