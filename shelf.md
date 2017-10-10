@@ -576,6 +576,8 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Economics for the Common Good](https://www.amazon.com/gp/product/B074B87SMK/)
 - [It Takes a Tribe: Building the Tough Mudder Movement](https://www.amazon.com/gp/product/B06W599QZ2/)
 - [When: The Scientific Secrets of Perfect Timing](https://www.amazon.com/When-Scientific-Secrets-Perfect-Timing-ebook/dp/B072Q985YX/)
+- [The Omnivore's Dilemma: A Natural History of Four Meals](https://www.amazon.com/gp/product/B000SEIDR0/)
+
 
 
 
