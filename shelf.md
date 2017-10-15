@@ -579,7 +579,7 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Omnivore's Dilemma: A Natural History of Four Meals](https://www.amazon.com/gp/product/B000SEIDR0/)
 - [Persuasion: Psychology of Selling - Secret Techniques To Close The Deal Every Time ](https://www.amazon.com/Persuasion-Psychology-Selling-Techniques-Influence-ebook/dp/B071VXJ99X/)
 - [Nudge: Improving Decisions About Health, Wealth, and Happiness](https://www.amazon.com/gp/product/B00A5DCALY/)
-
+- [The Honest Truth About Dishonesty: How We Lie to Everyone--Especially Ourselves](https://www.amazon.com/Honest-Truth-About-Dishonesty-Everyone-Especially-ebook/dp/B00CD36FF6/)
 
 
 
