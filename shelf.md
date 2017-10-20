@@ -584,5 +584,5 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Pre-Suasion: A Revolutionary Way to Influence and Persuade](https://www.amazon.com/gp/product/B01C36E2YS/)
 - [Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days](https://www.amazon.com/gp/product/B010MH1DAQ/)
 - [Misbehaving: The Making of Behavioral Economics](https://www.amazon.com/gp/product/B00NUB4GFQ/)
-
+- [The Attention Merchants: The Epic Scramble to Get Inside Our Heads](https://www.amazon.com/Attention-Merchants-Scramble-Inside-Heads/dp/0804170045/)
 
