@@ -585,4 +585,5 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days](https://www.amazon.com/gp/product/B010MH1DAQ/)
 - [Misbehaving: The Making of Behavioral Economics](https://www.amazon.com/gp/product/B00NUB4GFQ/)
 - [The Attention Merchants: The Epic Scramble to Get Inside Our Heads](https://www.amazon.com/Attention-Merchants-Scramble-Inside-Heads/dp/0804170045/)
+- [Radical Focus: Achieving Your Most Important Goals with Objectives and Key Results](https://www.amazon.com/Radical-Focus-Achieving-Important-Objectives-ebook/dp/B01BFKJA0Y/)
 
