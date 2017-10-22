@@ -586,4 +586,6 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Misbehaving: The Making of Behavioral Economics](https://www.amazon.com/gp/product/B00NUB4GFQ/)
 - [The Attention Merchants: The Epic Scramble to Get Inside Our Heads](https://www.amazon.com/Attention-Merchants-Scramble-Inside-Heads/dp/0804170045/)
 - [Radical Focus: Achieving Your Most Important Goals with Objectives and Key Results](https://www.amazon.com/Radical-Focus-Achieving-Important-Objectives-ebook/dp/B01BFKJA0Y/)
+- [Unleashing the Innovators: How Mature Companies Find New Life with Startups](https://www.amazon.com/Unleashing-Innovators-Mature-Companies-Startups/dp/0451497236/)
+
 
