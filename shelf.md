@@ -587,5 +587,7 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Attention Merchants: The Epic Scramble to Get Inside Our Heads](https://www.amazon.com/Attention-Merchants-Scramble-Inside-Heads/dp/0804170045/)
 - [Radical Focus: Achieving Your Most Important Goals with Objectives and Key Results](https://www.amazon.com/Radical-Focus-Achieving-Important-Objectives-ebook/dp/B01BFKJA0Y/)
 - [Unleashing the Innovators: How Mature Companies Find New Life with Startups](https://www.amazon.com/Unleashing-Innovators-Mature-Companies-Startups/dp/0451497236/)
+- [Creating Great Choices: A Leader's Guide to Integrative Thinking](https://www.amazon.com/Creating-Great-Choices-Integrative-Thinking-ebook/dp/B01N4UBR0U/)
+
 
 
