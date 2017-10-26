@@ -589,6 +589,7 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Unleashing the Innovators: How Mature Companies Find New Life with Startups](https://www.amazon.com/Unleashing-Innovators-Mature-Companies-Startups/dp/0451497236/)
 - [Creating Great Choices: A Leader's Guide to Integrative Thinking](https://www.amazon.com/Creating-Great-Choices-Integrative-Thinking-ebook/dp/B01N4UBR0U/)
 - [How to Think About the Great Ideas: From the Great Books of Western Civilization](https://www.amazon.com/How-Think-About-Great-Ideas-ebook/dp/B003S3RL3K/)
+- [How to Speak How to Listen](https://www.amazon.com/gp/product/B00317G7BK/)
 
 
 
