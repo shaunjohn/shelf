@@ -590,6 +590,7 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Creating Great Choices: A Leader's Guide to Integrative Thinking](https://www.amazon.com/Creating-Great-Choices-Integrative-Thinking-ebook/dp/B01N4UBR0U/)
 - [How to Think About the Great Ideas: From the Great Books of Western Civilization](https://www.amazon.com/How-Think-About-Great-Ideas-ebook/dp/B003S3RL3K/)
 - [How to Speak How to Listen](https://www.amazon.com/gp/product/B00317G7BK/)
+- [A World of Three Zeros: The New Economics of Zero Poverty, Zero Unemployment, and Zero Net Carbon Emissions](https://www.amazon.com/gp/product/1610397576/)
 
 
 
