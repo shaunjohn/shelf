@@ -593,6 +593,6 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [A World of Three Zeros: The New Economics of Zero Poverty, Zero Unemployment, and Zero Net Carbon Emissions](https://www.amazon.com/gp/product/1610397576/)
 - [The Know-It-Alls: The Rise of Silicon Valley as a Political Powerhouse and Social Wrecking Ball](https://www.amazon.com/gp/product/1620972107/)
 - [Can I Have Your Attention?: Inspiring Better Work Habits, Focusing Your Team, and Getting Stuff Done in the Constantly Connected Workplace](https://www.amazon.com/gp/product/111939046X/)
-
+- [Why Should White Guys Have All the Fun?: How Reginald Lewis Created a Billion-Dollar Business Empire](https://www.amazon.com/Should-White-Guys-Have-Billion-Dollar-ebook/dp/B00AQ3WV62/)
 
 
