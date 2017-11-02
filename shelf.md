@@ -595,4 +595,5 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Can I Have Your Attention?: Inspiring Better Work Habits, Focusing Your Team, and Getting Stuff Done in the Constantly Connected Workplace](https://www.amazon.com/gp/product/111939046X/)
 - [Why Should White Guys Have All the Fun?: How Reginald Lewis Created a Billion-Dollar Business Empire](https://www.amazon.com/Should-White-Guys-Have-Billion-Dollar-ebook/dp/B00AQ3WV62/)
 - [The New New Thing: A Silicon Valley Story](https://www.amazon.com/gp/product/B000RH0CA4/)
+- [Attack of the 50 Foot Blockchain: Bitcoin, Blockchain, Ethereum & Smart Contracts](https://www.amazon.com/Attack-50-Foot-Blockchain-Contracts/dp/1974000060/)
 
