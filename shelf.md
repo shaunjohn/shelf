@@ -597,4 +597,5 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The New New Thing: A Silicon Valley Story](https://www.amazon.com/gp/product/B000RH0CA4/)
 - [Attack of the 50 Foot Blockchain: Bitcoin, Blockchain, Ethereum & Smart Contracts](https://www.amazon.com/Attack-50-Foot-Blockchain-Contracts/dp/1974000060/)
 - [The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography](https://www.amazon.com/Code-Book-Science-Secrecy-Cryptography/dp/0385495323/)
+- [The Mathematics of Secrets: Cryptography from Caesar Ciphers to Digital Encryption](https://www.amazon.com/gp/product/0691141754/)
 
