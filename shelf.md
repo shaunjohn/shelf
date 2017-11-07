@@ -599,4 +599,5 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography](https://www.amazon.com/Code-Book-Science-Secrecy-Cryptography/dp/0385495323/)
 - [The Mathematics of Secrets: Cryptography from Caesar Ciphers to Digital Encryption](https://www.amazon.com/gp/product/0691141754/)
 - [Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction](https://www.amazon.com/Bitcoin-Cryptocurrency-Technologies-Comprehensive-Introduction/dp/0691171696/)
+- [Regulation A+ and Other Alternatives to a Traditional IPO: Financing Your Growth Business Following the JOBS Act](https://www.amazon.com/Regulation-Other-Alternatives-Traditional-IPO/dp/1119416159/)
 
