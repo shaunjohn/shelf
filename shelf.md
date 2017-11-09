@@ -601,4 +601,5 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction](https://www.amazon.com/Bitcoin-Cryptocurrency-Technologies-Comprehensive-Introduction/dp/0691171696/)
 - [Regulation A+ and Other Alternatives to a Traditional IPO: Financing Your Growth Business Following the JOBS Act](https://www.amazon.com/Regulation-Other-Alternatives-Traditional-IPO/dp/1119416159/)
 - [Augmented Reality: Principles and Practice (Usability)](https://www.amazon.com/Augmented-Reality-Principles-Practice-Usability/dp/0321883578/)
+- [Neverboss: Great Leadership by Letting Go](https://www.amazon.com/Neverboss-Great-Leadership-Letting-Go/dp/0999071904/)
 
