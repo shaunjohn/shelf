@@ -604,3 +604,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Neverboss: Great Leadership by Letting Go](https://www.amazon.com/Neverboss-Great-Leadership-Letting-Go/dp/0999071904/)
 - [More Money Than God: Hedge Funds and the Making of a New Elite](https://www.amazon.com/More-Money-Than-God-Relations/dp/0143119419/)
 - [Finish Big: How Great Entrepreneurs Exit Their Companies on Top](https://www.amazon.com/Finish-Big-Great-Entrepreneurs-Companies/dp/1591844975/)
+- [Rising to Power: The Journey of Exceptional Executives](https://www.amazon.com/Rising-Power-Journey-Exceptional-Executives/dp/1626341087/)
