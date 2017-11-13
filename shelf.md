@@ -605,3 +605,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [More Money Than God: Hedge Funds and the Making of a New Elite](https://www.amazon.com/More-Money-Than-God-Relations/dp/0143119419/)
 - [Finish Big: How Great Entrepreneurs Exit Their Companies on Top](https://www.amazon.com/Finish-Big-Great-Entrepreneurs-Companies/dp/1591844975/)
 - [Rising to Power: The Journey of Exceptional Executives](https://www.amazon.com/Rising-Power-Journey-Exceptional-Executives/dp/1626341087/)
+- [Frontier Investor: How to Prosper in the Next Emerging Markets](https://www.amazon.com/Frontier-Investor-Emerging-Columbia-Publishing/dp/0231170440/)
