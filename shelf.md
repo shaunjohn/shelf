@@ -606,3 +606,5 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Finish Big: How Great Entrepreneurs Exit Their Companies on Top](https://www.amazon.com/Finish-Big-Great-Entrepreneurs-Companies/dp/1591844975/)
 - [Rising to Power: The Journey of Exceptional Executives](https://www.amazon.com/Rising-Power-Journey-Exceptional-Executives/dp/1626341087/)
 - [Frontier Investor: How to Prosper in the Next Emerging Markets](https://www.amazon.com/Frontier-Investor-Emerging-Columbia-Publishing/dp/0231170440/)
+- [Make Your Own Neural Network](https://www.amazon.com/Make-Your-Own-Neural-Network/dp/1530826608/)
+
