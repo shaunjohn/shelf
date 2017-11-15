@@ -607,4 +607,5 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Rising to Power: The Journey of Exceptional Executives](https://www.amazon.com/Rising-Power-Journey-Exceptional-Executives/dp/1626341087/)
 - [Frontier Investor: How to Prosper in the Next Emerging Markets](https://www.amazon.com/Frontier-Investor-Emerging-Columbia-Publishing/dp/0231170440/)
 - [Make Your Own Neural Network](https://www.amazon.com/Make-Your-Own-Neural-Network/dp/1530826608/)
+- [How Money Got Free: Bitcoin and the Fight for the Future of Finance](https://www.amazon.com/How-Money-Got-Free-Bitcoin/dp/178074658X/)
 
