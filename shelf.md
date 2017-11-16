@@ -608,4 +608,5 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Frontier Investor: How to Prosper in the Next Emerging Markets](https://www.amazon.com/Frontier-Investor-Emerging-Columbia-Publishing/dp/0231170440/)
 - [Make Your Own Neural Network](https://www.amazon.com/Make-Your-Own-Neural-Network/dp/1530826608/)
 - [How Money Got Free: Bitcoin and the Fight for the Future of Finance](https://www.amazon.com/How-Money-Got-Free-Bitcoin/dp/178074658X/)
+- [Job Creation and Destruction](https://www.amazon.com/Job-Creation-Destruction-MIT-Press/dp/0262540932/)
 
