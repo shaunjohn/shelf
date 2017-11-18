@@ -610,4 +610,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [How Money Got Free: Bitcoin and the Fight for the Future of Finance](https://www.amazon.com/How-Money-Got-Free-Bitcoin/dp/178074658X/)
 - [Job Creation and Destruction](https://www.amazon.com/Job-Creation-Destruction-MIT-Press/dp/0262540932/)
 - [Who](https://www.amazon.com/gp/product/0345504194/)
-
+- [King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone](https://www.amazon.com/King-Capital-Remarkable-Schwarzman-Blackstone/dp/0307886026/)
