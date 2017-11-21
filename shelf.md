@@ -612,3 +612,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Who](https://www.amazon.com/gp/product/0345504194/)
 - [King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone](https://www.amazon.com/King-Capital-Remarkable-Schwarzman-Blackstone/dp/0307886026/)
 - [A Higher Loyalty: Truth, Lies, and Leadership](https://www.amazon.com/Higher-Loyalty-Truth-Lies-Leadership-ebook/dp/B074J6F41V/)
+- [Mission: How the Best in Business Break Through](https://www.amazon.com/Mission-Best-Business-Break-Through/dp/0241247063/)
