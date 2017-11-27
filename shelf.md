@@ -616,4 +616,5 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [UNSCRIPTED: Life, Liberty, and the Pursuit of Entrepreneurship](https://www.amazon.com/UNSCRIPTED-Life-Liberty-Pursuit-Entrepreneurship/dp/0984358161/)
 - [Simplify: How the Best Businesses in the World Succeed](https://www.amazon.com/Simplify-Best-Businesses-World-Succeed/dp/1599185997/)
 - [Walk Away Wealthy: The Entrepreneur's Exit-Planning Playbook](https://www.amazon.com/Walk-Away-Wealthy-Entrepreneurs-Exit-Planning/dp/1626340846/)
+- [Expensive Mistakes When Buying & Selling Companies](https://www.amazon.com/Expensive-Mistakes-Buying-Selling-Companies/dp/0982050062/)
 
