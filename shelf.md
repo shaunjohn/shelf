@@ -618,4 +618,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Walk Away Wealthy: The Entrepreneur's Exit-Planning Playbook](https://www.amazon.com/Walk-Away-Wealthy-Entrepreneurs-Exit-Planning/dp/1626340846/)
 - [Expensive Mistakes When Buying & Selling Companies](https://www.amazon.com/Expensive-Mistakes-Buying-Selling-Companies/dp/0982050062/)
 - [Buyer Personas: How to Gain Insight into your Customer's Expectations, Align your Marketing Strategies, and Win More Business](https://www.amazon.com/Buyer-Personas-Customers-Expectations-Strategies/dp/1118961501/)
-
+- [Key Performance Indicators (KPI): The 75 measures every manager needs to know](https://www.amazon.com/Key-Performance-Indicators-KPI-Financial/dp/0273750119/)
