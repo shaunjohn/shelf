@@ -620,3 +620,5 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Buyer Personas: How to Gain Insight into your Customer's Expectations, Align your Marketing Strategies, and Win More Business](https://www.amazon.com/Buyer-Personas-Customers-Expectations-Strategies/dp/1118961501/)
 - [Key Performance Indicators (KPI): The 75 measures every manager needs to know](https://www.amazon.com/Key-Performance-Indicators-KPI-Financial/dp/0273750119/)
 - [Think Like a Futurist: Know What Changes, What Doesn't, and What's Next](https://www.amazon.com/Think-Like-Futurist-Changes-Doesnt/dp/1118147820/)
+- [Millennialization of Everything](https://www.amazon.com/Millennialization-Everything-Jeremy-K-Balkin/dp/1545065195/)
+
