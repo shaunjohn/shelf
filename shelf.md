@@ -621,4 +621,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Key Performance Indicators (KPI): The 75 measures every manager needs to know](https://www.amazon.com/Key-Performance-Indicators-KPI-Financial/dp/0273750119/)
 - [Think Like a Futurist: Know What Changes, What Doesn't, and What's Next](https://www.amazon.com/Think-Like-Futurist-Changes-Doesnt/dp/1118147820/)
 - [Millennialization of Everything](https://www.amazon.com/Millennialization-Everything-Jeremy-K-Balkin/dp/1545065195/)
-
+- [What the Foresight: Your personal futures explored. Defy the expected and define the preferred.](https://www.amazon.com/gp/product/1537424866/)
