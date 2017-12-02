@@ -622,3 +622,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Think Like a Futurist: Know What Changes, What Doesn't, and What's Next](https://www.amazon.com/Think-Like-Futurist-Changes-Doesnt/dp/1118147820/)
 - [Millennialization of Everything](https://www.amazon.com/Millennialization-Everything-Jeremy-K-Balkin/dp/1545065195/)
 - [What the Foresight: Your personal futures explored. Defy the expected and define the preferred.](https://www.amazon.com/gp/product/1537424866/)
+- [Advocacy: Championing Ideas and Influencing Others](https://www.amazon.com/Advocacy-Championing-Ideas-Influencing-Others/dp/0300188137/)
