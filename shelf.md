@@ -623,3 +623,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Millennialization of Everything](https://www.amazon.com/Millennialization-Everything-Jeremy-K-Balkin/dp/1545065195/)
 - [What the Foresight: Your personal futures explored. Defy the expected and define the preferred.](https://www.amazon.com/gp/product/1537424866/)
 - [Advocacy: Championing Ideas and Influencing Others](https://www.amazon.com/Advocacy-Championing-Ideas-Influencing-Others/dp/0300188137/)
+- [The Human Brand: How We Relate to People, Products, and Companies](https://www.amazon.com/gp/product/1118611314/)
