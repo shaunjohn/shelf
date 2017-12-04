@@ -624,3 +624,5 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [What the Foresight: Your personal futures explored. Defy the expected and define the preferred.](https://www.amazon.com/gp/product/1537424866/)
 - [Advocacy: Championing Ideas and Influencing Others](https://www.amazon.com/Advocacy-Championing-Ideas-Influencing-Others/dp/0300188137/)
 - [The Human Brand: How We Relate to People, Products, and Companies](https://www.amazon.com/gp/product/1118611314/)
+- [Good Strategy Bad Strategy: The Difference and Why It Matters](https://www.amazon.com/gp/product/0307886239/)
+
