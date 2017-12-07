@@ -626,3 +626,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Human Brand: How We Relate to People, Products, and Companies](https://www.amazon.com/gp/product/1118611314/)
 - [Good Strategy Bad Strategy: The Difference and Why It Matters](https://www.amazon.com/gp/product/0307886239/)
 - [The Lords of Strategy: The Secret Intellectual History of the New Corporate World](https://www.amazon.com/Lords-Strategy-Intellectual-History-Corporate/dp/1591397820/)
+- [The Art and Science of Training](https://www.amazon.com/dp/1607280949/)
