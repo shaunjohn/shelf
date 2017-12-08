@@ -627,3 +627,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Good Strategy Bad Strategy: The Difference and Why It Matters](https://www.amazon.com/gp/product/0307886239/)
 - [The Lords of Strategy: The Secret Intellectual History of the New Corporate World](https://www.amazon.com/Lords-Strategy-Intellectual-History-Corporate/dp/1591397820/)
 - [The Art and Science of Training](https://www.amazon.com/dp/1607280949/)
+- [When Violence Is the Answer: Learning How to Do What It Takes When Your Life Is at Stake](https://www.amazon.com/When-Violence-Answer-Learning-Takes/dp/0316354643/)
