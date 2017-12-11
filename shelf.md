@@ -628,3 +628,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Lords of Strategy: The Secret Intellectual History of the New Corporate World](https://www.amazon.com/Lords-Strategy-Intellectual-History-Corporate/dp/1591397820/)
 - [The Art and Science of Training](https://www.amazon.com/dp/1607280949/)
 - [When Violence Is the Answer: Learning How to Do What It Takes When Your Life Is at Stake](https://www.amazon.com/When-Violence-Answer-Learning-Takes/dp/0316354643/)
+- [Warnings: Finding Cassandras to Stop Catastrophes](https://www.amazon.com/Warnings-Finding-Cassandras-Stop-Catastrophes/dp/0062488023/)
