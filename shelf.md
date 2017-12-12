@@ -630,3 +630,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [When Violence Is the Answer: Learning How to Do What It Takes When Your Life Is at Stake](https://www.amazon.com/When-Violence-Answer-Learning-Takes/dp/0316354643/)
 - [Warnings: Finding Cassandras to Stop Catastrophes](https://www.amazon.com/Warnings-Finding-Cassandras-Stop-Catastrophes/dp/0062488023/)
 - [A Man for All Markets: From Las Vegas to Wall Street, How I Beat the Dealer and the Market](https://www.amazon.com/gp/product/1400067960/)
+- [The Ideal Team Player: How to Recognize and Cultivate The Three Essential Virtues](https://www.amazon.com/gp/product/1119209595/)
