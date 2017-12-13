@@ -631,3 +631,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Warnings: Finding Cassandras to Stop Catastrophes](https://www.amazon.com/Warnings-Finding-Cassandras-Stop-Catastrophes/dp/0062488023/)
 - [A Man for All Markets: From Las Vegas to Wall Street, How I Beat the Dealer and the Market](https://www.amazon.com/gp/product/1400067960/)
 - [The Ideal Team Player: How to Recognize and Cultivate The Three Essential Virtues](https://www.amazon.com/gp/product/1119209595/)
+- [Confessions of a Software Techie: The Surprising Truth about Things that Really Matter](https://www.amazon.com/dp/B071FP66F8/)
