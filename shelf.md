@@ -633,3 +633,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Ideal Team Player: How to Recognize and Cultivate The Three Essential Virtues](https://www.amazon.com/gp/product/1119209595/)
 - [Confessions of a Software Techie: The Surprising Truth about Things that Really Matter](https://www.amazon.com/dp/B071FP66F8/)
 - [The Rational Optimist: How Prosperity Evolves](https://www.amazon.com/Rational-Optimist-Prosperity-Evolves-P-s-ebook/dp/B003QP4BJM/)
+- [Six Not-So-Easy Pieces: Einsteins Relativity, Symmetry, and Space-Time](https://www.amazon.com/Six-Not-So-Easy-Pieces-Einsteins-Relativity/dp/0465025269/)
