@@ -634,3 +634,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Confessions of a Software Techie: The Surprising Truth about Things that Really Matter](https://www.amazon.com/dp/B071FP66F8/)
 - [The Rational Optimist: How Prosperity Evolves](https://www.amazon.com/Rational-Optimist-Prosperity-Evolves-P-s-ebook/dp/B003QP4BJM/)
 - [Six Not-So-Easy Pieces: Einsteins Relativity, Symmetry, and Space-Time](https://www.amazon.com/Six-Not-So-Easy-Pieces-Einsteins-Relativity/dp/0465025269/)
+- [Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets](https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto-ebook/dp/B001FA0W5W/)
