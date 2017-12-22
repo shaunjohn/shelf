@@ -637,3 +637,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets](https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto-ebook/dp/B001FA0W5W/)
 - [The Self-Taught Programmer: The Definitive Guide to Programming Professionally](https://www.amazon.com/gp/product/B01M01YDQA/)
 - [The Undoing Project: A Friendship That Changed Our Minds](https://www.amazon.com/Undoing-Project-Friendship-Changed-Minds/dp/0393354776/)
+- [The Magic of Reality: How We Know What's Really True](https://www.amazon.com/Magic-Reality-Know-Whats-Really-ebook/dp/B0078XFYDA/)
