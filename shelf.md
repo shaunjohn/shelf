@@ -638,3 +638,5 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Self-Taught Programmer: The Definitive Guide to Programming Professionally](https://www.amazon.com/gp/product/B01M01YDQA/)
 - [The Undoing Project: A Friendship That Changed Our Minds](https://www.amazon.com/Undoing-Project-Friendship-Changed-Minds/dp/0393354776/)
 - [The Magic of Reality: How We Know What's Really True](https://www.amazon.com/Magic-Reality-Know-Whats-Really-ebook/dp/B0078XFYDA/)
+- [A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution](https://www.amazon.com/Crack-Creation-Editing-Unthinkable-Evolution/dp/0544716949/)
+
