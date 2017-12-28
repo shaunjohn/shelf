@@ -642,6 +642,7 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Great Unknown: Seven Journeys to the Frontiers of Science](https://www.amazon.com/gp/product/0735221804/)
 - [Judgment: How Winning Leaders Make Great Calls](https://www.amazon.com/gp/product/159184293X/)
 - [Science Fiction and Philosophy: From Time Travel to Superintelligence](https://www.amazon.com/Science-Fiction-Philosophy-Travel-Superintelligence-ebook/dp/B019WSCW42/)
+- [Authentic Leadership: A Primer for Professionals and Small Business Owners](https://www.amazon.com/Authentic-Leadership-Primer-Professionals-Business/dp/143923518X/)
 
 
 
