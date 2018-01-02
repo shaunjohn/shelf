@@ -644,5 +644,6 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Science Fiction and Philosophy: From Time Travel to Superintelligence](https://www.amazon.com/Science-Fiction-Philosophy-Travel-Superintelligence-ebook/dp/B019WSCW42/)
 - [Authentic Leadership: A Primer for Professionals and Small Business Owners](https://www.amazon.com/Authentic-Leadership-Primer-Professionals-Business/dp/143923518X/)
 - [The Selfish Gene: 40th Anniversary Edition](https://www.amazon.com/Selfish-Gene-Anniversary-Landmark-Science/dp/0198788606/)
+- [The Assertiveness Workbook: How to Express Your Ideas and Stand Up for Yourself at Work and in Relationships](https://www.amazon.com/Assertiveness-Workbook-Express-Yourself-Relationships-ebook/dp/B0054M06EO/)
 
 
