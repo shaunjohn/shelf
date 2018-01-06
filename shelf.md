@@ -648,6 +648,7 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Predictive Analytics: The Power to Predict Who Will Click, Buy, Lie, or Die](https://www.amazon.com/Predictive-Analytics-Power-Predict-Click-ebook/dp/B019HR9X4U/)
 - [Count Down: The Past, Present and Uncertain Future of the Big Four Accounting Firms](https://www.amazon.com/dp/B06XRS9W97/)
 - [The Wisdom of Insecurity](https://www.amazon.com/dp/B005YNPBH0/)
+- [Real Artists Don't Starve: Timeless Strategies for Thriving in the New Creative Age](https://www.amazon.com/gp/product/B01N3NGAQ8/)
 
 
 
