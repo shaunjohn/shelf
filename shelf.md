@@ -649,6 +649,8 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Count Down: The Past, Present and Uncertain Future of the Big Four Accounting Firms](https://www.amazon.com/dp/B06XRS9W97/)
 - [The Wisdom of Insecurity](https://www.amazon.com/dp/B005YNPBH0/)
 - [Real Artists Don't Starve: Timeless Strategies for Thriving in the New Creative Age](https://www.amazon.com/gp/product/B01N3NGAQ8/)
+- [Quantum Computing from the Ground Up](https://www.amazon.com/Quantum-Computing-Ground-Riley-Tipton/dp/9814412112/)
+
 
 
 
