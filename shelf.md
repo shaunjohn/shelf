@@ -651,7 +651,7 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Real Artists Don't Starve: Timeless Strategies for Thriving in the New Creative Age](https://www.amazon.com/gp/product/B01N3NGAQ8/)
 - [Quantum Computing from the Ground Up](https://www.amazon.com/Quantum-Computing-Ground-Riley-Tipton/dp/9814412112/)
 - [Behind the Cloud: The Untold Story of How Salesforce.com Went from Idea to Billion-Dollar Company-and Revolutionized an Industry](https://www.amazon.com/Behind-Cloud-Salesforce-com-Billion-Dollar-Company-ebook/dp/B002PJ4SU2/)
-
+- [Rethinking the World: Great Power Strategies and International Order](https://www.amazon.com/Rethinking-World-Strategies-International-security-ebook/dp/B01MF6VUDU/)
 
 
 
