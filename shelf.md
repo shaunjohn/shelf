@@ -653,5 +653,5 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Behind the Cloud: The Untold Story of How Salesforce.com Went from Idea to Billion-Dollar Company-and Revolutionized an Industry](https://www.amazon.com/Behind-Cloud-Salesforce-com-Billion-Dollar-Company-ebook/dp/B002PJ4SU2/)
 - [Rethinking the World: Great Power Strategies and International Order](https://www.amazon.com/Rethinking-World-Strategies-International-security-ebook/dp/B01MF6VUDU/)
 - [Powerful: Building a Culture of Freedom and Responsibility](https://www.amazon.com/Powerful-Building-Culture-Freedom-Responsibility-ebook/dp/B077Y4WVPT/)
-
+- [The Alliance: Managing Talent in the Networked Age](https://www.amazon.com/Alliance-Managing-Talent-Networked-Age-ebook/dp/B00JTJ84EW/)
 
