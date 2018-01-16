@@ -655,4 +655,6 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Powerful: Building a Culture of Freedom and Responsibility](https://www.amazon.com/Powerful-Building-Culture-Freedom-Responsibility-ebook/dp/B077Y4WVPT/)
 - [The Alliance: Managing Talent in the Networked Age](https://www.amazon.com/Alliance-Managing-Talent-Networked-Age-ebook/dp/B00JTJ84EW/)
 - [Unicorn Tears: Why Startups Fail and How To Avoid It](https://www.amazon.com/Unicorn-Tears-Startups-Fail-Avoid/dp/0730348695)
+- [Usable Usability: Simple Steps for Making Stuff Better](https://www.amazon.com/Usable-Usability-Simple-Making-Better-ebook/dp/B008DM2KF0/)
+
 
