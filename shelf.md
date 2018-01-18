@@ -657,5 +657,6 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Unicorn Tears: Why Startups Fail and How To Avoid It](https://www.amazon.com/Unicorn-Tears-Startups-Fail-Avoid/dp/0730348695)
 - [Usable Usability: Simple Steps for Making Stuff Better](https://www.amazon.com/Usable-Usability-Simple-Making-Better-ebook/dp/B008DM2KF0/)
 - [Data Strategy: How to Profit from a World of Big Data, Analytics and the Internet of Things](https://www.amazon.com/gp/product/B06XWDM3CW/)
+- [The Power of Polarities: An Innovative Method to Transform Individuals, Teams, and Organizations. Based on Carl Jung’s Theory of the Personality.](https://www.amazon.com/Power-Polarities-Individuals-Organizations-Personality-ebook/dp/B078B1H9G1/)
 
 
