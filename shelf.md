@@ -660,4 +660,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Power of Polarities: An Innovative Method to Transform Individuals, Teams, and Organizations. Based on Carl Jung’s Theory of the Personality.](https://www.amazon.com/Power-Polarities-Individuals-Organizations-Personality-ebook/dp/B078B1H9G1/)
 - [When I Say No, I Feel Guilty](https://www.amazon.com/gp/product/B004IK8Q22/)
 - [A Second Chance: For You, For Me, And For The Rest Of Us](https://www.amazon.com/gp/product/B078KMXXY8/)
-
+- [Exactly What to Say: The Magic Words for Influence and Impact](https://www.amazon.com/gp/product/B073SF65ZZ/)
