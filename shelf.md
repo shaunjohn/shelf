@@ -661,3 +661,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [When I Say No, I Feel Guilty](https://www.amazon.com/gp/product/B004IK8Q22/)
 - [A Second Chance: For You, For Me, And For The Rest Of Us](https://www.amazon.com/gp/product/B078KMXXY8/)
 - [Exactly What to Say: The Magic Words for Influence and Impact](https://www.amazon.com/gp/product/B073SF65ZZ/)
+- [Great at Work: How Top Performers Do Less, Work Better, and Achieve More](https://www.amazon.com/Great-Work-Performers-Better-Achieve/dp/1476765626/)
