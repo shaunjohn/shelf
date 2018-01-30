@@ -663,3 +663,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Exactly What to Say: The Magic Words for Influence and Impact](https://www.amazon.com/gp/product/B073SF65ZZ/)
 - [Great at Work: How Top Performers Do Less, Work Better, and Achieve More](https://www.amazon.com/Great-Work-Performers-Better-Achieve/dp/1476765626/)
 - [Emotional Intelligence: Why It Can Matter More Than IQ](https://www.amazon.com/Emotional-Intelligence-Matter-More-Than-ebook/dp/B000JMKVCG/)
+- [Adaptability: The Art of Winning In An Age of Uncertainty](https://www.amazon.com/Adaptability-Art-Winning-Age-Uncertainty-ebook/dp/B007OTNOH6/)
