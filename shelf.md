@@ -664,3 +664,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Great at Work: How Top Performers Do Less, Work Better, and Achieve More](https://www.amazon.com/Great-Work-Performers-Better-Achieve/dp/1476765626/)
 - [Emotional Intelligence: Why It Can Matter More Than IQ](https://www.amazon.com/Emotional-Intelligence-Matter-More-Than-ebook/dp/B000JMKVCG/)
 - [Adaptability: The Art of Winning In An Age of Uncertainty](https://www.amazon.com/Adaptability-Art-Winning-Age-Uncertainty-ebook/dp/B007OTNOH6/)
+- [Brave Leadership: Unleash Your Most Confident, Powerful, and Authentic Self to Get the Results You Need](https://www.amazon.com/Brave-Leadership-Confident-Powerful-Authentic-ebook/dp/B077ZH91TG/)
