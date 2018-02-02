@@ -666,3 +666,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Adaptability: The Art of Winning In An Age of Uncertainty](https://www.amazon.com/Adaptability-Art-Winning-Age-Uncertainty-ebook/dp/B007OTNOH6/)
 - [Brave Leadership: Unleash Your Most Confident, Powerful, and Authentic Self to Get the Results You Need](https://www.amazon.com/Brave-Leadership-Confident-Powerful-Authentic-ebook/dp/B077ZH91TG/)
 - [Beyond Collisions: How to build your entrepreneurial infrastructure](https://www.amazon.com/Beyond-Collisions-entrepreneurial-infrastructure-Changing/dp/0692999892/)
+- [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.amazon.com/gp/product/B00AZRBLHO/)
