@@ -668,3 +668,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Beyond Collisions: How to build your entrepreneurial infrastructure](https://www.amazon.com/Beyond-Collisions-entrepreneurial-infrastructure-Changing/dp/0692999892/)
 - [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.amazon.com/gp/product/B00AZRBLHO/)
 - [The Sentient Machine: The Coming Age of Artificial Intelligence ](https://www.amazon.com/Sentient-Machine-Coming-Artificial-Intelligence/dp/1501144677/)
+- [The Mentor Leader: Secrets to Building People and Teams That Win Consistently](https://www.amazon.com/Mentor-Leader-Secrets-Building-Consistently-ebook/dp/B0040ZNZC6/)
