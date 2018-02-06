@@ -670,3 +670,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Sentient Machine: The Coming Age of Artificial Intelligence ](https://www.amazon.com/Sentient-Machine-Coming-Artificial-Intelligence/dp/1501144677/)
 - [The Mentor Leader: Secrets to Building People and Teams That Win Consistently](https://www.amazon.com/Mentor-Leader-Secrets-Building-Consistently-ebook/dp/B0040ZNZC6/)
 - [Endure: Mind, Body, and the Curiously Elastic Limits of Human Performance](https://www.amazon.com/Endure-Curiously-Elastic-Limits-Performance-ebook/dp/B0716GZX33/)
+- [International Entrepreneurship: Starting, Developing, and Managing a Global Venture](https://www.amazon.com/International-Entrepreneurship-Starting-Developing-Managing/dp/1483344398/)
