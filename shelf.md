@@ -672,3 +672,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Endure: Mind, Body, and the Curiously Elastic Limits of Human Performance](https://www.amazon.com/Endure-Curiously-Elastic-Limits-Performance-ebook/dp/B0716GZX33/)
 - [International Entrepreneurship: Starting, Developing, and Managing a Global Venture](https://www.amazon.com/International-Entrepreneurship-Starting-Developing-Managing/dp/1483344398/)
 - [The Art of Changing the Brain: Enriching the Practice of Teaching by Exploring the Biology of Learning](https://www.amazon.com/Art-Changing-Brain-Enriching-Exploring/dp/1579220541/)
+- [Executive Stamina: How to Optimize Time, Energy, and Productivity to Achieve Peak Performance](https://www.amazon.com/Executive-Stamina-Optimize-Productivity-Performance/dp/0470222905/)
