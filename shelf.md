@@ -674,3 +674,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Art of Changing the Brain: Enriching the Practice of Teaching by Exploring the Biology of Learning](https://www.amazon.com/Art-Changing-Brain-Enriching-Exploring/dp/1579220541/)
 - [Executive Stamina: How to Optimize Time, Energy, and Productivity to Achieve Peak Performance](https://www.amazon.com/Executive-Stamina-Optimize-Productivity-Performance/dp/0470222905/)
 - [Courage: The Backbone of Leadership](https://www.amazon.com/Courage-Backbone-Leadership-Gus-Lee-ebook/dp/B003D87PF4/)
+- [Moonshot!](https://www.amazon.com/Moonshot-John-Sculley-ebook/dp/B00MV9C1SM/)
