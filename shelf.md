@@ -676,3 +676,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Courage: The Backbone of Leadership](https://www.amazon.com/Courage-Backbone-Leadership-Gus-Lee-ebook/dp/B003D87PF4/)
 - [Moonshot!](https://www.amazon.com/Moonshot-John-Sculley-ebook/dp/B00MV9C1SM/)
 - [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove-ebook/dp/B015VACHOK/)
+- [Introducing Ethereum and Solidity: Foundations of Cryptocurrency and Blockchain Programming for Beginners](https://www.amazon.com/Introducing-Ethereum-Solidity-Foundations-Cryptocurrency/dp/1484225341/)
