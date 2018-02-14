@@ -677,3 +677,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Moonshot!](https://www.amazon.com/Moonshot-John-Sculley-ebook/dp/B00MV9C1SM/)
 - [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove-ebook/dp/B015VACHOK/)
 - [Introducing Ethereum and Solidity: Foundations of Cryptocurrency and Blockchain Programming for Beginners](https://www.amazon.com/Introducing-Ethereum-Solidity-Foundations-Cryptocurrency/dp/1484225341/)
+- [Mind, Brain, and Education: Neuroscience Implications for the Classroom](https://www.amazon.com/gp/product/1935249630/)
