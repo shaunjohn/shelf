@@ -682,4 +682,5 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Value: The Four Cornerstones of Corporate Finance](https://www.amazon.com/Value-Four-Cornerstones-Corporate-Finance/dp/0470424605/)
 - [The Startup Playbook: Founder-to-Founder Advice From Two Startup Veterans](https://www.amazon.com/Startup-Playbook-Founder-Founder-Veterans-ebook/dp/B078QCRYWJ/)
 - [Digital Identity Management: Technological, Business and Social Implications](https://www.amazon.com/Digital-Identity-Management-Technological-Implications-ebook/dp/B06XDQMY5Y/)
+- [Bringing Zero-Knowledge Proofs of Knowledge to Practice](https://www.amazon.com/Bringing-Zero-Knowledge-Proofs-Knowledge-Practice/dp/383253217X/)
 
