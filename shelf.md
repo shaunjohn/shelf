@@ -683,4 +683,5 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Startup Playbook: Founder-to-Founder Advice From Two Startup Veterans](https://www.amazon.com/Startup-Playbook-Founder-Founder-Veterans-ebook/dp/B078QCRYWJ/)
 - [Digital Identity Management: Technological, Business and Social Implications](https://www.amazon.com/Digital-Identity-Management-Technological-Implications-ebook/dp/B06XDQMY5Y/)
 - [Bringing Zero-Knowledge Proofs of Knowledge to Practice](https://www.amazon.com/Bringing-Zero-Knowledge-Proofs-Knowledge-Practice/dp/383253217X/)
+- [The Strange Order of Things: Life, Feeling, and the Making of Cultures ](https://www.amazon.com/Strange-Order-Things-Feeling-Cultures/dp/0307908755/)
 
