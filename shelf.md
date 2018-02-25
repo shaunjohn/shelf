@@ -684,4 +684,5 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Digital Identity Management: Technological, Business and Social Implications](https://www.amazon.com/Digital-Identity-Management-Technological-Implications-ebook/dp/B06XDQMY5Y/)
 - [Bringing Zero-Knowledge Proofs of Knowledge to Practice](https://www.amazon.com/Bringing-Zero-Knowledge-Proofs-Knowledge-Practice/dp/383253217X/)
 - [The Strange Order of Things: Life, Feeling, and the Making of Cultures ](https://www.amazon.com/Strange-Order-Things-Feeling-Cultures/dp/0307908755/)
+- [Understanding Bioinformatics](https://www.amazon.com/Understanding-Bioinformatics-Marketa-Zvelebil/dp/0815340249/)
 
