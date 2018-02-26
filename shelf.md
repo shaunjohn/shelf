@@ -685,4 +685,5 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Bringing Zero-Knowledge Proofs of Knowledge to Practice](https://www.amazon.com/Bringing-Zero-Knowledge-Proofs-Knowledge-Practice/dp/383253217X/)
 - [The Strange Order of Things: Life, Feeling, and the Making of Cultures ](https://www.amazon.com/Strange-Order-Things-Feeling-Cultures/dp/0307908755/)
 - [Understanding Bioinformatics](https://www.amazon.com/Understanding-Bioinformatics-Marketa-Zvelebil/dp/0815340249/)
+- [Our Final Invention: Artificial Intelligence and the End of the Human Era](https://www.amazon.com/gp/product/1250058783/)
 
