@@ -687,3 +687,5 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Understanding Bioinformatics](https://www.amazon.com/Understanding-Bioinformatics-Marketa-Zvelebil/dp/0815340249/)
 - [Our Final Invention: Artificial Intelligence and the End of the Human Era](https://www.amazon.com/gp/product/1250058783/)
 - [Capitalism without Capital: The Rise of the Intangible Economy](https://www.amazon.com/Capitalism-without-Capital-Intangible-Economy/dp/0691175039/)
+- [Shaping the Fourth Industrial Revolution](https://www.amazon.com/Shaping-Fourth-Industrial-Revolution-Schwab/dp/1944835148/)
+
