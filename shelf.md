@@ -689,4 +689,5 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Capitalism without Capital: The Rise of the Intangible Economy](https://www.amazon.com/Capitalism-without-Capital-Intangible-Economy/dp/0691175039/)
 - [Shaping the Fourth Industrial Revolution](https://www.amazon.com/Shaping-Fourth-Industrial-Revolution-Schwab/dp/1944835148/)
 - [Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts](https://www.amazon.com/gp/product/B074DG9LQF/)
+- [Lost and Founder: A Painfully Honest Field Guide to the Startup World](https://www.amazon.com/gp/product/B074DGYVD5/)
 
