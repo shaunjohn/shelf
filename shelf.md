@@ -692,3 +692,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Lost and Founder: A Painfully Honest Field Guide to the Startup World](https://www.amazon.com/gp/product/B074DGYVD5/)
 - [Skin in the Game: Hidden Asymmetries in Daily Life](https://www.amazon.com/Skin-Game-Hidden-Asymmetries-Daily-ebook/dp/B075HYVP7C/)
 - [The Gorilla Game, Revised Edition: Picking Winners in High Technology](https://www.amazon.com/Gorilla-Game-Revised-Picking-Technology-ebook/dp/B000FC120U/)
+- [The Truth Machine: The Blockchain and the Future of Everything](https://www.amazon.com/Truth-Machine-Blockchain-Future-Everything-ebook/dp/B072V11VYR/)
