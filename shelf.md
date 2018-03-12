@@ -695,4 +695,5 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Truth Machine: The Blockchain and the Future of Everything](https://www.amazon.com/Truth-Machine-Blockchain-Future-Everything-ebook/dp/B072V11VYR/)
 - [Augmented Reality Law, Privacy, and Ethics: Law, Society, and Emerging AR Technologies](https://www.amazon.com/Augmented-Reality-Law-Privacy-Ethics/dp/0128002085/)
 - [Blockchain Revolution: How the Technology Behind Bitcoin Is Changing Money, Business, and the World](https://www.amazon.com/Blockchain-Revolution-Technology-Changing-Business/dp/1101980133/)
-- [Why Should White Guys Have All the Fun?: How Reginald Lewis Created a Billion-Dollar Business Empire](
+- [Why Should White Guys Have All the Fun?: How Reginald Lewis Created a Billion-Dollar Business Empire](https://www.amazon.com/Should-White-Guys-Have-Billion-Dollar-ebook/dp/B00AQ3WV62/)
+- [How We Got to Now: Six Innovations That Made the Modern World](https://www.amazon.com/gp/product/B00INIXU5I/)
