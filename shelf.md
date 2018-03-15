@@ -698,3 +698,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Why Should White Guys Have All the Fun?: How Reginald Lewis Created a Billion-Dollar Business Empire](https://www.amazon.com/Should-White-Guys-Have-Billion-Dollar-ebook/dp/B00AQ3WV62/)
 - [How We Got to Now: Six Innovations That Made the Modern World](https://www.amazon.com/gp/product/B00INIXU5I/)
 - [A Brief History of Time](https://www.amazon.com/Brief-History-Time-Stephen-Hawking-ebook/dp/B004WY3D0O/)
+- [Dream Teams: Working Together Without Falling Apart](https://www.amazon.com/gp/product/B078FZ9ZZK/)
