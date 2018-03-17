@@ -699,3 +699,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [How We Got to Now: Six Innovations That Made the Modern World](https://www.amazon.com/gp/product/B00INIXU5I/)
 - [A Brief History of Time](https://www.amazon.com/Brief-History-Time-Stephen-Hawking-ebook/dp/B004WY3D0O/)
 - [Dream Teams: Working Together Without Falling Apart](https://www.amazon.com/gp/product/B078FZ9ZZK/)
+- [Never Split the Difference: Negotiating As If Your Life Depended On It](https://www.amazon.com/gp/product/B014DUR7L2/)
