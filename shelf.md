@@ -700,3 +700,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [A Brief History of Time](https://www.amazon.com/Brief-History-Time-Stephen-Hawking-ebook/dp/B004WY3D0O/)
 - [Dream Teams: Working Together Without Falling Apart](https://www.amazon.com/gp/product/B078FZ9ZZK/)
 - [Never Split the Difference: Negotiating As If Your Life Depended On It](https://www.amazon.com/gp/product/B014DUR7L2/)
+- [Hardwiring Happiness: The New Brain Science of Contentment, Calm, and Confidence](https://www.amazon.com/Hardwiring-Happiness-Science-Contentment-Confidence-ebook/dp/B00CCPIIZK/)
