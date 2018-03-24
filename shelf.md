@@ -702,3 +702,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Never Split the Difference: Negotiating As If Your Life Depended On It](https://www.amazon.com/gp/product/B014DUR7L2/)
 - [Hardwiring Happiness: The New Brain Science of Contentment, Calm, and Confidence](https://www.amazon.com/Hardwiring-Happiness-Science-Contentment-Confidence-ebook/dp/B00CCPIIZK/)
 - [Visual Intelligence: Sharpen Your Perception, Change Your Life](https://www.amazon.com/Visual-Intelligence-Sharpen-Perception-Change-ebook/dp/B00QPHSA04/)
+- [Different: Escaping the Competitive Herd](https://www.amazon.com/Different-Escaping-Competitive-Youngme-Moon-ebook/dp/B0036S4CNE/)
