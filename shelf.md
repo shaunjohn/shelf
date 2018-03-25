@@ -703,3 +703,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Hardwiring Happiness: The New Brain Science of Contentment, Calm, and Confidence](https://www.amazon.com/Hardwiring-Happiness-Science-Contentment-Confidence-ebook/dp/B00CCPIIZK/)
 - [Visual Intelligence: Sharpen Your Perception, Change Your Life](https://www.amazon.com/Visual-Intelligence-Sharpen-Perception-Change-ebook/dp/B00QPHSA04/)
 - [Different: Escaping the Competitive Herd](https://www.amazon.com/Different-Escaping-Competitive-Youngme-Moon-ebook/dp/B0036S4CNE/)
+- [INSPIRED: How to Create Tech Products Customers Love](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers-ebook/dp/B077NRB36N/)
