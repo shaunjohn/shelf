@@ -705,3 +705,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Different: Escaping the Competitive Herd](https://www.amazon.com/Different-Escaping-Competitive-Youngme-Moon-ebook/dp/B0036S4CNE/)
 - [INSPIRED: How to Create Tech Products Customers Love](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers-ebook/dp/B077NRB36N/)
 - [The Outlier Approach: How to Triumph in your Career as a Nonconformist](https://www.amazon.com/dp/B077X3C2PV)
+- [Where Good Ideas Come From](https://www.amazon.com/gp/product/B003ZK58TA/)
