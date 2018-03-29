@@ -706,3 +706,5 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [INSPIRED: How to Create Tech Products Customers Love](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers-ebook/dp/B077NRB36N/)
 - [The Outlier Approach: How to Triumph in your Career as a Nonconformist](https://www.amazon.com/dp/B077X3C2PV)
 - [Where Good Ideas Come From](https://www.amazon.com/gp/product/B003ZK58TA/)
+- [Identity Management: A Business Perspective](https://www.amazon.com/Identity-Management-Perspective-Graham-Williamson/dp/1583474994)
+
