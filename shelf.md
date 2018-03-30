@@ -708,5 +708,6 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Where Good Ideas Come From](https://www.amazon.com/gp/product/B003ZK58TA/)
 - [Identity Management: A Business Perspective](https://www.amazon.com/Identity-Management-Perspective-Graham-Williamson/dp/1583474994)
 - [Bringing Zero-Knowledge Proofs of Knowledge to Practice](https://www.amazon.com/Bringing-Zero-Knowledge-Proofs-Knowledge-Practice/dp/383253217X/)
+- [The Long Tail: Why the Future of Business Is Selling Less of More](https://www.amazon.com/gp/product/B000JMKSE2/)
 
 
