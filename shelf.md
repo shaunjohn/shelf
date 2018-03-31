@@ -709,5 +709,5 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Identity Management: A Business Perspective](https://www.amazon.com/Identity-Management-Perspective-Graham-Williamson/dp/1583474994)
 - [Bringing Zero-Knowledge Proofs of Knowledge to Practice](https://www.amazon.com/Bringing-Zero-Knowledge-Proofs-Knowledge-Practice/dp/383253217X/)
 - [The Long Tail: Why the Future of Business Is Selling Less of More](https://www.amazon.com/gp/product/B000JMKSE2/)
-
+- [Devil Take the Hindmost: A History of Financial Speculation](https://www.amazon.com/Devil-Take-Hindmost-Financial-Speculation/dp/0452281806/)
 
