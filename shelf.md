@@ -711,4 +711,5 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Long Tail: Why the Future of Business Is Selling Less of More](https://www.amazon.com/gp/product/B000JMKSE2/)
 - [Devil Take the Hindmost: A History of Financial Speculation](https://www.amazon.com/Devil-Take-Hindmost-Financial-Speculation/dp/0452281806/)
 - [The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary](https://www.amazon.com/Cathedral-Bazaar-Musings-Accidental-Revolutionary-ebook/dp/B0026OR3LM/)
+- [Essentialism: The Disciplined Pursuit of Less](https://www.amazon.com/Essentialism-Disciplined-Pursuit-Greg-McKeown/dp/0804137382/)
 
