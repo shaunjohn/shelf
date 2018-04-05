@@ -713,4 +713,5 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary](https://www.amazon.com/Cathedral-Bazaar-Musings-Accidental-Revolutionary-ebook/dp/B0026OR3LM/)
 - [Essentialism: The Disciplined Pursuit of Less](https://www.amazon.com/Essentialism-Disciplined-Pursuit-Greg-McKeown/dp/0804137382/)
 - [Where Good Ideas Come From](https://www.amazon.com/gp/product/B003ZK58TA/)
+- [Different: Escaping the Competitive Herd](https://www.amazon.com/gp/product/B0036S4CNE/)
 
