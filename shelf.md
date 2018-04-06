@@ -714,4 +714,5 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Essentialism: The Disciplined Pursuit of Less](https://www.amazon.com/Essentialism-Disciplined-Pursuit-Greg-McKeown/dp/0804137382/)
 - [Where Good Ideas Come From](https://www.amazon.com/gp/product/B003ZK58TA/)
 - [Different: Escaping the Competitive Herd](https://www.amazon.com/gp/product/B0036S4CNE/)
+- [The Mythical Man-Month: Essays on Software Engineering](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary-ebook/dp/B00B8USS14/)
 
