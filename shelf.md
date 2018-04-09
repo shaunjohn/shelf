@@ -717,4 +717,5 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Mythical Man-Month: Essays on Software Engineering](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary-ebook/dp/B00B8USS14/)
 - [Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs](https://www.amazon.com/gp/product/B078FZ9SYB/)
 - [When Einstein Walked with Gödel: Excursions to the Edge of Thought](https://www.amazon.com/dp/0374146705/)
+- [Vivid Vision: A Remarkable Tool For Aligning Your Business Around a Shared Vision of the Future](https://www.amazon.com/gp/product/B079XWZYHG/)
 
