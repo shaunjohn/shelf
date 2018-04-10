@@ -718,4 +718,5 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs](https://www.amazon.com/gp/product/B078FZ9SYB/)
 - [When Einstein Walked with Gödel: Excursions to the Edge of Thought](https://www.amazon.com/dp/0374146705/)
 - [Vivid Vision: A Remarkable Tool For Aligning Your Business Around a Shared Vision of the Future](https://www.amazon.com/gp/product/B079XWZYHG/)
+- [In Search of Schrodinger's Cat: Quantum Physics And Reality](https://www.amazon.com/Search-Schrodingers-Cat-Quantum-Physics-ebook/dp/B004JN1CIS/)
 
