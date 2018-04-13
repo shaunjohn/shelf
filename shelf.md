@@ -721,4 +721,5 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [In Search of Schrodinger's Cat: Quantum Physics And Reality](https://www.amazon.com/Search-Schrodingers-Cat-Quantum-Physics-ebook/dp/B004JN1CIS/)
 - [Blockchain and the Law: The Rule of Code](https://www.amazon.com/Blockchain-Law-Rule-Primavera-Filippi-ebook/dp/B07BTCJNW6/)
 - [On Grand Strategy](https://www.amazon.com/Grand-Strategy-John-Lewis-Gaddis/dp/1594203512/)
+- [The Signal and the Noise: Why So Many Predictions Fail--but Some Don't](https://www.amazon.com/Signal-Noise-Many-Predictions-Fail-but/dp/0143125087/)
 
