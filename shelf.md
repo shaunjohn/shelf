@@ -724,5 +724,6 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Signal and the Noise: Why So Many Predictions Fail--but Some Don't](https://www.amazon.com/Signal-Noise-Many-Predictions-Fail-but/dp/0143125087/)
 - [The Lifetime Learner's Guide to Reading and Learning](https://www.amazon.com/dp/B073VBZCS8/)
 - [Radical Focus: Achieving Your Most Important Goals with Objectives and Key Results](https://www.amazon.com/gp/product/B01BFKJA0Y/)
+- [The Bitcoin Standard: The Decentralized Alternative to Central Banking](https://www.amazon.com/dp/1119473861)
 
 
