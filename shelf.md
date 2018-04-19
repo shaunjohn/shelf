@@ -726,5 +726,6 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Radical Focus: Achieving Your Most Important Goals with Objectives and Key Results](https://www.amazon.com/gp/product/B01BFKJA0Y/)
 - [The Bitcoin Standard: The Decentralized Alternative to Central Banking](https://www.amazon.com/dp/1119473861)
 - [Competitive Strategy: Techniques for Analyzing Industries and Competitors](https://www.amazon.com/gp/product/B001CB34J0/)
+- [How to Fix the Future](https://www.amazon.com/gp/product/B01N0SMID2/)
 
 
