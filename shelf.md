@@ -728,6 +728,7 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Competitive Strategy: Techniques for Analyzing Industries and Competitors](https://www.amazon.com/gp/product/B001CB34J0/)
 - [How to Fix the Future](https://www.amazon.com/gp/product/B01N0SMID2/)
 - [Enlightenment Now: The Case for Reason, Science, Humanism, and Progress](https://www.amazon.com/Enlightenment-Now-Science-Humanism-Progress/dp/0525427570/)
+- [Thinkertoys: A Handbook of Creative-Thinking Techniques](https://www.amazon.com/Thinkertoys-Creative-Thinking-Techniques-Michael-Michalko-ebook/dp/B004CFAWU2/)
 
 
 
