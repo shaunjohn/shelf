@@ -730,6 +730,7 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Enlightenment Now: The Case for Reason, Science, Humanism, and Progress](https://www.amazon.com/Enlightenment-Now-Science-Humanism-Progress/dp/0525427570/)
 - [Thinkertoys: A Handbook of Creative-Thinking Techniques](https://www.amazon.com/Thinkertoys-Creative-Thinking-Techniques-Michael-Michalko-ebook/dp/B004CFAWU2/)
 - [Democracy Reinvented: Participatory Budgeting and Civic Innovation in America](https://www.amazon.com/Democracy-Reinvented-Participatory-Innovation-Innovative/dp/0815726821/)
+- [The War on Normal People: The Truth About America's Disappearing Jobs and Why Universal Basic Income Is Our Future](https://www.amazon.com/War-Normal-People-Disappearing-Universal/dp/0316414247)
 
 
 
