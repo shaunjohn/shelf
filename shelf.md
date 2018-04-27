@@ -731,6 +731,7 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Thinkertoys: A Handbook of Creative-Thinking Techniques](https://www.amazon.com/Thinkertoys-Creative-Thinking-Techniques-Michael-Michalko-ebook/dp/B004CFAWU2/)
 - [Democracy Reinvented: Participatory Budgeting and Civic Innovation in America](https://www.amazon.com/Democracy-Reinvented-Participatory-Innovation-Innovative/dp/0815726821/)
 - [The War on Normal People: The Truth About America's Disappearing Jobs and Why Universal Basic Income Is Our Future](https://www.amazon.com/War-Normal-People-Disappearing-Universal/dp/0316414247)
+- [The Best Team Wins: Build Your Business Through Predictive Hiring](https://www.amazon.com/gp/product/B01MV3E8F1/)
 
 
 
