@@ -733,6 +733,7 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The War on Normal People: The Truth About America's Disappearing Jobs and Why Universal Basic Income Is Our Future](https://www.amazon.com/War-Normal-People-Disappearing-Universal/dp/0316414247)
 - [The Best Team Wins: Build Your Business Through Predictive Hiring](https://www.amazon.com/gp/product/B01MV3E8F1/)
 - [The Science of Rapid Skill Acquisition: Advanced Methods to Learn, Remember, and Master New Skills, Information, and Abilities](https://www.amazon.com/gp/product/B07C6DWYZL/)
+- [This Might Get Me Fired: A Manual for Thriving in the Corporate Entrepreneurial Underground](https://www.amazon.com/gp/product/B07C9S9DBJ/)
 
 
 
