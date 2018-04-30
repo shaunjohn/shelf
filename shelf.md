@@ -734,6 +734,7 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Best Team Wins: Build Your Business Through Predictive Hiring](https://www.amazon.com/gp/product/B01MV3E8F1/)
 - [The Science of Rapid Skill Acquisition: Advanced Methods to Learn, Remember, and Master New Skills, Information, and Abilities](https://www.amazon.com/gp/product/B07C6DWYZL/)
 - [This Might Get Me Fired: A Manual for Thriving in the Corporate Entrepreneurial Underground](https://www.amazon.com/gp/product/B07C9S9DBJ/)
+- [The Gorilla Game, Revised Edition: Picking Winners in High Technology](https://www.amazon.com/Gorilla-Game-Revised-Picking-Technology-ebook/dp/B000FC120U/)
 
 
 
