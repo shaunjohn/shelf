@@ -736,6 +736,6 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [This Might Get Me Fired: A Manual for Thriving in the Corporate Entrepreneurial Underground](https://www.amazon.com/gp/product/B07C9S9DBJ/)
 - [The Gorilla Game, Revised Edition: Picking Winners in High Technology](https://www.amazon.com/Gorilla-Game-Revised-Picking-Technology-ebook/dp/B000FC120U/)
 - [How Not to Die: Discover the Foods Scientifically Proven to Prevent and Reverse Disease](https://www.amazon.com/How-Not-Die-Discover-Scientifically-ebook/dp/B00Y7USB14/)
-
+- [Braving the Wilderness: The quest for true belonging and the courage to stand alone](https://www.amazon.com/Braving-Wilderness-quest-belonging-courage-ebook/dp/B073XR16VR/)
 
 
