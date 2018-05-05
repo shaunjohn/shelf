@@ -737,5 +737,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Gorilla Game, Revised Edition: Picking Winners in High Technology](https://www.amazon.com/Gorilla-Game-Revised-Picking-Technology-ebook/dp/B000FC120U/)
 - [How Not to Die: Discover the Foods Scientifically Proven to Prevent and Reverse Disease](https://www.amazon.com/How-Not-Die-Discover-Scientifically-ebook/dp/B00Y7USB14/)
 - [Braving the Wilderness: The quest for true belonging and the courage to stand alone](https://www.amazon.com/Braving-Wilderness-quest-belonging-courage-ebook/dp/B073XR16VR/)
-
-
+- [The Art Of Thinking In Systems: Improve Your Logic, Think More Critically, And Use Proven Systems To Solve Your Problems - Strategic Planning For Everyday Life](https://www.amazon.com/gp/product/B078YYJBXL/)
