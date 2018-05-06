@@ -738,3 +738,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [How Not to Die: Discover the Foods Scientifically Proven to Prevent and Reverse Disease](https://www.amazon.com/How-Not-Die-Discover-Scientifically-ebook/dp/B00Y7USB14/)
 - [Braving the Wilderness: The quest for true belonging and the courage to stand alone](https://www.amazon.com/Braving-Wilderness-quest-belonging-courage-ebook/dp/B073XR16VR/)
 - [The Art Of Thinking In Systems: Improve Your Logic, Think More Critically, And Use Proven Systems To Solve Your Problems - Strategic Planning For Everyday Life](https://www.amazon.com/gp/product/B078YYJBXL/)
+- [Anarchy, Inc.: Profiting in a Decentralized World with Artificial Intelligence and Blockchain](https://www.amazon.com/Anarchy-Inc-Decentralized-Artificial-Intelligence-ebook/dp/B07B425PZZ/)
