@@ -740,3 +740,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Art Of Thinking In Systems: Improve Your Logic, Think More Critically, And Use Proven Systems To Solve Your Problems - Strategic Planning For Everyday Life](https://www.amazon.com/gp/product/B078YYJBXL/)
 - [Anarchy, Inc.: Profiting in a Decentralized World with Artificial Intelligence and Blockchain](https://www.amazon.com/Anarchy-Inc-Decentralized-Artificial-Intelligence-ebook/dp/B07B425PZZ/)
 - [Sales EQ: How Ultra High Performers Leverage Sales-Specific Emotional Intelligence to Close the Complex Deal](https://www.amazon.com/Sales-Performers-Sales-Specific-Emotional-Intelligence-ebook/dp/B06XFBMZVC/)
+- [eBoys: The First Inside Account of Venture Capitalists at Work](https://www.amazon.com/eBoys-Inside-Account-Venture-Capitalists-ebook/dp/B000FC1HTG/)
