@@ -742,3 +742,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Sales EQ: How Ultra High Performers Leverage Sales-Specific Emotional Intelligence to Close the Complex Deal](https://www.amazon.com/Sales-Performers-Sales-Specific-Emotional-Intelligence-ebook/dp/B06XFBMZVC/)
 - [eBoys: The First Inside Account of Venture Capitalists at Work](https://www.amazon.com/eBoys-Inside-Account-Venture-Capitalists-ebook/dp/B000FC1HTG/)
 - [Product Roadmaps Relaunched: How to Set Direction while Embracing Uncertainty](https://www.amazon.com/gp/product/B076VX53K1/)
+- [Prediction Machines: The Simple Economics of Artificial Intelligence](https://www.amazon.com/gp/product/B075GXJPFS/)
