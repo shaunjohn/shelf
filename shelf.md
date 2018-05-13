@@ -743,3 +743,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [eBoys: The First Inside Account of Venture Capitalists at Work](https://www.amazon.com/eBoys-Inside-Account-Venture-Capitalists-ebook/dp/B000FC1HTG/)
 - [Product Roadmaps Relaunched: How to Set Direction while Embracing Uncertainty](https://www.amazon.com/gp/product/B076VX53K1/)
 - [Prediction Machines: The Simple Economics of Artificial Intelligence](https://www.amazon.com/gp/product/B075GXJPFS/)
+- [The Challenger Sale: Taking Control of the Customer Conversation](https://www.amazon.com/Challenger-Sale-Control-Customer-Conversation/dp/1591844355)
