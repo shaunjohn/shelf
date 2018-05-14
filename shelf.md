@@ -744,3 +744,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Product Roadmaps Relaunched: How to Set Direction while Embracing Uncertainty](https://www.amazon.com/gp/product/B076VX53K1/)
 - [Prediction Machines: The Simple Economics of Artificial Intelligence](https://www.amazon.com/gp/product/B075GXJPFS/)
 - [The Challenger Sale: Taking Control of the Customer Conversation](https://www.amazon.com/Challenger-Sale-Control-Customer-Conversation/dp/1591844355)
+- [Quirky: The Remarkable Story of the Traits, Foibles, and Genius of Breakthrough Innovators Who Changed the World](https://www.amazon.com/Quirky-Remarkable-Foibles-Breakthrough-Innovators-ebook/dp/B072JT4CGQ/)
