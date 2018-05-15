@@ -745,3 +745,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Prediction Machines: The Simple Economics of Artificial Intelligence](https://www.amazon.com/gp/product/B075GXJPFS/)
 - [The Challenger Sale: Taking Control of the Customer Conversation](https://www.amazon.com/Challenger-Sale-Control-Customer-Conversation/dp/1591844355)
 - [Quirky: The Remarkable Story of the Traits, Foibles, and Genius of Breakthrough Innovators Who Changed the World](https://www.amazon.com/Quirky-Remarkable-Foibles-Breakthrough-Innovators-ebook/dp/B072JT4CGQ/)
+- [My Morning Routine: How Successful People Start Every Day Inspired](https://www.amazon.com/My-Morning-Routine-Successful-Inspired-ebook/dp/B074LZDNV8/ref=sr_1_3?ie=UTF8&qid=1526413084&sr=8-3&keywords=morning+routine)
