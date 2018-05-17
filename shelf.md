@@ -747,4 +747,5 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Quirky: The Remarkable Story of the Traits, Foibles, and Genius of Breakthrough Innovators Who Changed the World](https://www.amazon.com/Quirky-Remarkable-Foibles-Breakthrough-Innovators-ebook/dp/B072JT4CGQ/)
 - [My Morning Routine: How Successful People Start Every Day Inspired](https://www.amazon.com/My-Morning-Routine-Successful-Inspired-ebook/dp/B074LZDNV8/)
 - [Entrepreneurship: The Practice and Mindset](https://www.amazon.com/Entrepreneurship-Practice-Heidi-M-Neck/dp/1483383520)
+- [Who: The A Method for Hiring](https://www.amazon.com/Who-Method-Hiring-Geoff-Smart-ebook/dp/B001EL6RWY/)
 
