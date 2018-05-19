@@ -749,3 +749,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Entrepreneurship: The Practice and Mindset](https://www.amazon.com/Entrepreneurship-Practice-Heidi-M-Neck/dp/1483383520)
 - [Who: The A Method for Hiring](https://www.amazon.com/Who-Method-Hiring-Geoff-Smart-ebook/dp/B001EL6RWY/)
 - [The Connection Algorithm: Take Risks, Defy the Status Quo, and Live Your Passions](https://www.amazon.com/Connection-Algorithm-Risks-Status-Passions-ebook/dp/B00XLTGBLO/)
+- [Unscaled: How AI and a New Generation of Upstarts Are Creating the Economy of the Future](https://www.amazon.com/Unscaled-Generation-Upstarts-Creating-Economy-ebook/dp/B073P3CMWM/)
