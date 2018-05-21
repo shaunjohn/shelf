@@ -751,3 +751,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Connection Algorithm: Take Risks, Defy the Status Quo, and Live Your Passions](https://www.amazon.com/Connection-Algorithm-Risks-Status-Passions-ebook/dp/B00XLTGBLO/)
 - [Unscaled: How AI and a New Generation of Upstarts Are Creating the Economy of the Future](https://www.amazon.com/Unscaled-Generation-Upstarts-Creating-Economy-ebook/dp/B073P3CMWM/)
 - [Reinventing Capitalism in the Age of Big Data](https://www.amazon.com/Reinventing-Capitalism-Age-Big-Data-ebook/dp/B072MF2NQJ/)
+- [Skin in the Game: Hidden Asymmetries in Daily Life](https://www.amazon.com/Skin-Game-Hidden-Asymmetries-Daily-ebook/dp/B075HYVP7C/)
