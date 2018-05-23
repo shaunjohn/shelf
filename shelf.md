@@ -753,3 +753,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Reinventing Capitalism in the Age of Big Data](https://www.amazon.com/Reinventing-Capitalism-Age-Big-Data-ebook/dp/B072MF2NQJ/)
 - [Skin in the Game: Hidden Asymmetries in Daily Life](https://www.amazon.com/Skin-Game-Hidden-Asymmetries-Daily-ebook/dp/B075HYVP7C/)
 - [Origin Story: A Big History of Everything](https://www.amazon.com/Origin-Story-Big-History-Everything-ebook/dp/B075CSMKMF/)
+- [Augmented Human: How Technology Is Shaping the New Reality](https://www.amazon.com/Augmented-Human-Technology-Shaping-Reality/dp/1491928328/)
