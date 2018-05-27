@@ -757,3 +757,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Secret Life of the Mind: How Your Brain Thinks, Feels, and Decides](https://www.amazon.com/Secret-Life-Mind-Thinks-Decides-ebook/dp/B01M0CD0ND/)
 - [Breakthrough Thinking: A Guide to Creative Thinking and Idea Generation](https://www.amazon.com/Breakthrough-Thinking-Guide-Creative-Generation-ebook/dp/B00N59A5Q2/)
 - [The Consciousness Instinct: Unraveling the Mystery of How the Brain Makes the Mind](https://www.amazon.com/Consciousness-Instinct-Unraveling-Mystery-Brain-ebook/dp/B075JMRXR9/)
+- [Mindset: The New Psychology of Success](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck-ebook/dp/B000FCKPHG/)
