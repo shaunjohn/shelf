@@ -760,3 +760,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Mindset: The New Psychology of Success](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck-ebook/dp/B000FCKPHG/)
 - [They Ask You Answer: A Revolutionary Approach to Inbound Sales, Content Marketing, and Today's Digital Consumer](https://www.amazon.com/They-Ask-You-Answer-Revolutionary-ebook/dp/B01NAO775R/)
 - [Army of None: Autonomous Weapons and the Future of War](https://www.amazon.com/Army-None-Autonomous-Weapons-Future/dp/0393608980/)
+- [The Messy Middle: Finding Your Way Through the Hardest and Most Crucial Part of Any Bold Venture](https://www.amazon.com/Messy-Middle-Finding-Through-Hardest-ebook/dp/B079WN554H/)
