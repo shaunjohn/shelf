@@ -764,3 +764,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Sovereign Individual: Mastering the Transition to the Information Age](https://www.amazon.com/Sovereign-Individual-Mastering-Transition-Information/dp/0684832720/)
 - [Never Stop Learning: Stay Relevant, Reinvent Yourself, and Thrive](https://www.amazon.com/Never-Stop-Learning-Relevant-Reinvent-ebook/dp/B073YDK4H5/)
 - [Overcharged: Why Americans Pay Too Much for Health Care](https://www.amazon.com/gp/product/B07CRR42TS/)
+- [Blitzscaling: The Lightning-Fast Path to Building Massively Valuable Companies](https://www.amazon.com/Blitzscaling-Lightning-Fast-Building-Massively-Companies-ebook/dp/B0791239V7/)
