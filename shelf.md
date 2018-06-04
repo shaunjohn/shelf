@@ -765,3 +765,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Never Stop Learning: Stay Relevant, Reinvent Yourself, and Thrive](https://www.amazon.com/Never-Stop-Learning-Relevant-Reinvent-ebook/dp/B073YDK4H5/)
 - [Overcharged: Why Americans Pay Too Much for Health Care](https://www.amazon.com/gp/product/B07CRR42TS/)
 - [Blitzscaling: The Lightning-Fast Path to Building Massively Valuable Companies](https://www.amazon.com/Blitzscaling-Lightning-Fast-Building-Massively-Companies-ebook/dp/B0791239V7/)
+- [Blockchain and the Law: The Rule of Code](https://www.amazon.com/Blockchain-Law-Rule-Primavera-Filippi-ebook/dp/B07BTCJNW6/)
