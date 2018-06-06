@@ -767,3 +767,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Blitzscaling: The Lightning-Fast Path to Building Massively Valuable Companies](https://www.amazon.com/Blitzscaling-Lightning-Fast-Building-Massively-Companies-ebook/dp/B0791239V7/)
 - [Blockchain and the Law: The Rule of Code](https://www.amazon.com/Blockchain-Law-Rule-Primavera-Filippi-ebook/dp/B07BTCJNW6/)
 - [The Connection Algorithm: Take Risks, Defy the Status Quo, and Live Your Passions](https://www.amazon.com/gp/product/B00XLTGBLO/)
+- [The Lessons of History](https://www.amazon.com/Lessons-History-Will-Durant-ebook/dp/B008GUIEYU/)
