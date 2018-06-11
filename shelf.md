@@ -772,3 +772,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Regulatory Hacking: A Playbook for Startups](https://www.amazon.com/Regulatory-Hacking-Playbook-Evan-Burfield-ebook/dp/B078GBFZ73/)
 - [Who Gets What — and Why: The New Economics of Matchmaking and Market Design](https://www.amazon.com/Who-Gets-What-Economics-Matchmaking-ebook/dp/B00LZ7GQJQ/)
 - [Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness](https://www.amazon.com/gp/product/B00ICS9VI4/)
+- [Uncensored: My Life and Uncomfortable Conversations at the Intersection of Black and White America](https://www.amazon.com/Uncensored-Uncomfortable-Conversations-Intersection-America-ebook/dp/B076NW36HG/)
