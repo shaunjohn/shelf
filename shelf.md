@@ -775,3 +775,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Uncensored: My Life and Uncomfortable Conversations at the Intersection of Black and White America](https://www.amazon.com/Uncensored-Uncomfortable-Conversations-Intersection-America-ebook/dp/B076NW36HG/)
 - [The Brain's Way of Healing: Remarkable Discoveries and Recoveries from the Frontiers of Neuroplasticity](https://www.amazon.com/Brains-Way-Healing-Discoveries-Neuroplasticity-ebook/dp/B00KWG9L2A/)
 - [The Creative Curve: How to Develop the Right Idea, at the Right Time](https://www.amazon.com/Creative-Curve-Develop-Right-Idea-ebook/dp/B075PVQ99T/)
+- [Factfulness: Ten Reasons We're Wrong About the World--and Why Things Are Better Than You Think](https://www.amazon.com/gp/product/B0756J1LLV/)
