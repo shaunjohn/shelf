@@ -777,3 +777,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Creative Curve: How to Develop the Right Idea, at the Right Time](https://www.amazon.com/Creative-Curve-Develop-Right-Idea-ebook/dp/B075PVQ99T/)
 - [Factfulness: Ten Reasons We're Wrong About the World--and Why Things Are Better Than You Think](https://www.amazon.com/gp/product/B0756J1LLV/)
 - [Cybersecurity and Applied Mathematics](https://www.amazon.com/Cybersecurity-Applied-Mathematics-Leigh-Metcalf/dp/0128044527/)
+- [The Age of Metapreneurship: A Journey into the Future of Entrepreneurship](https://www.amazon.com/dp/B071XN4GNS/)
