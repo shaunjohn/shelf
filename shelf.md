@@ -778,3 +778,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Factfulness: Ten Reasons We're Wrong About the World--and Why Things Are Better Than You Think](https://www.amazon.com/gp/product/B0756J1LLV/)
 - [Cybersecurity and Applied Mathematics](https://www.amazon.com/Cybersecurity-Applied-Mathematics-Leigh-Metcalf/dp/0128044527/)
 - [The Age of Metapreneurship: A Journey into the Future of Entrepreneurship](https://www.amazon.com/dp/B071XN4GNS/)
+- [The Space Barons: Elon Musk, Jeff Bezos, and the Quest to Colonize the Cosmos](https://www.amazon.com/Space-Barons-Bezos-Colonize-Cosmos-ebook/dp/B075CT4TM9/)
