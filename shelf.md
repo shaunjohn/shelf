@@ -781,3 +781,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Space Barons: Elon Musk, Jeff Bezos, and the Quest to Colonize the Cosmos](https://www.amazon.com/Space-Barons-Bezos-Colonize-Cosmos-ebook/dp/B075CT4TM9/)
 - [The Rational Optimist: How Prosperity Evolves](https://www.amazon.com/Rational-Optimist-Prosperity-Evolves-P-s-ebook/dp/B003QP4BJM/)
 - [Escape Velocity: Free Your Company's Future from the Pull of the Past](https://www.amazon.com/Escape-Velocity-Free-Companys-Future-ebook/dp/B004S32R42/)
+- [Finite and Infinite Games](https://www.amazon.com/Finite-Infinite-Games-James-Carse/dp/1476731713/)
