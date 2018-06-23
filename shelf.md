@@ -783,3 +783,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Escape Velocity: Free Your Company's Future from the Pull of the Past](https://www.amazon.com/Escape-Velocity-Free-Companys-Future-ebook/dp/B004S32R42/)
 - [Finite and Infinite Games](https://www.amazon.com/Finite-Infinite-Games-James-Carse/dp/1476731713/)
 - [Humans Need Not Apply: A Guide to Wealth and Work in the Age of Artificial Intelligence](https://www.amazon.com/Humans-Need-Not-Apply-Intelligence/dp/0300223579/)
+- [Inadequate Equilibria: Where and How Civilizations Get Stuck](https://www.amazon.com/Inadequate-Equilibria-Where-Civilizations-Stuck/dp/1939311225/)
