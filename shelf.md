@@ -784,3 +784,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Finite and Infinite Games](https://www.amazon.com/Finite-Infinite-Games-James-Carse/dp/1476731713/)
 - [Humans Need Not Apply: A Guide to Wealth and Work in the Age of Artificial Intelligence](https://www.amazon.com/Humans-Need-Not-Apply-Intelligence/dp/0300223579/)
 - [Inadequate Equilibria: Where and How Civilizations Get Stuck](https://www.amazon.com/Inadequate-Equilibria-Where-Civilizations-Stuck/dp/1939311225/)
+- [The Advantage: Why Organizational Health Trumps Everything Else In Business](https://www.amazon.com/gp/product/B006ORWT3Y/)
