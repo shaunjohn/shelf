@@ -788,3 +788,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [On Writing Well: An Informal Guide to Writing Nonfiction](https://www.amazon.com/gp/product/B0090RVGW0/)
 - [Rise of the Robots: Technology and the Threat of a Jobless Future](https://www.amazon.com/Rise-Robots-Technology-Threat-Jobless/dp/0465097537/)
 - [From Me to We: Why Commercial Collaboration Will Future-proof Business, Leaders and Personal Success](https://www.amazon.com/Me-We-Commercial-Collaboration-Future-proof-ebook/dp/B00PW40CH0/)
+- [Teaming: How Organizations Learn, Innovate, and Compete in the Knowledge Economy](https://www.amazon.com/Teaming-Organizations-Innovate-Compete-Knowledge-ebook/dp/B007MF3BRA/)
