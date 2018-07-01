@@ -790,4 +790,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [From Me to We: Why Commercial Collaboration Will Future-proof Business, Leaders and Personal Success](https://www.amazon.com/Me-We-Commercial-Collaboration-Future-proof-ebook/dp/B00PW40CH0/)
 - [Teaming: How Organizations Learn, Innovate, and Compete in the Knowledge Economy](https://www.amazon.com/Teaming-Organizations-Innovate-Compete-Knowledge-ebook/dp/B007MF3BRA/)
 - [Blockchain -- Trust Companies: Every Company Is at Risk of Being Disrupted by a Trusted Version of Itself](https://www.amazon.com/Blockchain-Companies-Company-Disrupted-Trusted-ebook/dp/B074PTQP43)
-
+- [The Elephant in the Brain: Hidden Motives in Everyday Life](https://www.amazon.com/Elephant-Brain-Hidden-Motives-Everyday/dp/0190495995/)
