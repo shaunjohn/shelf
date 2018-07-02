@@ -791,3 +791,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Teaming: How Organizations Learn, Innovate, and Compete in the Knowledge Economy](https://www.amazon.com/Teaming-Organizations-Innovate-Compete-Knowledge-ebook/dp/B007MF3BRA/)
 - [Blockchain -- Trust Companies: Every Company Is at Risk of Being Disrupted by a Trusted Version of Itself](https://www.amazon.com/Blockchain-Companies-Company-Disrupted-Trusted-ebook/dp/B074PTQP43)
 - [The Elephant in the Brain: Hidden Motives in Everyday Life](https://www.amazon.com/Elephant-Brain-Hidden-Motives-Everyday/dp/0190495995/)
+- [Who We Are and How We Got Here: Ancient DNA and the New Science of the Human Past](https://www.amazon.com/Who-Are-How-Got-Here-ebook/dp/B073NP8WT3/)
