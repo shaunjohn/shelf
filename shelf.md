@@ -792,3 +792,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Blockchain -- Trust Companies: Every Company Is at Risk of Being Disrupted by a Trusted Version of Itself](https://www.amazon.com/Blockchain-Companies-Company-Disrupted-Trusted-ebook/dp/B074PTQP43)
 - [The Elephant in the Brain: Hidden Motives in Everyday Life](https://www.amazon.com/Elephant-Brain-Hidden-Motives-Everyday/dp/0190495995/)
 - [Who We Are and How We Got Here: Ancient DNA and the New Science of the Human Past](https://www.amazon.com/Who-Are-How-Got-Here-ebook/dp/B073NP8WT3/)
+- [Debt: The First 5,000 Years](https://www.amazon.com/Debt-Updated-Expanded-First-Years/dp/1612194192/)
