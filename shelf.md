@@ -795,3 +795,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Debt: The First 5,000 Years](https://www.amazon.com/Debt-Updated-Expanded-First-Years/dp/1612194192/)
 - [The Land Without A Banking Law: How To Start A Bank With A Thousand Dollars](https://www.amazon.com/Land-Without-Banking-Law-Thousand/dp/0957543816/)
 - [How to Be Invisible: Protect Your Home, Your Children, Your Assets, and Your Life](https://www.amazon.com/How-Be-Invisible-Protect-Children/dp/1250010454/)
+- [Superminds: The Surprising Power of People and Computers Thinking Together](https://www.amazon.com/dp/B075CRYH51/)
