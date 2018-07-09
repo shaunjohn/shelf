@@ -797,3 +797,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [How to Be Invisible: Protect Your Home, Your Children, Your Assets, and Your Life](https://www.amazon.com/How-Be-Invisible-Protect-Children/dp/1250010454/)
 - [Superminds: The Surprising Power of People and Computers Thinking Together](https://www.amazon.com/dp/B075CRYH51/)
 - [But What If We're Wrong?: Thinking About the Present As If It Were the Past](https://www.amazon.com/But-What-If-Were-Wrong-ebook/dp/B015DLUTDS/)
+- [Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts](https://www.amazon.com/Thinking-Bets-Making-Smarter-Decisions-ebook/dp/B074DG9LQF/)
