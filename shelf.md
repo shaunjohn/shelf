@@ -800,3 +800,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts](https://www.amazon.com/Thinking-Bets-Making-Smarter-Decisions-ebook/dp/B074DG9LQF/)
 - [The Courage to Be Disliked: The Japanese Phenomenon That Shows You How to Change Your Life and Achieve Real Happiness](https://www.amazon.com/Courage-Be-Disliked-Phenomenon-Happiness-ebook/dp/B078MDSV8T/)
 - [The Spider Network: How a Math Genius and a Gang of Scheming Bankers Pulled Off One of the Greatest Scams in History](https://www.amazon.com/Spider-Network-Scheming-Bankers-Greatest-ebook/dp/B01HM24IRY/)
+- [Expert Political Judgment: How Good Is It? How Can We Know?](https://www.amazon.com/Expert-Political-Judgment-Good-Know-ebook/dp/B072F4X6QY/)
