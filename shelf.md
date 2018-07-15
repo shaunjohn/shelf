@@ -802,3 +802,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Spider Network: How a Math Genius and a Gang of Scheming Bankers Pulled Off One of the Greatest Scams in History](https://www.amazon.com/Spider-Network-Scheming-Bankers-Greatest-ebook/dp/B01HM24IRY/)
 - [Expert Political Judgment: How Good Is It? How Can We Know?](https://www.amazon.com/Expert-Political-Judgment-Good-Know-ebook/dp/B072F4X6QY/)
 - [Black Box Thinking: Why Most People Never Learn from Their Mistakes--But Some Do](https://www.amazon.com/Black-Box-Thinking-People-Mistakes-But-ebook/dp/B00SI0B8XC/)
+-[The responsibility of intellectuals](https://www.amazon.com/responsibility-intellectuals-Noam-Chomsky/dp/B0007I6Y5A)
