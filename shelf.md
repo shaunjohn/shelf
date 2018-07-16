@@ -803,3 +803,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Expert Political Judgment: How Good Is It? How Can We Know?](https://www.amazon.com/Expert-Political-Judgment-Good-Know-ebook/dp/B072F4X6QY/)
 - [Black Box Thinking: Why Most People Never Learn from Their Mistakes--But Some Do](https://www.amazon.com/Black-Box-Thinking-People-Mistakes-But-ebook/dp/B00SI0B8XC/)
 -[The responsibility of intellectuals](https://www.amazon.com/responsibility-intellectuals-Noam-Chomsky/dp/B0007I6Y5A)
+- [The Worst Hard Time: The Untold Story of Those Who Survived the Great American Dust Bowl](https://www.amazon.com/Worst-Hard-Time-Survived-American-ebook/dp/B004H1UOSG/)
