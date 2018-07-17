@@ -804,3 +804,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Black Box Thinking: Why Most People Never Learn from Their Mistakes--But Some Do](https://www.amazon.com/Black-Box-Thinking-People-Mistakes-But-ebook/dp/B00SI0B8XC/)
 -[The responsibility of intellectuals](https://www.amazon.com/responsibility-intellectuals-Noam-Chomsky/dp/B0007I6Y5A)
 - [The Worst Hard Time: The Untold Story of Those Who Survived the Great American Dust Bowl](https://www.amazon.com/Worst-Hard-Time-Survived-American-ebook/dp/B004H1UOSG/)
+- [The Social Singularity: How decentralization will allow us to transcend politics, create global prosperity, and avoid the robot apocalypse](https://www.amazon.com/Social-Singularity-decentralization-prosperity-apocalypse-ebook/dp/B07DDPVCM1/)
