@@ -805,3 +805,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 -[The responsibility of intellectuals](https://www.amazon.com/responsibility-intellectuals-Noam-Chomsky/dp/B0007I6Y5A)
 - [The Worst Hard Time: The Untold Story of Those Who Survived the Great American Dust Bowl](https://www.amazon.com/Worst-Hard-Time-Survived-American-ebook/dp/B004H1UOSG/)
 - [The Social Singularity: How decentralization will allow us to transcend politics, create global prosperity, and avoid the robot apocalypse](https://www.amazon.com/Social-Singularity-decentralization-prosperity-apocalypse-ebook/dp/B07DDPVCM1/)
+- [Superforecasting: The Art and Science of Prediction](https://www.amazon.com/gp/product/B00RKO6MS8/)
