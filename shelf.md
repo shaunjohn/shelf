@@ -807,3 +807,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Social Singularity: How decentralization will allow us to transcend politics, create global prosperity, and avoid the robot apocalypse](https://www.amazon.com/Social-Singularity-decentralization-prosperity-apocalypse-ebook/dp/B07DDPVCM1/)
 - [Superforecasting: The Art and Science of Prediction](https://www.amazon.com/gp/product/B00RKO6MS8/)
 - [Social Architecture: Building On-line Communities](https://www.amazon.com/Social-Architecture-Building-line-Communities-ebook/dp/B01F8I7Z7E/)
+- [Everybody, Always: Becoming Love in a World Full of Setbacks and Difficult People](https://www.amazon.com/gp/product/B075SMCGJB/)
