@@ -808,3 +808,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Superforecasting: The Art and Science of Prediction](https://www.amazon.com/gp/product/B00RKO6MS8/)
 - [Social Architecture: Building On-line Communities](https://www.amazon.com/Social-Architecture-Building-line-Communities-ebook/dp/B01F8I7Z7E/)
 - [Everybody, Always: Becoming Love in a World Full of Setbacks and Difficult People](https://www.amazon.com/gp/product/B075SMCGJB/)
+- [High Growth Handbook](https://www.amazon.com/High-Growth-Handbook-Elad-Gil-ebook/dp/B07DRPGGQ7/)
