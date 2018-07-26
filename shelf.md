@@ -812,4 +812,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Secret Lives of Color](https://www.amazon.com/gp/product/B01MSCJNN8/)
 - [Negotiating the Impossible: How to Break Deadlocks and Resolve Ugly Conflicts - without Money or Muscle](https://www.amazon.com/Negotiating-Impossible-Deadlocks-Resolve-Conflicts-ebook/dp/B01974RUO8/)
 - [AIQ: How People and Machines Are Smarter Together](https://www.amazon.com/AIQ-People-Machines-Smarter-Together-ebook/dp/B076PNMYQM/)
-- [Radical Markets: Uprooting Capitalism and Democracy for a Just Society](https://www.amazon.com/Radical-Markets-Uprooting-Capitalism-Democracy/dp/0691177503/])
+- [Radical Markets: Uprooting Capitalism and Democracy for a Just Society](https://www.amazon.com/Radical-Markets-Uprooting-Capitalism-Democracy/dp/0691177503/)
