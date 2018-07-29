@@ -814,3 +814,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [AIQ: How People and Machines Are Smarter Together](https://www.amazon.com/AIQ-People-Machines-Smarter-Together-ebook/dp/B076PNMYQM/)
 - [Radical Markets: Uprooting Capitalism and Democracy for a Just Society](https://www.amazon.com/Radical-Markets-Uprooting-Capitalism-Democracy/dp/0691177503/)
 - [Game Thinking: Innovate smarter & drive deep engagement with design techniques from hit games](https://www.amazon.com/gp/product/B07CZFMV7H/)
+- [Subliminal: How Your Unconscious Mind Rules Your Behavior](https://www.amazon.com/Subliminal-Your-Unconscious-Rules-Behavior/dp/0307472256/)
