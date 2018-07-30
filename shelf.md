@@ -815,3 +815,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Radical Markets: Uprooting Capitalism and Democracy for a Just Society](https://www.amazon.com/Radical-Markets-Uprooting-Capitalism-Democracy/dp/0691177503/)
 - [Game Thinking: Innovate smarter & drive deep engagement with design techniques from hit games](https://www.amazon.com/gp/product/B07CZFMV7H/)
 - [Subliminal: How Your Unconscious Mind Rules Your Behavior](https://www.amazon.com/Subliminal-Your-Unconscious-Rules-Behavior/dp/0307472256/)
+- [The Value of Everything: Making and Taking in the Global Economy](https://www.amazon.com/Value-Everything-Making-Taking-Economy/dp/0241347793/)
