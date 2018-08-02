@@ -817,3 +817,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Subliminal: How Your Unconscious Mind Rules Your Behavior](https://www.amazon.com/Subliminal-Your-Unconscious-Rules-Behavior/dp/0307472256/)
 - [The Value of Everything: Making and Taking in the Global Economy](https://www.amazon.com/Value-Everything-Making-Taking-Economy/dp/0241347793/)
 - [Big Mistakes: The Best Investors and Their Worst Investments](https://www.amazon.com/Big-Mistakes-Investors-Investments-Bloomberg-ebook/dp/B07D8GSXJC/)
+- [Orchestrating Experiences: Collaborative Design for Complexity](https://www.amazon.com/Orchestrating-Experiences-Collaborative-Design-Complexity-ebook/dp/B07BW4XB91/)
