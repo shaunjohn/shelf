@@ -819,3 +819,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Big Mistakes: The Best Investors and Their Worst Investments](https://www.amazon.com/Big-Mistakes-Investors-Investments-Bloomberg-ebook/dp/B07D8GSXJC/)
 - [Orchestrating Experiences: Collaborative Design for Complexity](https://www.amazon.com/Orchestrating-Experiences-Collaborative-Design-Complexity-ebook/dp/B07BW4XB91/)
 - [Chuck Klosterman IV: A Decade of Curious People and Dangerous Ideas](https://www.amazon.com/Chuck-Klosterman-IV-Curious-Dangerous/dp/0743284895/)
+- [Adaptive Markets: Financial Evolution at the Speed of Thought](https://www.amazon.com/Adaptive-Markets-Financial-Evolution-Thought-ebook/dp/B06X9R8Y2M/)
