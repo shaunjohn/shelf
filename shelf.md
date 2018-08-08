@@ -821,3 +821,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Chuck Klosterman IV: A Decade of Curious People and Dangerous Ideas](https://www.amazon.com/Chuck-Klosterman-IV-Curious-Dangerous/dp/0743284895/)
 - [Adaptive Markets: Financial Evolution at the Speed of Thought](https://www.amazon.com/Adaptive-Markets-Financial-Evolution-Thought-ebook/dp/B06X9R8Y2M/)
 - [Drones: Safety Risk Management for the Next Evolution of Flight](https://www.amazon.com/Drones-Safety-Management-Evolution-Flight/dp/1138203556/)
+- [The Infinite Game](https://www.amazon.com/gp/product/B079DWSYYB/)
