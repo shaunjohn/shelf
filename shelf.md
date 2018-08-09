@@ -822,3 +822,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Adaptive Markets: Financial Evolution at the Speed of Thought](https://www.amazon.com/Adaptive-Markets-Financial-Evolution-Thought-ebook/dp/B06X9R8Y2M/)
 - [Drones: Safety Risk Management for the Next Evolution of Flight](https://www.amazon.com/Drones-Safety-Management-Evolution-Flight/dp/1138203556/)
 - [The Infinite Game](https://www.amazon.com/gp/product/B079DWSYYB/)
+- [Extreme Teams: Why Pixar, Netflix, Airbnb, and Other Cutting-Edge Companies Succeed Where Most Fail](https://www.amazon.com/Extreme-Teams-Netflix-Cutting-Edge-Companies-ebook/dp/B01HUER114/)
