@@ -823,3 +823,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Drones: Safety Risk Management for the Next Evolution of Flight](https://www.amazon.com/Drones-Safety-Management-Evolution-Flight/dp/1138203556/)
 - [The Infinite Game](https://www.amazon.com/gp/product/B079DWSYYB/)
 - [Extreme Teams: Why Pixar, Netflix, Airbnb, and Other Cutting-Edge Companies Succeed Where Most Fail](https://www.amazon.com/Extreme-Teams-Netflix-Cutting-Edge-Companies-ebook/dp/B01HUER114/)
+- [Applied Empathy: The New Language of Leadership](https://www.amazon.com/Applied-Empathy-New-Language-Leadership-ebook/dp/B078MC84D9/)
