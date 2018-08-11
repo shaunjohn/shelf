@@ -824,3 +824,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Infinite Game](https://www.amazon.com/gp/product/B079DWSYYB/)
 - [Extreme Teams: Why Pixar, Netflix, Airbnb, and Other Cutting-Edge Companies Succeed Where Most Fail](https://www.amazon.com/Extreme-Teams-Netflix-Cutting-Edge-Companies-ebook/dp/B01HUER114/)
 - [Applied Empathy: The New Language of Leadership](https://www.amazon.com/Applied-Empathy-New-Language-Leadership-ebook/dp/B078MC84D9/)
+- [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations-ebook/dp/B07B9F83WM/)
