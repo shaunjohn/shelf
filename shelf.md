@@ -828,3 +828,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [What Makes a High Performance Organization: Five Factors of Competitive Advantage that Apply Worldwide](https://www.amazon.com/What-Makes-High-Performance-Organization/dp/1906403821/)
 - [The Age of Cryptocurrency: How Bitcoin and the Blockchain Are Challenging the Global Economic Order](https://www.amazon.com/Age-Cryptocurrency-Blockchain-Challenging-Economic/dp/1250081556)
 - [The Art of Intrusion: The Real Stories Behind the Exploits of Hackers, Intruders and Deceivers](https://www.amazon.com/Art-Intrusion-Exploits-Intruders-Deceivers/dp/0471782661/)
+- [Relentless Optimism: How a Commitment to Positive Thinking Changes Everything](https://www.amazon.com/dp/B07492TJ79/)
