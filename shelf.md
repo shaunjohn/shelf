@@ -829,3 +829,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Age of Cryptocurrency: How Bitcoin and the Blockchain Are Challenging the Global Economic Order](https://www.amazon.com/Age-Cryptocurrency-Blockchain-Challenging-Economic/dp/1250081556)
 - [The Art of Intrusion: The Real Stories Behind the Exploits of Hackers, Intruders and Deceivers](https://www.amazon.com/Art-Intrusion-Exploits-Intruders-Deceivers/dp/0471782661/)
 - [Relentless Optimism: How a Commitment to Positive Thinking Changes Everything](https://www.amazon.com/dp/B07492TJ79/)
+- [Thinking with Type: A Critical Guide for Designers, Writers, Editors, & Students](https://www.amazon.com/gp/product/B00JH8H4EG/)
