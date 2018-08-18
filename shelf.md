@@ -830,3 +830,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Art of Intrusion: The Real Stories Behind the Exploits of Hackers, Intruders and Deceivers](https://www.amazon.com/Art-Intrusion-Exploits-Intruders-Deceivers/dp/0471782661/)
 - [Relentless Optimism: How a Commitment to Positive Thinking Changes Everything](https://www.amazon.com/dp/B07492TJ79/)
 - [Thinking with Type: A Critical Guide for Designers, Writers, Editors, & Students](https://www.amazon.com/gp/product/B00JH8H4EG/)
+- [A Team of Leaders: Empowering Every Member to Take Ownership, Demonstrate Initiative, and Deliver Results](https://www.amazon.com/gp/product/B00HSUWM1K/)
