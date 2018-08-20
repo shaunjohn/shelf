@@ -832,3 +832,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Thinking with Type: A Critical Guide for Designers, Writers, Editors, & Students](https://www.amazon.com/gp/product/B00JH8H4EG/)
 - [A Team of Leaders: Empowering Every Member to Take Ownership, Demonstrate Initiative, and Deliver Results](https://www.amazon.com/gp/product/B00HSUWM1K/)
 - [The Future of Work: Robots, AI, and Automation](https://www.amazon.com/gp/product/B0741CP8N5)
+- [Towards a Philosophy of Digital Media](https://www.amazon.com/Towards-Philosophy-Digital-Alberto-Romele-ebook/dp/B07D52ZKBW/)
