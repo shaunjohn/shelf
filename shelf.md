@@ -833,3 +833,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [A Team of Leaders: Empowering Every Member to Take Ownership, Demonstrate Initiative, and Deliver Results](https://www.amazon.com/gp/product/B00HSUWM1K/)
 - [The Future of Work: Robots, AI, and Automation](https://www.amazon.com/gp/product/B0741CP8N5)
 - [Towards a Philosophy of Digital Media](https://www.amazon.com/Towards-Philosophy-Digital-Alberto-Romele-ebook/dp/B07D52ZKBW/)
+- [Revolutions in Communication: Media History from Gutenberg to the Digital Age](https://www.amazon.com/Revolutions-Communication-History-Gutenberg-Digital/dp/1628924780/)
