@@ -834,3 +834,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Future of Work: Robots, AI, and Automation](https://www.amazon.com/gp/product/B0741CP8N5)
 - [Towards a Philosophy of Digital Media](https://www.amazon.com/Towards-Philosophy-Digital-Alberto-Romele-ebook/dp/B07D52ZKBW/)
 - [Revolutions in Communication: Media History from Gutenberg to the Digital Age](https://www.amazon.com/Revolutions-Communication-History-Gutenberg-Digital/dp/1628924780/)
+- [Atomic Awakening: A New Look at the History and Future of Nuclear Power](https://www.amazon.com/Atomic-Awakening-History-Future-Nuclear-ebook/dp/B004GUS68I/)
