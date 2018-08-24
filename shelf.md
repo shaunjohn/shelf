@@ -836,3 +836,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Revolutions in Communication: Media History from Gutenberg to the Digital Age](https://www.amazon.com/Revolutions-Communication-History-Gutenberg-Digital/dp/1628924780/)
 - [Atomic Awakening: A New Look at the History and Future of Nuclear Power](https://www.amazon.com/Atomic-Awakening-History-Future-Nuclear-ebook/dp/B004GUS68I/)
 - [Viral Loop: From Facebook to Twitter, How Today's Smartest Businesses Grow Themselves](https://www.amazon.com/Viral-Loop-Facebook-Businesses-Themselves-ebook/dp/B002QHATGK/)
+- [The Art of Strategy: A Game Theorist's Guide to Success in Business and Life](https://www.amazon.com/Art-Strategy-Theorists-Success-Business-ebook/dp/B001FA0NOM/)
