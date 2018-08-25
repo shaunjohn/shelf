@@ -837,3 +837,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Atomic Awakening: A New Look at the History and Future of Nuclear Power](https://www.amazon.com/Atomic-Awakening-History-Future-Nuclear-ebook/dp/B004GUS68I/)
 - [Viral Loop: From Facebook to Twitter, How Today's Smartest Businesses Grow Themselves](https://www.amazon.com/Viral-Loop-Facebook-Businesses-Themselves-ebook/dp/B002QHATGK/)
 - [The Art of Strategy: A Game Theorist's Guide to Success in Business and Life](https://www.amazon.com/Art-Strategy-Theorists-Success-Business-ebook/dp/B001FA0NOM/)
+- [Ogilvy on Advertising](https://www.amazon.com/Ogilvy-Advertising-David-ebook/dp/B00EMXBZKA)
