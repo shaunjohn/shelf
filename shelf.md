@@ -838,3 +838,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Viral Loop: From Facebook to Twitter, How Today's Smartest Businesses Grow Themselves](https://www.amazon.com/Viral-Loop-Facebook-Businesses-Themselves-ebook/dp/B002QHATGK/)
 - [The Art of Strategy: A Game Theorist's Guide to Success in Business and Life](https://www.amazon.com/Art-Strategy-Theorists-Success-Business-ebook/dp/B001FA0NOM/)
 - [Ogilvy on Advertising](https://www.amazon.com/Ogilvy-Advertising-David-ebook/dp/B00EMXBZKA)
+- [Seven Stories Every Salesperson Must Tell](https://www.amazon.com/Seven-Stories-Every-Salesperson-Must-ebook/dp/B07G42FDBM)
