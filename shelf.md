@@ -839,3 +839,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Art of Strategy: A Game Theorist's Guide to Success in Business and Life](https://www.amazon.com/Art-Strategy-Theorists-Success-Business-ebook/dp/B001FA0NOM/)
 - [Ogilvy on Advertising](https://www.amazon.com/Ogilvy-Advertising-David-ebook/dp/B00EMXBZKA)
 - [Seven Stories Every Salesperson Must Tell](https://www.amazon.com/Seven-Stories-Every-Salesperson-Must-ebook/dp/B07G42FDBM)
+- [The Art of Gathering: How We Meet and Why It Matters](https://www.amazon.com/Art-Gathering-How-Meet-Matters-ebook/dp/B07637KVXL)
