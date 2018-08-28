@@ -840,3 +840,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Ogilvy on Advertising](https://www.amazon.com/Ogilvy-Advertising-David-ebook/dp/B00EMXBZKA)
 - [Seven Stories Every Salesperson Must Tell](https://www.amazon.com/Seven-Stories-Every-Salesperson-Must-ebook/dp/B07G42FDBM)
 - [The Art of Gathering: How We Meet and Why It Matters](https://www.amazon.com/Art-Gathering-How-Meet-Matters-ebook/dp/B07637KVXL)
+- [How We Learn: The Surprising Truth About When, Where, and Why It Happens](https://www.amazon.com/How-We-Learn-Surprising-Happens-ebook/dp/B00IWTTNZE/)
