@@ -843,3 +843,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [How We Learn: The Surprising Truth About When, Where, and Why It Happens](https://www.amazon.com/How-We-Learn-Surprising-Happens-ebook/dp/B00IWTTNZE/)
 - [Data-Driven Marketing: How the best B2B marketers use data to grow faster](https://www.amazon.com/Data-Driven-Marketing-best-marketers-faster-ebook/dp/B07G44JY2F)
 - [What Customers Crave: How to Create Relevant and Memorable Experiences at Every Touchpoint](https://www.amazon.com/gp/product/B01GW9XH7K/)
+- [An Audience of One: Reclaiming Creativity for Its Own Sake](https://www.amazon.com/gp/product/B078GFLJDK/)
