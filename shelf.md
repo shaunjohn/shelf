@@ -844,3 +844,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Data-Driven Marketing: How the best B2B marketers use data to grow faster](https://www.amazon.com/Data-Driven-Marketing-best-marketers-faster-ebook/dp/B07G44JY2F)
 - [What Customers Crave: How to Create Relevant and Memorable Experiences at Every Touchpoint](https://www.amazon.com/gp/product/B01GW9XH7K/)
 - [An Audience of One: Reclaiming Creativity for Its Own Sake](https://www.amazon.com/gp/product/B078GFLJDK/)
+- [Ecommerce Evolved: The Essential Playbook To Build, Grow & Scale A Successful Ecommerce Business](https://www.amazon.com/Ecommerce-Evolved-Essential-Playbook-Successful-ebook/dp/B0711FK99L/)
