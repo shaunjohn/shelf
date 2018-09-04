@@ -846,3 +846,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [An Audience of One: Reclaiming Creativity for Its Own Sake](https://www.amazon.com/gp/product/B078GFLJDK/)
 - [Ecommerce Evolved: The Essential Playbook To Build, Grow & Scale A Successful Ecommerce Business](https://www.amazon.com/Ecommerce-Evolved-Essential-Playbook-Successful-ebook/dp/B0711FK99L/)
 - [Execution: The Discipline of Getting Things Done](https://www.amazon.com/Execution-Discipline-Getting-Things-Done-ebook/dp/B000Q9IR0A/)
+- [Altered States of Consciousness: Experiences Out of Time and Self](https://www.amazon.com/Altered-States-Consciousness-Experiences-Press/dp/0262038315/)
