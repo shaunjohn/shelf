@@ -848,3 +848,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Execution: The Discipline of Getting Things Done](https://www.amazon.com/Execution-Discipline-Getting-Things-Done-ebook/dp/B000Q9IR0A/)
 - [Altered States of Consciousness: Experiences Out of Time and Self](https://www.amazon.com/Altered-States-Consciousness-Experiences-Press/dp/0262038315/)
 - [The Shallows: What the Internet Is Doing to Our Brains](https://www.amazon.com/gp/product/0393339750/)
+- [Doing Capitalism in the Innovation Economy: Reconfiguring the Three-Player Game between Markets, Speculators and the State](https://www.amazon.com/Doing-Capitalism-Innovation-Economy-Reconfiguring/dp/1108471277/)
