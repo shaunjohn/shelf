@@ -850,3 +850,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Shallows: What the Internet Is Doing to Our Brains](https://www.amazon.com/gp/product/0393339750/)
 - [Doing Capitalism in the Innovation Economy: Reconfiguring the Three-Player Game between Markets, Speculators and the State](https://www.amazon.com/Doing-Capitalism-Innovation-Economy-Reconfiguring/dp/1108471277/)
 - [Cybersecurity – Attack and Defense Strategies: Infrastructure security with Red Team and Blue Team tactics](https://www.amazon.com/Cybersecurity-Defense-Strategies-Infrastructure-security-ebook/dp/B0751FTY5B/)
+- [The Success of Open Source](https://www.amazon.com/Success-Open-Source-Steve-WEBER-ebook/dp/B002OSXS0U/)
