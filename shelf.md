@@ -853,3 +853,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Success of Open Source](https://www.amazon.com/Success-Open-Source-Steve-WEBER-ebook/dp/B002OSXS0U/)
 - [Game Theory:A Nontechnical Introduction to the Analysis of Strategy](https://www.amazon.com/Game-Theory-Nontechnical-Introduction-Analysis-ebook/dp/B00KKYF1QY/)
 - [Wisdom of Crowds](https://www.amazon.com/gp/product/B000FCKC3I/)
+- [Co-Opetition](https://www.amazon.com/gp/product/B004JHYREU/)
