@@ -854,3 +854,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Game Theory:A Nontechnical Introduction to the Analysis of Strategy](https://www.amazon.com/Game-Theory-Nontechnical-Introduction-Analysis-ebook/dp/B00KKYF1QY/)
 - [Wisdom of Crowds](https://www.amazon.com/gp/product/B000FCKC3I/)
 - [Co-Opetition](https://www.amazon.com/gp/product/B004JHYREU/)
+- [Gladiators, Pirates and Games of Trust: How Game Theory, Strategy and Probability Rule Our Lives](https://www.amazon.com/gp/product/B01LYY28Z1/)
