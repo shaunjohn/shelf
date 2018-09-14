@@ -855,3 +855,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Wisdom of Crowds](https://www.amazon.com/gp/product/B000FCKC3I/)
 - [Co-Opetition](https://www.amazon.com/gp/product/B004JHYREU/)
 - [Gladiators, Pirates and Games of Trust: How Game Theory, Strategy and Probability Rule Our Lives](https://www.amazon.com/gp/product/B01LYY28Z1/)
+- [Being Logical: A Guide to Good Thinking](https://www.amazon.com/gp/product/B000FC1TGW/)
