@@ -858,3 +858,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Being Logical: A Guide to Good Thinking](https://www.amazon.com/gp/product/B000FC1TGW/)
 - [The Quantum Rules: How the Laws of Physics Explain Love, Success, and Everyday Life](https://www.amazon.com/gp/product/B06XQ64MW5/)
 - [Time Travel in Einstein's Universe: The Physical Possibilities of Travel Through Time](https://www.amazon.com/Time-Travel-Einsteins-Universe-Possibilities-ebook/dp/B0140EIGEI/)
+- [Stealing Your Life: The Ultimate Identity Theft Prevention Plan](https://www.amazon.com/Stealing-Your-Life-Ultimate-Prevention-ebook/dp/B000PDZF4S/)
