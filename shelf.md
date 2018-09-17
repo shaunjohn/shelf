@@ -859,3 +859,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Quantum Rules: How the Laws of Physics Explain Love, Success, and Everyday Life](https://www.amazon.com/gp/product/B06XQ64MW5/)
 - [Time Travel in Einstein's Universe: The Physical Possibilities of Travel Through Time](https://www.amazon.com/Time-Travel-Einsteins-Universe-Possibilities-ebook/dp/B0140EIGEI/)
 - [Stealing Your Life: The Ultimate Identity Theft Prevention Plan](https://www.amazon.com/Stealing-Your-Life-Ultimate-Prevention-ebook/dp/B000PDZF4S/)
+- [Blood Work: A Tale of Medicine and Murder in the Scientific Revolution](https://www.amazon.com/gp/product/B004H4X84U/)
