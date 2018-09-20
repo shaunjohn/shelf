@@ -861,3 +861,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Stealing Your Life: The Ultimate Identity Theft Prevention Plan](https://www.amazon.com/Stealing-Your-Life-Ultimate-Prevention-ebook/dp/B000PDZF4S/)
 - [Blood Work: A Tale of Medicine and Murder in the Scientific Revolution](https://www.amazon.com/gp/product/B004H4X84U/)
 - [Brand Thinking and Other Noble Pursuits](https://www.amazon.com/Brand-Thinking-Other-Noble-Pursuits-ebook/dp/B00CKX5CP8/)
+- [Interviewing Users: How to Uncover Compelling Insights](https://www.amazon.com/gp/product/B00CEKR872/)
