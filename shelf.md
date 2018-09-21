@@ -862,3 +862,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Blood Work: A Tale of Medicine and Murder in the Scientific Revolution](https://www.amazon.com/gp/product/B004H4X84U/)
 - [Brand Thinking and Other Noble Pursuits](https://www.amazon.com/Brand-Thinking-Other-Noble-Pursuits-ebook/dp/B00CKX5CP8/)
 - [Interviewing Users: How to Uncover Compelling Insights](https://www.amazon.com/gp/product/B00CEKR872/)
+- [Universal Methods of Design](https://www.amazon.com/gp/product/B007WRCRH8/)
