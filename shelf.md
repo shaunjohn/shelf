@@ -864,3 +864,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Interviewing Users: How to Uncover Compelling Insights](https://www.amazon.com/gp/product/B00CEKR872/)
 - [Universal Methods of Design](https://www.amazon.com/gp/product/B007WRCRH8/)
 - [Joyful: The Surprising Power of Ordinary Things to Create Extraordinary Happiness](https://www.amazon.com/dp/B078W6CH7Y/)
+- [Fluent Forever: How to Learn Any Language Fast and Never Forget It](https://www.amazon.com/Fluent-Forever-Learn-Language-Forget-ebook/dp/B00IBZ405W/)
