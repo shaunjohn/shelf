@@ -867,3 +867,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Fluent Forever: How to Learn Any Language Fast and Never Forget It](https://www.amazon.com/Fluent-Forever-Learn-Language-Forget-ebook/dp/B00IBZ405W/)
 - [The Shallows: What the Internet Is Doing to Our Brains](https://www.amazon.com/Shallows-What-Internet-Doing-Brains/dp/0393339750/)
 - [Everybody Writes: Your Go-To Guide to Creating Ridiculously Good Content](https://www.amazon.com/gp/product/B00LMB5P0G/)
+- [Selling From The Heart: How Your Authentic Self Sells You!](https://www.amazon.com/gp/product/B07H7XSJPY/)
