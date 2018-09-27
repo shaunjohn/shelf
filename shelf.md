@@ -868,3 +868,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Shallows: What the Internet Is Doing to Our Brains](https://www.amazon.com/Shallows-What-Internet-Doing-Brains/dp/0393339750/)
 - [Everybody Writes: Your Go-To Guide to Creating Ridiculously Good Content](https://www.amazon.com/gp/product/B00LMB5P0G/)
 - [Selling From The Heart: How Your Authentic Self Sells You!](https://www.amazon.com/gp/product/B07H7XSJPY/)
+- [How to Remove a Brain: and other bizarre medical practices and procedures](https://www.amazon.com/How-Remove-Brain-practices-procedures-ebook/dp/B073HLJ347/)
