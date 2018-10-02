@@ -872,3 +872,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Tokenomics: Introducing ICOs, coins and tokens](https://www.amazon.com/Tokenomics-Introducing-ICOs-coins-tokens-ebook/dp/B07CSP51B9/)
 - [Debugging Teams: Better Productivity through Collaboration](https://www.amazon.com/gp/product/B016NDL1QE/)
 - [Managing the Unmanageable: Rules, Tools, and Insights for Managing Software People and Teams](https://www.amazon.com/gp/product/B009CFV8BY/)
+- [Disciplined Entrepreneurship: 24 Steps to a Successful Startup](https://www.amazon.com/Disciplined-Entrepreneurship-Steps-Successful-Startup/dp/1118692284/)
