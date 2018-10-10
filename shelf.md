@@ -875,3 +875,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Disciplined Entrepreneurship: 24 Steps to a Successful Startup](https://www.amazon.com/Disciplined-Entrepreneurship-Steps-Successful-Startup/dp/1118692284/)
 - [The Oxygen Advantage: The simple, scientifically proven breathing technique that will revolutionise your health and fitness](https://www.amazon.com/Oxygen-Advantage-scientifically-breathing-revolutionise/dp/0349406693/)
 - [Belong: Find Your People, Create Community, and Live a More Connected Life](https://www.amazon.com/gp/product/B075G4W7MV/)
+- [Frenemies: The Epic Disruption of the Ad Business (and Everything Else)](https://www.amazon.com/Frenemies-Epic-Disruption-Business-Everything-ebook/dp/B076NXRXKP/)
