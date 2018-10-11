@@ -876,3 +876,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Oxygen Advantage: The simple, scientifically proven breathing technique that will revolutionise your health and fitness](https://www.amazon.com/Oxygen-Advantage-scientifically-breathing-revolutionise/dp/0349406693/)
 - [Belong: Find Your People, Create Community, and Live a More Connected Life](https://www.amazon.com/gp/product/B075G4W7MV/)
 - [Frenemies: The Epic Disruption of the Ad Business (and Everything Else)](https://www.amazon.com/Frenemies-Epic-Disruption-Business-Everything-ebook/dp/B076NXRXKP/)
+- [It Doesn't Have to Be Crazy at Work](https://www.amazon.com/Doesnt-Have-Be-Crazy-Work-ebook/dp/B079WV79TK/)
