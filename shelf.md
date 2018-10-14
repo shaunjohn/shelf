@@ -878,3 +878,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Frenemies: The Epic Disruption of the Ad Business (and Everything Else)](https://www.amazon.com/Frenemies-Epic-Disruption-Business-Everything-ebook/dp/B076NXRXKP/)
 - [It Doesn't Have to Be Crazy at Work](https://www.amazon.com/Doesnt-Have-Be-Crazy-Work-ebook/dp/B079WV79TK/)
 - [Database Design for Mere Mortals: A Hands-On Guide to Relational Database Design](https://www.amazon.com/Database-Design-Mere-Mortals-Hands/dp/0321884493/)
+- [Company of One: Why Staying Small Is the Next Big Thing for Business](https://www.amazon.com/Company-One-Staying-Small-Business-ebook/dp/B078962RHQ/)
