@@ -879,3 +879,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [It Doesn't Have to Be Crazy at Work](https://www.amazon.com/Doesnt-Have-Be-Crazy-Work-ebook/dp/B079WV79TK/)
 - [Database Design for Mere Mortals: A Hands-On Guide to Relational Database Design](https://www.amazon.com/Database-Design-Mere-Mortals-Hands/dp/0321884493/)
 - [Company of One: Why Staying Small Is the Next Big Thing for Business](https://www.amazon.com/Company-One-Staying-Small-Business-ebook/dp/B078962RHQ/)
+- [Story Driven: You don't need to compete when you know who you are](https://www.amazon.com/Story-Driven-dont-need-compete-ebook/dp/B07B4NBDSG/)
