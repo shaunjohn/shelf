@@ -881,4 +881,5 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Company of One: Why Staying Small Is the Next Big Thing for Business](https://www.amazon.com/Company-One-Staying-Small-Business-ebook/dp/B078962RHQ/)
 - [Story Driven: You don't need to compete when you know who you are](https://www.amazon.com/Story-Driven-dont-need-compete-ebook/dp/B07B4NBDSG/)
 - [Cadence: A Tale of Fast Business Growth](https://www.amazon.com/gp/product/B07GF4PW3Y/)
+- [Leveraged Learning: How the Disruption of Education Helps Lifelong Learners, and Experts with Something to Teach](https://www.amazon.com/gp/product/B07HDC9M7S/)
 
