@@ -882,4 +882,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Story Driven: You don't need to compete when you know who you are](https://www.amazon.com/Story-Driven-dont-need-compete-ebook/dp/B07B4NBDSG/)
 - [Cadence: A Tale of Fast Business Growth](https://www.amazon.com/gp/product/B07GF4PW3Y/)
 - [Leveraged Learning: How the Disruption of Education Helps Lifelong Learners, and Experts with Something to Teach](https://www.amazon.com/gp/product/B07HDC9M7S/)
-
+- [Understanding Our Unseen Reality: Solving Quantum Riddles](https://www.amazon.com/Understanding-Our-Unseen-Reality-Solving/dp/1783266465/)
