@@ -884,3 +884,5 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Leveraged Learning: How the Disruption of Education Helps Lifelong Learners, and Experts with Something to Teach](https://www.amazon.com/gp/product/B07HDC9M7S/)
 - [Understanding Our Unseen Reality: Solving Quantum Riddles](https://www.amazon.com/Understanding-Our-Unseen-Reality-Solving/dp/1783266465/)
 - [Wisdom at Work: The Making of a Modern Elder](https://www.amazon.com/Wisdom-Work-Making-Modern-Elder-ebook/dp/B078LS21ZX/)
+- [Dare to Lead: Brave Work. Tough Conversations. Whole Hearts.](https://www.amazon.com/gp/product/B07CWGFPS7)
+
