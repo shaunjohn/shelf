@@ -887,3 +887,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Dare to Lead: Brave Work. Tough Conversations. Whole Hearts.](https://www.amazon.com/gp/product/B07CWGFPS7)
 - [Rocket Fuel: The One Essential Combination That Will Get You More of What You Want from Your Business](https://www.amazon.com/gp/product/B00U27BMSK)
 - [Ad Serving Technology: Understand the marketing revelation that commercialized the Internet](https://www.amazon.com/Serving-Technology-Understand-revelation-commercialized-ebook/dp/B00W1TDH26/)
+- [The Genius Box: How the “Idiot Box” Got Smart – And Is Changing the Television Business](https://www.amazon.com/Genius-Box-Changing-Television-Business-ebook/dp/B07HB7376P/)
