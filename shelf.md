@@ -889,3 +889,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Ad Serving Technology: Understand the marketing revelation that commercialized the Internet](https://www.amazon.com/Serving-Technology-Understand-revelation-commercialized-ebook/dp/B00W1TDH26/)
 - [The Genius Box: How the “Idiot Box” Got Smart – And Is Changing the Television Business](https://www.amazon.com/Genius-Box-Changing-Television-Business-ebook/dp/B07HB7376P/)
 - [The Dichotomy of Leadership: Balancing the Challenges of Extreme Ownership to Lead and Win](https://www.amazon.com/gp/product/B079Y51FC3)
+- [Leading Transformation: How to Take Charge of Your Company's Future](https://www.amazon.com/gp/product/B07CT3TTWC/)
