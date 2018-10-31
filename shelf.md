@@ -890,3 +890,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Genius Box: How the “Idiot Box” Got Smart – And Is Changing the Television Business](https://www.amazon.com/Genius-Box-Changing-Television-Business-ebook/dp/B07HB7376P/)
 - [The Dichotomy of Leadership: Balancing the Challenges of Extreme Ownership to Lead and Win](https://www.amazon.com/gp/product/B079Y51FC3)
 - [Leading Transformation: How to Take Charge of Your Company's Future](https://www.amazon.com/gp/product/B07CT3TTWC/)
+- [Minority Leader: How to Lead from the Outside and Make Real Change](https://www.amazon.com/Minority-Leader-Lead-Outside-Change-ebook/dp/B0763SXC4V/)
