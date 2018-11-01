@@ -891,3 +891,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Dichotomy of Leadership: Balancing the Challenges of Extreme Ownership to Lead and Win](https://www.amazon.com/gp/product/B079Y51FC3)
 - [Leading Transformation: How to Take Charge of Your Company's Future](https://www.amazon.com/gp/product/B07CT3TTWC/)
 - [Minority Leader: How to Lead from the Outside and Make Real Change](https://www.amazon.com/Minority-Leader-Lead-Outside-Change-ebook/dp/B0763SXC4V/)
+- [The Richest Man in Babylon](https://www.amazon.com/gp/product/B07BB5N17S)
