@@ -893,3 +893,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Minority Leader: How to Lead from the Outside and Make Real Change](https://www.amazon.com/Minority-Leader-Lead-Outside-Change-ebook/dp/B0763SXC4V/)
 - [The Richest Man in Babylon](https://www.amazon.com/gp/product/B07BB5N17S)
 - [Minimalist Living: Decluttering for Joy, Health, and Creativity](https://www.amazon.com/Minimalist-Living-Decluttering-Health-Creativity-ebook/dp/B00H9J8C64)
+- [Buy Then Build: How Acquisition Entrepreneurs Outsmart the Startup Game](https://www.amazon.com/gp/product/B07JKM2F5Q)
