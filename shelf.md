@@ -895,3 +895,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Minimalist Living: Decluttering for Joy, Health, and Creativity](https://www.amazon.com/Minimalist-Living-Decluttering-Health-Creativity-ebook/dp/B00H9J8C64)
 - [Buy Then Build: How Acquisition Entrepreneurs Outsmart the Startup Game](https://www.amazon.com/gp/product/B07JKM2F5Q)
 - [Scaling Teams: Strategies for Building Successful Teams and Organizations](https://www.amazon.com/gp/product/B01N7RBP4P)
+- [Do the Work](https://www.amazon.com/gp/product/B00NK0MJBK)
