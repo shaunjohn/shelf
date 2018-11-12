@@ -897,3 +897,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Scaling Teams: Strategies for Building Successful Teams and Organizations](https://www.amazon.com/gp/product/B01N7RBP4P)
 - [Do the Work](https://www.amazon.com/gp/product/B00NK0MJBK)
 - [I Am Dynamite!: A Life of Nietzsche](https://www.amazon.com/gp/product/B078G36Q5B)
+- [The Power of Why: Breaking Out In a Competitive Marketplace](https://www.amazon.com/gp/product/B00AQMH0FU)
