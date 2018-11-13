@@ -898,3 +898,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Do the Work](https://www.amazon.com/gp/product/B00NK0MJBK)
 - [I Am Dynamite!: A Life of Nietzsche](https://www.amazon.com/gp/product/B078G36Q5B)
 - [The Power of Why: Breaking Out In a Competitive Marketplace](https://www.amazon.com/gp/product/B00AQMH0FU)
+- [The Ideal Team Player: How to Recognize and Cultivate The Three Essential Virtues](https://www.amazon.com/gp/product/B01B6AEJJ0)
