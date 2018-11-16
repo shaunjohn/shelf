@@ -901,3 +901,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Ideal Team Player: How to Recognize and Cultivate The Three Essential Virtues](https://www.amazon.com/gp/product/B01B6AEJJ0)
 - [Team Genius: The New Science of High-Performing Organizations](https://www.amazon.com/gp/product/B00OG8AXKO)
 - [The Peter Principle: Why Things Always Go Wrong](https://www.amazon.com/Peter-Principle-Things-Always-Wrong-ebook/dp/B00IRCZHXI/)
+- [Profit First: Transform Your Business from a Cash-Eating Monster to a Money-Making Machine](https://www.amazon.com/gp/product/B01HCGYTH4)
