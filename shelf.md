@@ -904,3 +904,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Profit First: Transform Your Business from a Cash-Eating Monster to a Money-Making Machine](https://www.amazon.com/gp/product/B01HCGYTH4)
 - [The Leadership Campaign](https://www.amazon.com/gp/product/B01A3TGV46)
 - [Big Potential: How Transforming the Pursuit of Success Raises Our Achievement, Happiness, and Well-Being](https://www.amazon.com/gp/product/B072SSCPKX)
+- [TED Talks: The Official TED Guide to Public Speaking](https://www.amazon.com/gp/product/B011H55RTA)
