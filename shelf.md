@@ -905,3 +905,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Leadership Campaign](https://www.amazon.com/gp/product/B01A3TGV46)
 - [Big Potential: How Transforming the Pursuit of Success Raises Our Achievement, Happiness, and Well-Being](https://www.amazon.com/gp/product/B072SSCPKX)
 - [TED Talks: The Official TED Guide to Public Speaking](https://www.amazon.com/gp/product/B011H55RTA)
+- [Peak: Secrets from the New Science of Expertise](https://www.amazon.com/gp/product/B011H56MKS)
