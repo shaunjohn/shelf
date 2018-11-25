@@ -907,3 +907,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [TED Talks: The Official TED Guide to Public Speaking](https://www.amazon.com/gp/product/B011H55RTA)
 - [Peak: Secrets from the New Science of Expertise](https://www.amazon.com/gp/product/B011H56MKS)
 - [Outside In: The Power of Putting Customers at the Center of Your Business](https://www.amazon.com/gp/product/B008CRWKRY)
+- [The Power of the Other: The startling effect other people have on you, from the boardroom to the bedroom and beyond-and what to do about it](https://www.amazon.com/gp/product/B013PI79XE)
