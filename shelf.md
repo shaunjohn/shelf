@@ -908,3 +908,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Peak: Secrets from the New Science of Expertise](https://www.amazon.com/gp/product/B011H56MKS)
 - [Outside In: The Power of Putting Customers at the Center of Your Business](https://www.amazon.com/gp/product/B008CRWKRY)
 - [The Power of the Other: The startling effect other people have on you, from the boardroom to the bedroom and beyond-and what to do about it](https://www.amazon.com/gp/product/B013PI79XE)
+- [Paid Attention: Innovative Advertising for a Digital World](https://www.amazon.com/Paid-Attention-Innovative-Advertising-Digital-ebook/dp/B00SZ013WG/)
