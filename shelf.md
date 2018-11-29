@@ -910,3 +910,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Power of the Other: The startling effect other people have on you, from the boardroom to the bedroom and beyond-and what to do about it](https://www.amazon.com/gp/product/B013PI79XE)
 - [Paid Attention: Innovative Advertising for a Digital World](https://www.amazon.com/Paid-Attention-Innovative-Advertising-Digital-ebook/dp/B00SZ013WG/)
 - [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth-ebook/dp/B06XP3GJ7F/)
+- [Peopleware: Productive Projects and Teams](https://www.amazon.com/gp/product/B00DY5A8X2)
