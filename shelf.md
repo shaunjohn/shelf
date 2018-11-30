@@ -911,3 +911,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Paid Attention: Innovative Advertising for a Digital World](https://www.amazon.com/Paid-Attention-Innovative-Advertising-Digital-ebook/dp/B00SZ013WG/)
 - [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth-ebook/dp/B06XP3GJ7F/)
 - [Peopleware: Productive Projects and Teams](https://www.amazon.com/gp/product/B00DY5A8X2)
+- [Option B: Facing Adversity, Building Resilience, and Finding Joy](https://www.amazon.com/gp/product/B01N8R5QD7/)
