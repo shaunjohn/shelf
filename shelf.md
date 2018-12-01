@@ -912,3 +912,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth-ebook/dp/B06XP3GJ7F/)
 - [Peopleware: Productive Projects and Teams](https://www.amazon.com/gp/product/B00DY5A8X2)
 - [Option B: Facing Adversity, Building Resilience, and Finding Joy](https://www.amazon.com/gp/product/B01N8R5QD7/)
+- [QBQ! The Question Behind the Question: Practicing Personal Accountability at Work and in Life](https://www.amazon.com/QBQ-Question-Behind-Practicing-Accountability-ebook/dp/B000OIZUQW/)
