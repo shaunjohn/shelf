@@ -914,3 +914,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Option B: Facing Adversity, Building Resilience, and Finding Joy](https://www.amazon.com/gp/product/B01N8R5QD7/)
 - [QBQ! The Question Behind the Question: Practicing Personal Accountability at Work and in Life](https://www.amazon.com/QBQ-Question-Behind-Practicing-Accountability-ebook/dp/B000OIZUQW/)
 - [Developer Hegemony: The Future of Labor](https://www.amazon.com/gp/product/B0722H41SG)
+- [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations-ebook/dp/B01M9ASFQ3/)
