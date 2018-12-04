@@ -915,3 +915,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [QBQ! The Question Behind the Question: Practicing Personal Accountability at Work and in Life](https://www.amazon.com/QBQ-Question-Behind-Practicing-Accountability-ebook/dp/B000OIZUQW/)
 - [Developer Hegemony: The Future of Labor](https://www.amazon.com/gp/product/B0722H41SG)
 - [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations-ebook/dp/B01M9ASFQ3/)
+- [The Politics of Innovation: Why Some Countries Are Better Than Others at Science and Technology](https://www.amazon.com/Politics-Innovation-Countries-Science-Technology/dp/0190464135/)
