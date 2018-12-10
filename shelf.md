@@ -918,3 +918,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Politics of Innovation: Why Some Countries Are Better Than Others at Science and Technology](https://www.amazon.com/Politics-Innovation-Countries-Science-Technology/dp/0190464135/)
 - [The Future of Leadership: Rise of Automation, Robotics and Artificial Intelligence](https://www.amazon.com/Future-Leadership-Automation-Artificial-Intelligence/dp/9769609218)
 - [The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution](https://www.amazon.com/Innovators-Hackers-Geniuses-Created-Revolution/dp/1476708703)
+- [Can't Hurt Me: Master Your Mind and Defy the Odds](https://www.amazon.com/Cant-Hurt-Me-Master-Your-ebook/dp/B07H453KGH)
