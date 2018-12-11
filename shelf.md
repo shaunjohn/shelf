@@ -919,3 +919,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Future of Leadership: Rise of Automation, Robotics and Artificial Intelligence](https://www.amazon.com/Future-Leadership-Automation-Artificial-Intelligence/dp/9769609218)
 - [The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution](https://www.amazon.com/Innovators-Hackers-Geniuses-Created-Revolution/dp/1476708703)
 - [Can't Hurt Me: Master Your Mind and Defy the Odds](https://www.amazon.com/Cant-Hurt-Me-Master-Your-ebook/dp/B07H453KGH)
+- [Hipster Business Models: How to make a living in the modern world](https://www.amazon.com/Hipster-Business-Models-living-modern/dp/0692340726)
