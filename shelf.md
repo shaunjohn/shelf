@@ -923,3 +923,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Future of the Professions: How Technology Will Transform the Work of Human Experts](https://www.amazon.com/Future-Professions-Technology-Transform-Experts/dp/0198799071)
 - [Insight Out: Get Ideas Out of Your Head and Into the World](https://www.amazon.com/Insight-Out-Ideas-Your-World-ebook/dp/B00LSRQZVM)
 - [Blue Economy: 10 Years, 100 Innovations, 100 Million Jobs](https://www.amazon.com/Blue-Economy-10-Years-Innovations-Million/dp/0912111909/)
+- [The Happiness Advantage: How a Positive Brain Fuels Success in Work and Life](https://www.amazon.com/Happiness-Advantage-Positive-Brain-Success/dp/0307591557)
