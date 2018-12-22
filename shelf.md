@@ -926,3 +926,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Happiness Advantage: How a Positive Brain Fuels Success in Work and Life](https://www.amazon.com/Happiness-Advantage-Positive-Brain-Success/dp/0307591557)
 - [What Great Brands Do: The Seven Brand-Building Principles that Separate the Best from the Rest](https://www.amazon.com/What-Great-Brands-Brand-Building-Principles/dp/111861125X/)
 - [Fusion: How Integrating Brand and Culture Powers the World's Greatest Companies](https://www.amazon.com/Fusion-Integrating-Culture-Greatest-Companies/dp/1473676983)
+- [What Technology Wants](https://www.amazon.com/What-Technology-Wants-Kevin-Kelly/dp/0143120174)
