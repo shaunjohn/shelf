@@ -927,3 +927,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [What Great Brands Do: The Seven Brand-Building Principles that Separate the Best from the Rest](https://www.amazon.com/What-Great-Brands-Brand-Building-Principles/dp/111861125X/)
 - [Fusion: How Integrating Brand and Culture Powers the World's Greatest Companies](https://www.amazon.com/Fusion-Integrating-Culture-Greatest-Companies/dp/1473676983)
 - [What Technology Wants](https://www.amazon.com/What-Technology-Wants-Kevin-Kelly/dp/0143120174)
+- [Simply Brilliant: How Great Organizations Do Ordinary Things in Extraordinary Ways](https://www.amazon.com/Simply-Brilliant-Organizations-Ordinary-Extraordinary/dp/1591847753/)
