@@ -929,3 +929,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [What Technology Wants](https://www.amazon.com/What-Technology-Wants-Kevin-Kelly/dp/0143120174)
 - [Simply Brilliant: How Great Organizations Do Ordinary Things in Extraordinary Ways](https://www.amazon.com/Simply-Brilliant-Organizations-Ordinary-Extraordinary/dp/1591847753/)
 - [Family Wealth: Keeping It in the Family--How Family Members and Their Advisers Preserve Human, Intellectual, and Financial Assets for Generations](https://www.amazon.com/Family-Wealth-Family-How-Intellectual-Generations-ebook/dp/B003O86FB8/)
+- [Other People's Money: The Real Business of Finance](https://www.amazon.com/Other-Peoples-Money-Business-Finance/dp/1610397150)
