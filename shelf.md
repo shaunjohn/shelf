@@ -931,3 +931,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Family Wealth: Keeping It in the Family--How Family Members and Their Advisers Preserve Human, Intellectual, and Financial Assets for Generations](https://www.amazon.com/Family-Wealth-Family-How-Intellectual-Generations-ebook/dp/B003O86FB8/)
 - [Other People's Money: The Real Business of Finance](https://www.amazon.com/Other-Peoples-Money-Business-Finance/dp/1610397150)
 - [From the Garden to the City: The Redeeming and Corrupting Power of Technology](https://www.amazon.com/Garden-City-Redeeming-Corrupting-Technology/dp/0825426685/)
+- [Corporate Innovation in the Fifth Era: Lessons from Alphabet/Google, Amazon, Apple, Facebook, and Microsoft](https://www.amazon.com/Corporate-Innovation-Fifth-Era-Microsoft/dp/0986161373/)
