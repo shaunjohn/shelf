@@ -932,3 +932,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Other People's Money: The Real Business of Finance](https://www.amazon.com/Other-Peoples-Money-Business-Finance/dp/1610397150)
 - [From the Garden to the City: The Redeeming and Corrupting Power of Technology](https://www.amazon.com/Garden-City-Redeeming-Corrupting-Technology/dp/0825426685/)
 - [Corporate Innovation in the Fifth Era: Lessons from Alphabet/Google, Amazon, Apple, Facebook, and Microsoft](https://www.amazon.com/Corporate-Innovation-Fifth-Era-Microsoft/dp/0986161373/)
+- [Augmented: Life in the Smart Lane](https://www.amazon.com/Augmented-Life-Smart-Brett-King/dp/9814634034)
