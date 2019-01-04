@@ -933,3 +933,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [From the Garden to the City: The Redeeming and Corrupting Power of Technology](https://www.amazon.com/Garden-City-Redeeming-Corrupting-Technology/dp/0825426685/)
 - [Corporate Innovation in the Fifth Era: Lessons from Alphabet/Google, Amazon, Apple, Facebook, and Microsoft](https://www.amazon.com/Corporate-Innovation-Fifth-Era-Microsoft/dp/0986161373/)
 - [Augmented: Life in the Smart Lane](https://www.amazon.com/Augmented-Life-Smart-Brett-King/dp/9814634034)
+- [Outstanding!: 47 Ways to Make Your Organization Exceptional](https://www.amazon.com/Outstanding-Ways-Make-Organization-Exceptional/dp/0143129929)
