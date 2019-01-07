@@ -934,3 +934,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Corporate Innovation in the Fifth Era: Lessons from Alphabet/Google, Amazon, Apple, Facebook, and Microsoft](https://www.amazon.com/Corporate-Innovation-Fifth-Era-Microsoft/dp/0986161373/)
 - [Augmented: Life in the Smart Lane](https://www.amazon.com/Augmented-Life-Smart-Brett-King/dp/9814634034)
 - [Outstanding!: 47 Ways to Make Your Organization Exceptional](https://www.amazon.com/Outstanding-Ways-Make-Organization-Exceptional/dp/0143129929)
+- [Extreme Ownership: How U.S. Navy SEALs Lead and Win](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs/dp/1250183863/)
