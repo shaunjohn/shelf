@@ -936,3 +936,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Outstanding!: 47 Ways to Make Your Organization Exceptional](https://www.amazon.com/Outstanding-Ways-Make-Organization-Exceptional/dp/0143129929)
 - [Extreme Ownership: How U.S. Navy SEALs Lead and Win](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs/dp/1250183863/)
 - [The Science of Selling: Proven Strategies to Make Your Pitch, Influence Decisions, and Close the Deal](https://www.amazon.com/Science-Selling-Strategies-Influence-Decisions-ebook/dp/B01CDVCBIC/)
+- [Serverless Design Patterns and Best Practices: Build, secure, and deploy enterprise ready serverless applications with AWS to improve developer productivity](https://www.amazon.com/Serverless-Design-Patterns-Best-Practices-ebook/dp/B0773M31S5/)
