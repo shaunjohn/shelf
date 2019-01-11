@@ -938,3 +938,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Science of Selling: Proven Strategies to Make Your Pitch, Influence Decisions, and Close the Deal](https://www.amazon.com/Science-Selling-Strategies-Influence-Decisions-ebook/dp/B01CDVCBIC/)
 - [Serverless Design Patterns and Best Practices: Build, secure, and deploy enterprise ready serverless applications with AWS to improve developer productivity](https://www.amazon.com/Serverless-Design-Patterns-Best-Practices-ebook/dp/B0773M31S5/)
 - [What Are Your Blind Spots? Conquering the 5 Misconceptions that Hold Leaders Back](https://www.amazon.com/Blind-Spots-Conquering-Misconceptions-Leaders/dp/1260129233)
+- [Bad Blood: Secrets and Lies in a Silicon Valley Startup](https://www.amazon.com/Bad-Blood-Secrets-Silicon-Startup-ebook/dp/B078VW3VM7/)
