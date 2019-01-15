@@ -940,3 +940,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [What Are Your Blind Spots? Conquering the 5 Misconceptions that Hold Leaders Back](https://www.amazon.com/Blind-Spots-Conquering-Misconceptions-Leaders/dp/1260129233)
 - [Bad Blood: Secrets and Lies in a Silicon Valley Startup](https://www.amazon.com/Bad-Blood-Secrets-Silicon-Startup-ebook/dp/B078VW3VM7/)
 - [Space Mission Analysis and Design](https://www.amazon.com/Mission-Analysis-Design-Technology-Library/dp/1881883108/)
+- [The Power of Presence: Unlock Your Potential to Influence and Engage Others](https://www.amazon.com/Power-Presence-Unlock-Potential-Influence-ebook/dp/B01HUER16Y/)
