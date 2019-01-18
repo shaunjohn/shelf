@@ -943,3 +943,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Power of Presence: Unlock Your Potential to Influence and Engage Others](https://www.amazon.com/Power-Presence-Unlock-Potential-Influence-ebook/dp/B01HUER16Y/)
 - [The Velocity Advantage](https://www.amazon.com/Velocity-Advantage-Jack-Bergstrand-ebook/dp/B01MQOCCQC)
 - [inGenius: A Crash Course on Creativity](https://www.amazon.com/inGenius-Course-Creativity-Tina-Seelig-ebook/dp/B006QB97NI/)
+- [The Execution Factor: The One Skill that Drives Success](https://www.amazon.com/Execution-Factor-Skill-Drives-Success/dp/1260128520/)
