@@ -944,3 +944,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Velocity Advantage](https://www.amazon.com/Velocity-Advantage-Jack-Bergstrand-ebook/dp/B01MQOCCQC)
 - [inGenius: A Crash Course on Creativity](https://www.amazon.com/inGenius-Course-Creativity-Tina-Seelig-ebook/dp/B006QB97NI/)
 - [The Execution Factor: The One Skill that Drives Success](https://www.amazon.com/Execution-Factor-Skill-Drives-Success/dp/1260128520/)
+- [Cockfighting: Solving the Mystery of Unconscious Sabotage at the Top of the Corporate Pyramid](https://www.amazon.com/dp/B07KML2KJF/)
