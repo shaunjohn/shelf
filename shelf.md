@@ -948,3 +948,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Leading the Unleadable: How to Manage Mavericks, Cynics, Divas, and Other Difficult People](https://www.amazon.com/Leading-Unleadable-Manage-Mavericks-Difficult-ebook/dp/B01HJ35YQA/)
 - [Eco-Autonomous Organizations: Decentralized, Distributed and Autonomous Organizations; An Operational Viewpoint of Complex Adaptive Systems](https://www.amazon.com/Eco-Autonomous-Organizations-Decentralized-Distributed-Operational-ebook/dp/B07F8G7KV4/)
 - [Bank 4.0: Banking Everywhere, Never at a Bank](https://www.amazon.com/Bank-4-0-Banking-Everywhere-Never/dp/1119506506/)
+- [Rebel Talent: Why It Pays to Break the Rules at Work and in Life](https://www.amazon.com/Rebel-Talent-Pays-Break-Rules-ebook/dp/B071HD8589)
