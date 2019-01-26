@@ -949,3 +949,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Eco-Autonomous Organizations: Decentralized, Distributed and Autonomous Organizations; An Operational Viewpoint of Complex Adaptive Systems](https://www.amazon.com/Eco-Autonomous-Organizations-Decentralized-Distributed-Operational-ebook/dp/B07F8G7KV4/)
 - [Bank 4.0: Banking Everywhere, Never at a Bank](https://www.amazon.com/Bank-4-0-Banking-Everywhere-Never/dp/1119506506/)
 - [Rebel Talent: Why It Pays to Break the Rules at Work and in Life](https://www.amazon.com/Rebel-Talent-Pays-Break-Rules-ebook/dp/B071HD8589)
+- [Soonish: Ten Emerging Technologies That'll Improve and/or Ruin Everything](https://www.amazon.com/Soonish-Emerging-Technologies-Improve-Everything/dp/0399563822/)
