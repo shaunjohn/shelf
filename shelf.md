@@ -950,3 +950,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Bank 4.0: Banking Everywhere, Never at a Bank](https://www.amazon.com/Bank-4-0-Banking-Everywhere-Never/dp/1119506506/)
 - [Rebel Talent: Why It Pays to Break the Rules at Work and in Life](https://www.amazon.com/Rebel-Talent-Pays-Break-Rules-ebook/dp/B071HD8589)
 - [Soonish: Ten Emerging Technologies That'll Improve and/or Ruin Everything](https://www.amazon.com/Soonish-Emerging-Technologies-Improve-Everything/dp/0399563822/)
+- [Robot-Proof: Higher Education in the Age of Artificial Intelligence](https://www.amazon.com/Robot-Proof-Higher-Education-Artificial-Intelligence/dp/0262535971)
