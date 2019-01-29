@@ -952,3 +952,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Soonish: Ten Emerging Technologies That'll Improve and/or Ruin Everything](https://www.amazon.com/Soonish-Emerging-Technologies-Improve-Everything/dp/0399563822/)
 - [Robot-Proof: Higher Education in the Age of Artificial Intelligence](https://www.amazon.com/Robot-Proof-Higher-Education-Artificial-Intelligence/dp/0262535971)
 - [The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power](https://www.amazon.com/Age-Surveillance-Capitalism-Future-Frontier/dp/1610395697/)
+- [Team Human](https://www.amazon.com/Team-Human-Douglas-Rushkoff/dp/039365169X/)
