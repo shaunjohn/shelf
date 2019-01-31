@@ -954,3 +954,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power](https://www.amazon.com/Age-Surveillance-Capitalism-Future-Frontier/dp/1610395697/)
 - [Team Human](https://www.amazon.com/Team-Human-Douglas-Rushkoff/dp/039365169X/)
 - [The Curse of Bigness: Antitrust in the New Gilded Age](https://www.amazon.com/Curse-Bigness-Antitrust-New-Gilded/dp/0999745468/)
+- [The Myth of Capitalism: Monopolies and the Death of Competition](https://www.amazon.com/Myth-Capitalism-Monopolies-Death-Competition/dp/1119548195/)
