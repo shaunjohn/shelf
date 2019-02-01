@@ -955,3 +955,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Team Human](https://www.amazon.com/Team-Human-Douglas-Rushkoff/dp/039365169X/)
 - [The Curse of Bigness: Antitrust in the New Gilded Age](https://www.amazon.com/Curse-Bigness-Antitrust-New-Gilded/dp/0999745468/)
 - [The Myth of Capitalism: Monopolies and the Death of Competition](https://www.amazon.com/Myth-Capitalism-Monopolies-Death-Competition/dp/1119548195/)
+- [FIRE: How Fast, Inexpensive, Restrained, and Elegant Methods Ignite Innovation](https://www.amazon.com/FIRE-Inexpensive-Restrained-Elegant-Innovation-ebook/dp/B00FJ3A6FC/)
