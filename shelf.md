@@ -958,3 +958,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [FIRE: How Fast, Inexpensive, Restrained, and Elegant Methods Ignite Innovation](https://www.amazon.com/FIRE-Inexpensive-Restrained-Elegant-Innovation-ebook/dp/B00FJ3A6FC/)
 - [Matchmakers: The New Economics of Multisided Platforms](https://www.amazon.com/Matchmakers-New-Economics-Multisided-Platforms/dp/1633691721/)
 - [Good Profit: How Creating Value for Others Built One of the World's Most Successful Companies](https://www.amazon.com/Good-Profit-Creating-Successful-Companies-ebook/dp/B00TWEMGE8/)
+- [Distributed Algorithms: An Intuitive Approach](https://www.amazon.com/Distributed-Algorithms-Intuitive-Approach-Press-ebook/dp/B00HAZZN7I/)
