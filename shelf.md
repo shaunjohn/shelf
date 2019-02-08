@@ -959,3 +959,5 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Matchmakers: The New Economics of Multisided Platforms](https://www.amazon.com/Matchmakers-New-Economics-Multisided-Platforms/dp/1633691721/)
 - [Good Profit: How Creating Value for Others Built One of the World's Most Successful Companies](https://www.amazon.com/Good-Profit-Creating-Successful-Companies-ebook/dp/B00TWEMGE8/)
 - [Distributed Algorithms: An Intuitive Approach](https://www.amazon.com/Distributed-Algorithms-Intuitive-Approach-Press-ebook/dp/B00HAZZN7I/)
+- [How to Fix the Future](https://www.amazon.com/How-Fix-Future-Andrew-Keen/dp/0802126642/)
+
