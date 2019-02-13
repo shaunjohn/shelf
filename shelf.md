@@ -961,3 +961,5 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Distributed Algorithms: An Intuitive Approach](https://www.amazon.com/Distributed-Algorithms-Intuitive-Approach-Press-ebook/dp/B00HAZZN7I/)
 - [How to Fix the Future](https://www.amazon.com/How-Fix-Future-Andrew-Keen/dp/0802126642/)
 - [Tissue Engineering](https://www.amazon.com/Tissue-Engineering-Clemens-Van-Blitterswijk/dp/0124201458/)
+- [Harvesting Intangible Assets: Uncover Hidden Revenue in Your Company's Intellectual Property](https://www.amazon.com/gp/product/0814434983/)
+
