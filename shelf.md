@@ -962,4 +962,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [How to Fix the Future](https://www.amazon.com/How-Fix-Future-Andrew-Keen/dp/0802126642/)
 - [Tissue Engineering](https://www.amazon.com/Tissue-Engineering-Clemens-Van-Blitterswijk/dp/0124201458/)
 - [Harvesting Intangible Assets: Uncover Hidden Revenue in Your Company's Intellectual Property](https://www.amazon.com/gp/product/0814434983/)
-
+- [Dear Chairman: Boardroom Battles and the Rise of Shareholder Activism](https://www.amazon.com/Dear-Chairman-Boardroom-Shareholder-Activism-ebook/dp/B00YMUODKM/)
