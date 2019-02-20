@@ -966,5 +966,7 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [A Gift of Fire: Social, Legal, and Ethical Issues for Computing Technology](https://www.amazon.com/Gift-Fire-Ethical-Computing-Technology/dp/0134615271/)
 - [The Network Imperative: How to Survive and Grow in the Age of Digital Business Models](https://www.amazon.com/Network-Imperative-Survive-Digital-Business/dp/1633692051/)
 - [Leading at a Higher Level: Blanchard on Leadership and Creating High Performing Organizations](https://www.amazon.com/Leading-Higher-Level-Leadership-Organizations/dp/0134857534/)
+- [Tribes: We Need You to Lead Us](https://www.amazon.com/Tribes-We-Need-You-Lead/dp/1591842336/)
+
 
 
