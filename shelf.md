@@ -967,6 +967,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Network Imperative: How to Survive and Grow in the Age of Digital Business Models](https://www.amazon.com/Network-Imperative-Survive-Digital-Business/dp/1633692051/)
 - [Leading at a Higher Level: Blanchard on Leadership and Creating High Performing Organizations](https://www.amazon.com/Leading-Higher-Level-Leadership-Organizations/dp/0134857534/)
 - [Tribes: We Need You to Lead Us](https://www.amazon.com/Tribes-We-Need-You-Lead/dp/1591842336/)
-
-
-
+- [The True Believer: Thoughts on the Nature of Mass Movements](https://www.amazon.com/True-Believer-Thoughts-Movements-Perennial/dp/0060505915/)
