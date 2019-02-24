@@ -969,3 +969,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Tribes: We Need You to Lead Us](https://www.amazon.com/Tribes-We-Need-You-Lead/dp/1591842336/)
 - [The True Believer: Thoughts on the Nature of Mass Movements](https://www.amazon.com/True-Believer-Thoughts-Movements-Perennial/dp/0060505915/)
 - [Digital to the Core: Remastering Leadership for Your Industry, Your Enterprise, and Yourself](https://www.amazon.com/Digital-Core-Remastering-Leadership-Enterprise-ebook/dp/B01LX5Q2KQ/)
+- [Talking to Strangers: What We Should Know about the People We Don't Know](https://www.amazon.com/Talking-Strangers-Should-about-People-ebook/dp/B07NDKVWZW/)
