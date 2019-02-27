@@ -972,3 +972,5 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Talking to Strangers: What We Should Know about the People We Don't Know](https://www.amazon.com/Talking-Strangers-Should-about-People-ebook/dp/B07NDKVWZW/)
 - [A Year with Peter Drucker: 52 Weeks of Coaching for Leadership Effectiveness](https://www.amazon.com/Year-Peter-Drucker-Leadership-Effectiveness-ebook/dp/B00HYMCIX4/)
 - [The Daemon, the Gnu, and the Penguin](https://www.amazon.com/Daemon-Gnu-Penguin-Peter-Salus-ebook/dp/B004ZH3OZW/)
+- [Keeping At It: The Quest for Sound Money and Good Government](https://www.amazon.com/Keeping-At-Quest-Sound-Government/dp/1541788311/)
+
