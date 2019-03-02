@@ -974,3 +974,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Daemon, the Gnu, and the Penguin](https://www.amazon.com/Daemon-Gnu-Penguin-Peter-Salus-ebook/dp/B004ZH3OZW/)
 - [Keeping At It: The Quest for Sound Money and Good Government](https://www.amazon.com/Keeping-At-Quest-Sound-Government/dp/1541788311/)
 - [The Undoing Project: A Friendship That Changed Our Minds](https://www.amazon.com/Undoing-Project-Friendship-Changed-Minds/dp/0393254593/)
+- [Big Weed: An Entrepreneur's High-Stakes Adventures in the Budding Legal Marijuana Business](https://www.amazon.com/Big-Weed-Entrepreneurs-High-Stakes-Adventures/dp/113728000X/)
