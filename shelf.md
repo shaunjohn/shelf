@@ -976,3 +976,5 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Undoing Project: A Friendship That Changed Our Minds](https://www.amazon.com/Undoing-Project-Friendship-Changed-Minds/dp/0393254593/)
 - [Big Weed: An Entrepreneur's High-Stakes Adventures in the Budding Legal Marijuana Business](https://www.amazon.com/Big-Weed-Entrepreneurs-High-Stakes-Adventures/dp/113728000X/)
 - [Networking with Millionaires...and Their Advisors](https://www.amazon.com/Networking-Millionaires-Their-Advisors/dp/B00005OSHZ/)
+- [The Woodpecker Method](https://www.amazon.com/Woodpecker-Method-Axel-Smith-Tikkanen/dp/1784830550)
+
