@@ -978,3 +978,5 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Networking with Millionaires...and Their Advisors](https://www.amazon.com/Networking-Millionaires-Their-Advisors/dp/B00005OSHZ/)
 - [The Woodpecker Method](https://www.amazon.com/Woodpecker-Method-Axel-Smith-Tikkanen/dp/1784830550)
 - [Curious: The Desire to Know and Why Your Future Depends On It](https://www.amazon.com/Curious-Desire-Know-Future-Depends/dp/0465097626/)
+- [Fast Forward Investing: How to Profit from AI, Driverless Vehicles, Gene Editing, Robotics, and Other Technologies Reshaping Our Lives](https://www.amazon.com/dp/B07HYCH8B5/)
+
