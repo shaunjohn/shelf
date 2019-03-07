@@ -979,4 +979,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Woodpecker Method](https://www.amazon.com/Woodpecker-Method-Axel-Smith-Tikkanen/dp/1784830550)
 - [Curious: The Desire to Know and Why Your Future Depends On It](https://www.amazon.com/Curious-Desire-Know-Future-Depends/dp/0465097626/)
 - [Fast Forward Investing: How to Profit from AI, Driverless Vehicles, Gene Editing, Robotics, and Other Technologies Reshaping Our Lives](https://www.amazon.com/dp/B07HYCH8B5/)
-
+- [Wired to Create: Unraveling the Mysteries of the Creative Mind](https://www.amazon.com/Wired-Create-Unraveling-Mysteries-Creative/dp/0399175660/)
