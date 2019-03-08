@@ -980,3 +980,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Curious: The Desire to Know and Why Your Future Depends On It](https://www.amazon.com/Curious-Desire-Know-Future-Depends/dp/0465097626/)
 - [Fast Forward Investing: How to Profit from AI, Driverless Vehicles, Gene Editing, Robotics, and Other Technologies Reshaping Our Lives](https://www.amazon.com/dp/B07HYCH8B5/)
 - [Wired to Create: Unraveling the Mysteries of the Creative Mind](https://www.amazon.com/Wired-Create-Unraveling-Mysteries-Creative/dp/0399175660/)
+- [The Prosperity Paradox: How Innovation Can Lift Nations Out of Poverty](https://www.amazon.com/Prosperity-Paradox-Innovation-Nations-Poverty-ebook/dp/B078QY9NC5/)
