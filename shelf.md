@@ -983,4 +983,6 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Prosperity Paradox: How Innovation Can Lift Nations Out of Poverty](https://www.amazon.com/Prosperity-Paradox-Innovation-Nations-Poverty-ebook/dp/B078QY9NC5/)
 - [The Supernova Advisor: Crossing the Invisible Bridge to Exceptional Client Service and Consistent Growth](https://www.amazon.com/gp/product/B008J0C3Y4/)
 - [Nan: A Six Sigma Mystery](https://www.amazon.com/Nan-Sigma-Mystery-Robert-Barry/dp/0873896122/)
+- [BALLS: It Takes Some to Get Some](https://www.amazon.com/BALLS-Takes-Some-Get-ebook/dp/B01LXPMYYM/)
+
 
