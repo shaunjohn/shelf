@@ -984,5 +984,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Supernova Advisor: Crossing the Invisible Bridge to Exceptional Client Service and Consistent Growth](https://www.amazon.com/gp/product/B008J0C3Y4/)
 - [Nan: A Six Sigma Mystery](https://www.amazon.com/Nan-Sigma-Mystery-Robert-Barry/dp/0873896122/)
 - [BALLS: It Takes Some to Get Some](https://www.amazon.com/BALLS-Takes-Some-Get-ebook/dp/B01LXPMYYM/)
-
-
+= [Hello World: Being Human in the Age of Algorithms](https://www.amazon.com/Hello-World-Being-Human-Algorithms-ebook/dp/B07BLHQMY9/)
