@@ -985,3 +985,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Nan: A Six Sigma Mystery](https://www.amazon.com/Nan-Sigma-Mystery-Robert-Barry/dp/0873896122/)
 - [BALLS: It Takes Some to Get Some](https://www.amazon.com/BALLS-Takes-Some-Get-ebook/dp/B01LXPMYYM/)
 = [Hello World: Being Human in the Age of Algorithms](https://www.amazon.com/Hello-World-Being-Human-Algorithms-ebook/dp/B07BLHQMY9/)
+- [The History of the Future: Oculus, Facebook, and the Revolution That Swept Virtual Reality](https://www.amazon.com/History-Future-Facebook-Revolution-Virtual/dp/B07J1Q7GVW)
