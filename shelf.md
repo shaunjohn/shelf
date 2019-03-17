@@ -988,3 +988,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The History of the Future: Oculus, Facebook, and the Revolution That Swept Virtual Reality](https://www.amazon.com/History-Future-Facebook-Revolution-Virtual/dp/B07J1Q7GVW)
 - [Emergent Strategy: Shaping Change, Changing Worlds](https://www.amazon.com/Emergent-Strategy-Shaping-Change-Changing/dp/1849352607)
 - [The Perfectionists: How Precision Engineers Created the Modern World](https://www.amazon.com/Perfectionists-Precision-Engineers-Created-Modern/dp/B07B6GCRZ6)
+- [The Big Nine: How the Tech Titans and Their Thinking Machines Could Warp Humanity](https://www.amazon.com/gp/product/B07P5TJGLJ/)
