@@ -989,3 +989,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Emergent Strategy: Shaping Change, Changing Worlds](https://www.amazon.com/Emergent-Strategy-Shaping-Change-Changing/dp/1849352607)
 - [The Perfectionists: How Precision Engineers Created the Modern World](https://www.amazon.com/Perfectionists-Precision-Engineers-Created-Modern/dp/B07B6GCRZ6)
 - [The Big Nine: How the Tech Titans and Their Thinking Machines Could Warp Humanity](https://www.amazon.com/gp/product/B07P5TJGLJ/)
+- [The Flinch](https://www.amazon.com/Flinch-Julien-Smith-ebook/dp/B00NLJHGOA/)
