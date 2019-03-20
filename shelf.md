@@ -991,3 +991,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Big Nine: How the Tech Titans and Their Thinking Machines Could Warp Humanity](https://www.amazon.com/gp/product/B07P5TJGLJ/)
 - [The Flinch](https://www.amazon.com/Flinch-Julien-Smith-ebook/dp/B00NLJHGOA/)
 - [Collective Courage: A History of African American Cooperative Economic Thought and Practice](https://www.amazon.com/Collective-Courage-American-Cooperative-Economic/dp/0271062177)
+- [How to Hide an Empire: A History of the Greater United States](https://www.amazon.com/How-Hide-Empire-History-Greater/dp/0374172145/)
