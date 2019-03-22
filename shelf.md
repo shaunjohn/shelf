@@ -993,4 +993,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Collective Courage: A History of African American Cooperative Economic Thought and Practice](https://www.amazon.com/Collective-Courage-American-Cooperative-Economic/dp/0271062177)
 - [How to Hide an Empire: A History of the Greater United States](https://www.amazon.com/How-Hide-Empire-History-Greater/dp/0374172145/)
 - [The Future of Humanity: Terraforming Mars, Interstellar Travel, Immortality, and Our Destiny Beyond Earth](https://www.amazon.com/Future-Humanity-Terraforming-Interstellar-Immortality/dp/B075FCJCTD/)
-
+- [She Has Her Mother's Laugh: The Powers, Perversions, and Potential of Heredity](https://www.amazon.com/She-Has-Her-Mothers-Laugh/dp/B07B5324LW)
