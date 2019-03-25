@@ -996,4 +996,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [She Has Her Mother's Laugh: The Powers, Perversions, and Potential of Heredity](https://www.amazon.com/She-Has-Her-Mothers-Laugh/dp/B07B5324LW)
 - [Touch: Five Factors to Growing and Leading a Human Organization](https://www.amazon.com/Touch-Factors-Growing-Leading-Organization/dp/1459728742)
 - [The Ideas That Made America: A Brief History](https://www.amazon.com/Ideas-That-Made-America-History/dp/0190625368)
-
+- [The Revolution Will Not Be Funded: Beyond the Non-Profit Industrial Complex](https://www.amazon.com/Revolution-Will-Not-Funded-Non-Profit/dp/0822369001)
