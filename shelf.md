@@ -997,3 +997,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Touch: Five Factors to Growing and Leading a Human Organization](https://www.amazon.com/Touch-Factors-Growing-Leading-Organization/dp/1459728742)
 - [The Ideas That Made America: A Brief History](https://www.amazon.com/Ideas-That-Made-America-History/dp/0190625368)
 - [The Revolution Will Not Be Funded: Beyond the Non-Profit Industrial Complex](https://www.amazon.com/Revolution-Will-Not-Funded-Non-Profit/dp/0822369001)
+- [Reinventing Jobs: A 4-Step Approach for Applying Automation to Work](https://www.amazon.com/Reinventing-Jobs-Approach-Applying-Automation/dp/1633694070)
