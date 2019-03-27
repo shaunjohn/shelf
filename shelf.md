@@ -998,3 +998,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Ideas That Made America: A Brief History](https://www.amazon.com/Ideas-That-Made-America-History/dp/0190625368)
 - [The Revolution Will Not Be Funded: Beyond the Non-Profit Industrial Complex](https://www.amazon.com/Revolution-Will-Not-Funded-Non-Profit/dp/0822369001)
 - [Reinventing Jobs: A 4-Step Approach for Applying Automation to Work](https://www.amazon.com/Reinventing-Jobs-Approach-Applying-Automation/dp/1633694070)
+- [Dear Founder: Letters of Advice for Anyone Who Leads, Manages, or Wants to Start a Business](https://www.amazon.com/Dear-Founder-Letters-Manages-Business/dp/1250195640)
