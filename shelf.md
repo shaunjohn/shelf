@@ -1000,3 +1000,5 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Reinventing Jobs: A 4-Step Approach for Applying Automation to Work](https://www.amazon.com/Reinventing-Jobs-Approach-Applying-Automation/dp/1633694070)
 - [Dear Founder: Letters of Advice for Anyone Who Leads, Manages, or Wants to Start a Business](https://www.amazon.com/Dear-Founder-Letters-Manages-Business/dp/1250195640)
 - [AI Superpowers: China, Silicon Valley, and the New World Order](https://www.amazon.com/AI-Superpowers-China-Silicon-Valley/dp/132854639X/)
+- [Letters to the Church](https://www.amazon.com/Letters-Church-Francis-Chan-ebook/dp/B07CF3ZHQ1/)
+
