@@ -1002,3 +1002,5 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [AI Superpowers: China, Silicon Valley, and the New World Order](https://www.amazon.com/AI-Superpowers-China-Silicon-Valley/dp/132854639X/)
 - [Letters to the Church](https://www.amazon.com/Letters-Church-Francis-Chan-ebook/dp/B07CF3ZHQ1/)
 - [The Future of Humanity: Terraforming Mars, Interstellar Travel, Immortality, and Our Destiny Beyond Earth](https://www.amazon.com/Future-Humanity-Terraforming-Interstellar-Immortality-ebook/dp/B07173C875/)
+- [How Smart Machines Think](https://www.amazon.com/How-Smart-Machines-Think-Press-ebook/dp/B07J9R6VKJ)
+
