@@ -1003,4 +1003,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Letters to the Church](https://www.amazon.com/Letters-Church-Francis-Chan-ebook/dp/B07CF3ZHQ1/)
 - [The Future of Humanity: Terraforming Mars, Interstellar Travel, Immortality, and Our Destiny Beyond Earth](https://www.amazon.com/Future-Humanity-Terraforming-Interstellar-Immortality-ebook/dp/B07173C875/)
 - [How Smart Machines Think](https://www.amazon.com/How-Smart-Machines-Think-Press-ebook/dp/B07J9R6VKJ)
-
+- [Where the Suckers Moon: The Life and Death of an Advertising Campaign](https://www.amazon.com/Where-Suckers-Moon-Advertising-Campaign/dp/0679740422)
