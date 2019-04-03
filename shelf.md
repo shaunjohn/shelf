@@ -1005,3 +1005,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [How Smart Machines Think](https://www.amazon.com/How-Smart-Machines-Think-Press-ebook/dp/B07J9R6VKJ)
 - [Where the Suckers Moon: The Life and Death of an Advertising Campaign](https://www.amazon.com/Where-Suckers-Moon-Advertising-Campaign/dp/0679740422)
 - [Army of None: Autonomous Weapons and the Future of War](https://www.amazon.com/Army-None-Autonomous-Weapons-Future/dp/0393608980/)
+- [Bold: How to Go Big, Create Wealth and Impact the World](https://www.amazon.com/Bold-Create-Wealth-Impact-World/dp/1476709580)
