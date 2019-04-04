@@ -1006,3 +1006,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Where the Suckers Moon: The Life and Death of an Advertising Campaign](https://www.amazon.com/Where-Suckers-Moon-Advertising-Campaign/dp/0679740422)
 - [Army of None: Autonomous Weapons and the Future of War](https://www.amazon.com/Army-None-Autonomous-Weapons-Future/dp/0393608980/)
 - [Bold: How to Go Big, Create Wealth and Impact the World](https://www.amazon.com/Bold-Create-Wealth-Impact-World/dp/1476709580)
+- [An Entrepreneurial University: The Transformation of Tufts, 1976-2002](https://www.amazon.com/Entrepreneurial-University-Transformation-Tufts-1976-2002/dp/1584654163/)
