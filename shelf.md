@@ -1008,3 +1008,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [Bold: How to Go Big, Create Wealth and Impact the World](https://www.amazon.com/Bold-Create-Wealth-Impact-World/dp/1476709580)
 - [An Entrepreneurial University: The Transformation of Tufts, 1976-2002](https://www.amazon.com/Entrepreneurial-University-Transformation-Tufts-1976-2002/dp/1584654163/)
 - [The Moth Presents All These Wonders: True Stories About Facing the Unknown](https://www.amazon.com/Moth-Presents-All-These-Wonders-ebook/dp/B01HL1CE5E)
+- [StarTalk: Everything You Ever Need to Know About Space Travel, Sci-Fi, the Human Race, the Universe, and Beyond](https://www.amazon.com/StarTalk-Everything-Travel-Sci-Fi-Universe-ebook/dp/B07H1VFRZZ/)
