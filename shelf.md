@@ -1010,3 +1010,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Moth Presents All These Wonders: True Stories About Facing the Unknown](https://www.amazon.com/Moth-Presents-All-These-Wonders-ebook/dp/B01HL1CE5E)
 - [StarTalk: Everything You Ever Need to Know About Space Travel, Sci-Fi, the Human Race, the Universe, and Beyond](https://www.amazon.com/StarTalk-Everything-Travel-Sci-Fi-Universe-ebook/dp/B07H1VFRZZ/)
 - [The Model Thinker: What You Need to Know to Make Data Work for You](https://www.amazon.com/gp/product/B07B8D3V9V/)
+- [Utopia for Realists: How We Can Build the Ideal World](https://www.amazon.com/Utopia-Realists-Build-Ideal-World-ebook/dp/B01MXDBTWM/)
