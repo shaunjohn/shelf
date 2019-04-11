@@ -1011,3 +1011,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [StarTalk: Everything You Ever Need to Know About Space Travel, Sci-Fi, the Human Race, the Universe, and Beyond](https://www.amazon.com/StarTalk-Everything-Travel-Sci-Fi-Universe-ebook/dp/B07H1VFRZZ/)
 - [The Model Thinker: What You Need to Know to Make Data Work for You](https://www.amazon.com/gp/product/B07B8D3V9V/)
 - [Utopia for Realists: How We Can Build the Ideal World](https://www.amazon.com/Utopia-Realists-Build-Ideal-World-ebook/dp/B01MXDBTWM/)
+- [Hold: How to Find, Buy, and Rent Houses for Wealth](https://www.amazon.com/HOLD-Find-Rent-Houses-Wealth/dp/0071797041/)
