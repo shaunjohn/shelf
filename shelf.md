@@ -1012,3 +1012,4 @@ Science](https://www.amazon.com/Not-Scientist-Politicians-Mistake-Misrepresent/d
 - [The Model Thinker: What You Need to Know to Make Data Work for You](https://www.amazon.com/gp/product/B07B8D3V9V/)
 - [Utopia for Realists: How We Can Build the Ideal World](https://www.amazon.com/Utopia-Realists-Build-Ideal-World-ebook/dp/B01MXDBTWM/)
 - [Hold: How to Find, Buy, and Rent Houses for Wealth](https://www.amazon.com/HOLD-Find-Rent-Houses-Wealth/dp/0071797041/)
+- [Predictive Marketing: Easy Ways Every Marketer Can Use Customer Analytics and Big Data](https://www.amazon.com/Predictive-Marketing-Marketer-Customer-Analytics/dp/1119037360/)
